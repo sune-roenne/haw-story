@@ -14,16 +14,16 @@ I don't know what this means, yet I am a hundred percent certain of 2 things:
 
 Thursday - April 11th, 2024 (morning)
 My alarm clock sounded at 5:50, and as I sat up to turn it off, it came to me what your business was with that man: you were going to kill him!
-And he deserved it, but I doubt that's why you were doing it. I think you were filling the void.
+And he deserved it, but I doubt that's why you were doing it. I think you were filling the void. I get that!
 
 
 Friday - April 12th, 2024 (morning)
 I just had the first dream, and I know that there will be more.  
-I have never attributed any real meaning to my dreams, other than my brain cleaning up whatever unfinished garbage is still laying on the heap at the end of the day and tossing it all into the great Pealla O' Mind. I have sometimes been tempted to submit excerpts of my dreams to some international Jungian dream-reader society and watch from the sidelines as it tore itself to shreds trying to make sense of 3-legged wooden babies rising from huge cream-cheese tubs, yelling for the drummer to go easy on the 'damn formaldehyde', when I knew damn well that they were the bi-product of interrupted conversations of the previous day (note to self: feel grateful for having colleagues that like to discuss other than realestate loans and family planning!). This dream was different. 
-First of all, it was in 3rd person. It centered around a young man, and a young woman. I was the woman, and at the same time, I wasn't. In that same manner, you were and weren't the young man John, but this was before you were John. A long time before! I could see everything the young woman saw, just a little from above. Like a CCTV recording of the daily drama of an insane asylmn ward. I could feel what she felt, yet I couldn't feel it at all, but I wanted things to pan out for her in the same way as if I could. 
+I have never attributed any real meaning to my dreams, other than my brain cleaning up whatever unfinished garbage is still laying on the heap at the end of the day and tossing it all into the great Pealla O' Mind. I have sometimes been tempted to submit excerpts of my dreams to some international Jungian dream-reader society and watch from the sidelines as it tore itself to shreds trying to make sense of 3-legged wooden babies rising from huge cream-cheese tubs, yelling for the drummer to go easy on the 'damn formaldehyde', when I knew damn well that they were the bi-product of interrupted conversations of the previous day (note to self: feel grateful for having colleagues that like to discuss things other than real-estate loans and family planning!). This dream was different. 
+First of all, it was in 3rd person. It centered around a young man, and a young woman. I was the woman, and at the same time, I wasn't. In that same manner, you were and weren't the young man John, but this was before you were John. A long time before! I could see everything the young woman saw, from above. Like a CCTV recording of the daily drama of an insane asylmn ward. I could feel what she felt, yet I couldn't feel it at all, but I wanted things to pan out for her in the same way as if I could. 
 I could do nothing to influence the events that occured. It was like watching a movie and screaming at the screen: "NO YOU DAMN FOOL, DON'T GO IN THERE!!!", knowing that she would anyway, in spite of all you said and did. Like a movie. Or a memory.
 I saw the events that led up to the rape, and foolish as they were, I knew that I would act in the exact same way if it were you and me now.
-I watched as they raped her... me. Taking turns. Making you watch. I felt that that thing grow. The thing that had been awoken from slumber on Wednesday. I knew it was growing inside of you as well. 
+I watched as they raped her... me. Taking turns. Making you watch. I felt that thing grow. The thing that had been awoken from slumber on Wednesday. I knew it was growing inside of you as well. 
 I felt every part of our revenge: every smashed skull, every torn out tongue and intestine pulled out from their dying corpses. Every eye gouched. Not in the kinesthethic sense. In the emotional sense. I felt EUPHORIC!
 THIS IS US! WE ARE RAGE!
 I suppose this doesn't bode well for the future, but I feel nothing in this regard. It's just a fact! Blue is cold, red is hot and our future is covered in blood. 
@@ -46,7 +46,7 @@ I guess I figured that you were the same place I am. That you are also waking up
 OR
 2. you are already dead
 
-I don't think you are dead. You are too damn sturdy to die on the way to the colosseum. I am not sure of all that you are - or maybe I am and don't remember - but I know that you are molten rage burning at a 4000 degree celcius. And I am molten rage.
+I don't think you are dead. You are too damn sturdy to die on the way to the colosseum. I am not sure of all that you are - or maybe I am and don't remember - but I know that you are molten rage burning at 4000 degree celcius. As I am molten rage.
 That must mean that you are not waking, and I have a feeling that THAT is very bad, because you should be by now. You must have been too damn zeroed in on your target, and I bet that you now know that there is something you are supposed to do; something that lingers in the back of your mind, but you have no idea what it is, because if you had even the faintest idea of what it was, the first thing you'd do was to look for me on the 8:04 train, and that means that I am going to have to find you!
 
 
