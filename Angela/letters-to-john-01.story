@@ -22,27 +22,27 @@ I just had the first dream, and I know that there will be more.
 I have never attributed any real meaning to my dreams, other than my brain cleaning up whatever unfinished garbage is still laying on the heap at the end of the day and tossing it all into the great Pealla O' Mind. I have sometimes been tempted to submit excerpts of my dreams to some international Jungian dream-reader society and watch from the sidelines as it tore itself to shreds trying to make sense of 3-legged wooden babies rising from huge cream-cheese tubs, yelling for the drummer to go easy on the 'damn formaldehyde', when I knew damn well that they were the bi-product of interrupted conversations of the previous day (note to self: feel grateful for having colleagues that like to discuss things other than real-estate loans and family planning!). This dream was different. 
 First of all, it was in 3rd person. It centered around a young man, and a young woman. I was the woman, and at the same time, I wasn't. In that same manner, you were and weren't the young man John, but this was before you were John. A long time before! I could see everything the young woman saw, from above. Like a CCTV recording of the daily drama of an insane asylmn ward. I could feel what she felt, yet I couldn't feel it at all, but I wanted things to pan out for her in the same way as if I could. 
 I could do nothing to influence the events that occured. It was like watching a movie and screaming at the screen: "NO YOU DAMN FOOL, DON'T GO IN THERE!!!", knowing that she would anyway, in spite of all you said and did. Like a movie. Or a memory.
-I saw the events that led up to the rape, and foolish as they were, I knew that I would act in the exact same way if it were you and me now.
+I saw the events that led up to the rape, and foolish as they were, I knew that I would act in the exact same way.
 I watched as they raped her... me. Taking turns. Making you watch. I felt that thing grow. The thing that had been awoken from slumber on Wednesday. I knew it was growing inside of you as well. 
-I felt every part of our revenge: every smashed skull, every torn out tongue and intestine pulled out from their dying corpses. Every eye gouched. Not in the kinesthethic sense. In the emotional sense. I felt EUPHORIC!
+I felt every part of our revenge: every bashed-in skull, every torn out tongue and intestine pulled from their dying corpses. Every eye gouched. Not in the kinesthethic sense. In the emotional sense. I felt EUPHORIC!
 THIS IS US! WE ARE RAGE!
-I suppose this doesn't bode well for the future, but I feel nothing in this regard. It's just a fact! Blue is cold, red is hot and our future is covered in blood. 
-I only feel one thing: I miss you, and I am excited about seeing you again. Not the shabbily clothed young killer I saw on the train - well also him - but a lot more than him, because he is still not very... you! 
+I suppose this doesn't bode well for the future, but I feel nothing in this regard. It's just a fact! Blue is cold, red is hot and our future is covered in blood, as I suppose our past is as well. 
+I miss you, and I am excited about seeing you again. Not the shabbily clothed young killer I saw on the train - well also him - but a lot more than him, because he is still not very... you! 
 
 
 Wednesday - April 17th, 2024 (morning)
 Dream no. 2! 
-WHAT THE FUCK IS IT WITH MEN AND RAPE?! Always the God-damned rape! And this time, you got it too, but I guess I don't have to tell you that.
+WHAT THE FUCK IS IT WITH MEN AND RAPE?! Always the God-damned rape!
 I'd say we got around 16 of them afterwards.
-You know how you can tell the good guys from the bad guys in a story filled to the brim with killings, torture and dismemberment? The good guys are the ones who don't rape!
-And in our story, the good guys are the ones that ultimately lose in the fight against a seemingly unending supply of low-lifes, tag-alongs and downright bastards.
+You know how you can tell the good guys from the bad guys in a story filled to the brim with killings, torture and dismemberment from every player? The good guys are the ones who don't rape!
+And in our story at least, it seems that the good guys are the ones that ultimately lose in the fight against a seemingly unending supply of low-lifes, tag-alongs and downright bastards.
 They smashed your head in with a stone, and I was glad, because then you didn't have to watch as they tied me to a stake and roasted me over the fire like a fucking pig for what must have been hours!
 
 
 Friday - April 20th, 2024
-I guess I figured that you were the same place I am. That you are also waking up, and that you would find me. I know for a fact, that there is no world in which you would not find me, once you started waking, and that must mean 1 of 2 things:
+I guess I figured that you were the same place I am. That you are also ...'waking up', and that you would find me. I don't know how but I know for a fact, that there is no world in which you would not find me, once you were awake, and that must mean 1 of 2 things:
 
-1. you are not waking
+1. you are not waking up
 OR
 2. you are already dead
 

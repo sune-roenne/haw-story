@@ -95,9 +95,9 @@ As Albert says round 4 and 5, the man's... "John's"... facade visibly cracks for
   
   
 - (CEO) "Is he clean?"
-- (John) "Clean enough"
+- (John) "Clean enough, sir"
 - "Had he been with Angela?"
-- "Once, about 3 months ago, but I am 95% on it being unrelated to her death"
+- "Once, about 3 months ago, but I am 95% on it being unrelated to her death, sir"
 - "Anything else?"
-- "Nothing important"
+- "Nothing important, sir"
 - "Alright" 
