@@ -1,5 +1,5 @@
 - (John) "You wanted to see me"
-- (CEO) "Did Angela kill one of our infrastructure engineers the week before her dead in order to gain access to a darkweb platform, through which she was hoping to establish contact with you?"
+- (CEO) "Did Angela kill Bobby of our infrastructure engineering team the week before her dead in order to gain access to a darkweb vigilante platform, through which she was hoping to establish contact with you?"
 - "No"
 - "..." [staring]
 - "..." [staring]
@@ -10,7 +10,7 @@
 - "..." [staring]
 - "There may be ways in which I could force you to answer"
 - "I don't think there are, sir" [pensive]
-- "Is the dead of the infrastructure engineer the week preceding Angela's death directly related to same?"
+- "Is Bobby's death the prime reason for Angela being stabbed to death in a FinaLibre toilet?"
 - "No, sir"
 - "..." [staring]
 - "..." [staring]
@@ -20,7 +20,7 @@
   "What's your angle in all of this?"
 - "I'm not sure, sir"
 - "Estimate"
-- "...love"
+- "...love, I think... sir"
 - "There is no happy ending to being in love with a dead girl. You are aware of this, right?"
 - "Painstaikingly so, sir"
 
@@ -31,8 +31,8 @@
 - "I suspected as much, sir"
 - "When you are done with this operation, I want you to focus all of your attention on another specific case...
    I have a really bad feeling about our end-of-Summer party in two weeks. I don't know what the play is, but I am almost certain someone is planning something very bad, and I want you to stop them by whatever means necessary"
-- "Cancelling is out of the question"
-- "At this point... without any real information about players involved and their intentions... it would only drive them further into the dark... if my gut-feeling is on-point, it would postpone at best, not deter"
+- "Cancelling is out of the question?"
+- "At this point, it wouldn't do us any good... without any real information about players involved and their intentions... it would only drive them further into the dark... if my gut-feeling is on-point, it would postpone at best, not deter"
   "Do we have an agreement?"
 - "Yes, sir"
 
