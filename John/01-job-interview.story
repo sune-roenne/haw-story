@@ -73,3 +73,4 @@ As John exits the main entrance, he thinks to himself that:
 - he should find a quiet place somewhere in the forrest on his way back to the train-station to replay and hang on to as many details as possible from the previous 30 minutes, since he suspects that something important may depend on it in the near future
 
 No more than 18 hours later, John finds himself walking back into the FinaLibre building, to discover just how right he was about the latter.  
+
