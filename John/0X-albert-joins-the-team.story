@@ -16,11 +16,11 @@ With the concentration of an NFL-kicker about to clinch an overtime-victory, Alb
 
 - (Albert) "AAAWWWW FUUUUUCK!" [dropping to the ground in pain, rolling while grabing his right foot]
 - (John) "What the hell is wrong with you? I said ribs not hips!" [on his back, arching hips of the ground]
-  "Jeesus... Right where your basement-weirdo kick me yesterday!"
+  "Jeesus... Right where the basement-guy kicked me yesterday!"
   "I damn well hope you got it out of your system now, because if you kick me again, we're fighting"
 - (Albert) "I'm done, I'm done"
 
-In reality, being kicked around while being in plank had been a regular part of his training at one part of his life, and he was definitely exagerating the intensity of the pain he felt, but he knew what kind of gamechanger the look's and screams of a person in agonizing pain can be, when inacting pay-back, and he figured he owed the guy at least that much.
+In reality, being kicked around while being in plank had been a regular part of his training at one part of his life, and he was definitely exagerating the intensity of the pain he felt, but he knew what kind of gamechanger the look's and screams of a person in agonizing pain can be when enacting pay-back, and he figured he owed the guy at least that much.
 
 - (John) "Was it worth it?" [getting up]
 - (Albert) "Not really" [also getting up]
@@ -37,13 +37,13 @@ In reality, being kicked around while being in plank had been a regular part of 
 - (Albert) "It's Investment Compliance, and I like working in Investment Compliance"
 - (John) "Spoken like the kind of guy who asks for seconds when broccoli is on the menu!"
 - (Albert) "I like broccoli! Broccoli is good for you!"
-- (John) "Yeah, and if you eat it everyday of your life, then one day - the day you die - you're going to look back on a life-full of eating broccoli and wonder: 'I wonder if that's all there was, or if maybe I could have joined a cool special ops team instead of eating FUCKING BROCCOLI'"
+- (John) "Yeah, and if you eat it everyday of your life, then one day - the day you die - you're going to look back on a life-full of eating broccoli and wonder: 'Was that all there was? Should I maybe have joined a cool special ops team instead of eating FUCKING BROCCOLI'. But by then, it will be too late!"
 - (Albert) "That argument was bad, and you should feel bad!"
 - (John) "Alright, then let's try this instead: have you ever wondered how you ended up on Angelas doorstep?"
 - (Albert) "Of course not, I KNOW how I ended up there: she texted me with the time and place!"
-- (John) "And did you ever wonder how Angela ended up with your telephone number?"
+- (John) "And did you ever wonder how Angela ended up with your phone number?"
 
-Indeed, Albert had wondered about that bit on a few occasions, since she - to the best of his knowledge - wasn't friends with any of his clients, but he decided to maintain his position in opposition to John's suggestions a little longer.
+In truth, Albert had wondered about that bit on a few occasions, since she - to the best of his knowledge - wasn't friends with any of his regulars, but he decided to maintain his opposition to John's suggestions a little longer.
 
 - (Albert) "Sure, she got it from a friend of hers, who also happened to be a satisfied costumer of mine"
 - (John) "And you know this?"
@@ -53,4 +53,58 @@ Indeed, Albert had wondered about that bit on a few occasions, since she - to th
 
 This latter part John knows, very likely isn't true but John deems it easier to draw out Albert's interest, if Albert believes his part in the story larger than it actually is.
 
-- (John) "I have come by information that suggests, that Angela has suspisions regarding the sincerity of your OCD-disguise, that she conducted a series of rather peculiar psychological and social experiements, in order to prove or disprove her conjectures. I don't know why she felt the need for a conclusive test, but this is one of the things I am asking you to help me find out, because you weren't the only person Angela experiemented on, and I want to find out if her experiements contain the key to understanding why she had to die, but there is too much data, too little time, and my understanding of the employees at FinaLibre is too limited for me to be able to work through the information I have found, in order to prevent a next killing, if a next kill is indeed in the making"
+- (John) "I have come by information that suggests, that Angela had suspisions regarding the sincerity of your OCD-disguise and that she conducted a series of rather unusual psychological and social experiements, in order to prove or disprove her conjectures. I don't know why she felt the need for a conclusive test, but this is one of the things I am asking you to help me figure out, because you weren't the only person Angela experiemented on, and I want to find out if her experiements contain the key to understanding why she was murdered. But there is too much data, too little time, and my knowledge of the employees at FinaLibre is too limited for me to be able to work through the information I have to prevent a next killing, if a next kill is indeed in the making"
+
+- (Albert) "Elaborate on the experiments"
+- (John) "She conducted at least 3 experiments on you. There may have been more, as she wasn't very good at keeping to a single method in scrambling her data, but I'm pretty sure that you are the person she code-named 'Uncanny Al'. 
+- (Albert) "Uncanny Al?!"
+- (John) "It's just a code-name... She might have pulled them out of a hat or chosen them at random from her favourite sub-reddit. Who knows? Does it matter?"
+- (Albert) "It does to me!"
+- (John) "Then it should content you to know that your code-name was on the endearing end of things. If anyone has a reason to be upset, it would be 'Dickless Doug'!"
+- (Albert) "Who's Dickless Doug?"
+- (John) "Hell if I know! I'm no good with names, and I haven't even met a quarter of the employees at FinaLibre. But I bet you have!"
+- (Albert) "Woah, let's stick to the subject at hand: 'Uncanny Al'. How do you know that's me?
+- (John) "Well, there's the matter of the tests she carried out... They are all tests I would deem rational based on what you told me last week."
+  "About 6 months ago - over the course of 2 weeks - she would commit some minor act of aggresion against Fong Shui, and move something around in the visible vicinity of the Investment Compliance team. We are talking stuff like re-arranging a post-it such that it was just slightly misaligned to the other post-its on the board, rotating a single desk so it was ever so little at an angle to the desks around it. Things like that, that most people wouldn't notice, but she suspected would drive someone with an OCD up the wall"
+- (Albert) "I never noticed"
+- (John) "I know, and Angela was pretty sure you wouldn't"
+  "She felt confident that your whole persona was a massive spiel to hide something else, and though she never said it in so many words, I believe her next 2 tests were designed to figure out what you were hiding"
+  "I think of the first of them as the 'Money-hungry-bastard'-test. On two separate occasions, she presented you with the potential for an extra-payoff in such a way that you were sure to come across them: 
+    - in the shared folder containing the companies official guidelines on the specifics regarding taxation of capital gains on Indonesean Bonds, she placed a signed document by the CEO of the company, that he not only was aware that an investment advisor to one of the Asian fonds was working maliciously in tax-optimizing profits, but was helping to funnel the proceeds of the operation out of the fund"
+- (Albert) "I do a complete audit of the Indonesean funds once every 3 months"
+- (John) "Which I'm sure she knew, as I am equally sure she knew that you would be doing them alone, and therefore was likely to be the only person to come across said document"
+- (Albert) "I remember that document! It had me sweating HARD, trying to figure out what to do. On one hand, it looked kinda authentic, but it didn't seem likely that Donnie would risk damaging the public image of the company for chump change from a tax-fraud scheme. I didn't want to draw attention to myself, but I felt like the least I could do was to tell someone about it anonymously, and therefore put a print-out of the document in Donnies office with a note explaining that I didn't believe it to be true but just thought he should know about it"
+- (John) "Yes, Angela thought that was cute. Naïve, but cute"
+  "She was pretty convinced that you weren't working a private money angle, but nonetheless went ahead with the other money-test, and put a total of 200 EUR in 10 EUR bills under a stack of paper that she expected you to come across..."
+- (Albert) "Which I did! I didn't take them... I just left them off to a side where their rightful owner was more likely to find them"
+- (John) "She liked that part as well, though in her notes on the experiment she did put in a lot of swearing and cursing herself for forgetting what type of greedy bastards work in Finance. It would seem that not everybody lived up to the same moral standard as you"
+- (Albert) "I could have told her that much!"
+- (John) "This is where she broadened her search for the driving mechanism behind your character, and started hitting you with links to various internet-sites promoting very specific interests. The ones she could safely conceal under the guise of being work-related, she sent to you as emails from what seemed like legit businesses, and made sure to tweak the corporate spam-net to allow them through."
+- (Albert) "I remember thinking that I had started to receive some pretty spammy mails for a period of about 4 weeks, and then they seized"
+- (John) "But that wasn't all. She also did on-the-fly manipulation of your facebook feed, exchanging 1 out of 10 commercial with one that linked to sites she created"
+- (Albert) "I didn't notice any of that"
+- (John) "I believe she didn't expect you to notice. There were other ways in which she manipulated the content you got online, but it all came down to the same thing: she wanted to see what got your attention"
+- (Albert) "I'm afraid to ask..."
+- (John) "So I'll save you the trouble. You only ever showed interest in a pretty sketchy site selling off-brand Tramadol out of Spain, a news-article about the spread of STDs among young women and a 'For Her'-sex-toys-shop, specializing in BDSM equipment in bright pink"
+- (Albert) "Oh God! That was for a client I had who was too shy to..."
+- (John) "I can extrapolate... Don't worry about it" [smiling]
+- (Albert) "Alright. So Angela suspected I was hiding something, carried out a series of weird tests, reached the conclusion that I was a male prostitute, but what I don't understand is: why?"
+  "Why go through all this trouble? Why not just jump directly to spying on me? And why oh why, with a pretty strong suspision that I was whoring on my own time, and not a threat to the company in any ways, did she go to the trouble of contracting me?"
+- (John) "I think her interest was more or less only in the method, and in devising a set of tests that could be applied on a large scale and yield non-trivial information, and to that end, it's kinda hard to scale up manual survaillance. Among her notes, are also transcripts from what appear to be therapist-sessions with employees at the compary, and I have a feeling that they are about more than just scientific curiosity. This is the part where things become very speculative on my end, but I have a feeling that Angela was a very lonely person; that may have been the reason for having a go with you. Or maybe she wanted to know what made you so good that you were able to make money from turning tricks. Along with her notes on the experiments she performed on you, was also what I think is her final conclusion on the matter of you. I only read the first couple of lines, and then it felt wrong to read on, but I still have the paper if you want to read it...?"
+- (Albert) "I'm not sure I'm ready to read whatever is on that paper"
+- (John) "Maybe you will be some day"
+- (Albert) "So... What exactly is it that you are asking me to do?"
+- (John) "Well, as I'm sure you've figured out, the only reason I got hired was, because the CEO... the guy with the office..."
+- (Albert) "Donnie"
+- (John) "Yes, that guy... He wants me to do an under-the-radar investigation into who murdered Angela, why she was murdered and most importantly: if there is any risk that another murder will happen or the company and/or it's employees will be attacked in any other way. He has specifically asked me to keep a very low profile on the investigation, so as not to cause panic, but you already know about it, and now that we have performed the old Kong Fu ritual of 'Kong-da-youh-fik-jaan' - hard knocks, shared journey - you are bound by honor to help secure success in my quest"
+- (Albert) "Yeah... That last part is bull-shit!" [squinting eyes]
+- (John) "Indeed it is, but it will do you good to do something that benefits the Old Brotherhood of Man... I mean, you are of course benefitting the Sisterhood of Woman one customer at a time... I'm not saying that doesn't count for anything, but this is more the thing that could make a real hero out of you... Like Batman!"
+- (Albert) "Alright, I'm in. Are we going to be a 2-man-army or are you planning on enlisting more soldiers?"
+- (John) "Well, nothing final, but I've been thinking about asking a third member to join..." [starts walking]
+- (Albert) "Yeah? Who?"
+- (John) "Maybe we should discuss that at a later point in time... Nothing's certain yet..." [speeds up his pace]
+- (Albert) "Who's the guy??!"
+- (John) "Well... do you know that guy who has his own office in the basement...?"
+- (Albert) "You've gotta be kidding me? He's as reliable as a shipload of nitro-glycerin in a storm!"
+
+   
