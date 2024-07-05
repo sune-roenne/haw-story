@@ -1,3 +1,0 @@
-- (Donnie) "You know the routine. Phone and any other technology in the box"
-- (John) "Yes sir"
-- (Donnie) "Alright. Take a seat"

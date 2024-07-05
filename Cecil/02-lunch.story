@@ -1,6 +1,6 @@
 - "Hey try-hard, are you coming to lunch?"
 - "Sure... I'm Cecil by the way"
-- "I know, {ACBOSS} introduced you yesterday... which you should know... seeing as you were there and all"
+- "I know, Frank introduced you yesterday... which you should know... seeing as you were there and all"
 - "... and you are...?" [Expectantly]
 - "Hungry AF" [Throws up loud laugh]
  "JK... relax, it's all in good fun... I'm Carol"
