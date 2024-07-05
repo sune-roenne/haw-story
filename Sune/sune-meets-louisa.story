@@ -112,4 +112,89 @@ Carol knocks on the door to Sune's office in the basement, and when there is no 
 The sound of Louisa's voice, makes Sune look up immediately. 
 
 - (Sune - thinking) "Christ, she even looks like her... then!"  
+  "..." [kind of staring]
   
+- (Carol) "Well, you know I always love hanging around you Sune... There's nothing quite like it for making one question ones own sanity, but I have a really interesting appointment with re-counting our stock of paper clips, so..."
+- (Sune) "Sure sure" [taking his eyes off Louisa only briefly, to look distantly at Carol]
+- (Carol) "Will you be alright with me leaving you here? Here is all kinds of weird, but he's harmless"
+- (Louisa) "Of course. Thank you so much for the chat and the tour... well just... thank you"
+- (Carol) "..." [smiling at Louisa, as she turns around and exits the room]
+
+- (Sune) "I'm sorry to hear about your loss... John... That wasn't his name though, but I'm no good with names... mind if we call him John?"
+- (Louisa) "That's fine... And thank you" [smiling]
+- (Sune) "Would you feel better if we talked outside in the sun-light?"
+- (Louisa) "Here or there doesn't make any difference to me. Why do you ask?"
+- (Sune) "Well, it's just that you are a totally normally sized woman, and I'm this super-masculine and over-powered man... Don't get me wrong: Carol is right about me being harmless and all, but how would you know that, and I wouldn't blame you if you wanted to be out where people could see us and all... I have a daughter who is grown up now, so I'm used to worrying about what women must do to stay safe"
+- (Louisa) "..." [looking him over, inspectingly]
+  "Yeah... you don't scare me"
+- (Sune) "..." [looking at her confused, then looks down at himself]
+  "Ah, it's because I'm wearing my nerd-fit today... If I had brought my slav-uniform - real Adeedas and gold chain - you would have been hella scared"
+- (Louisa) "I find that a little offensive... My father's half Bulgarian"
+- (Sune) "..." [leans in over his desk and draws the items there closer to his chest as if to protect them against theft, all while maintaining a suspicious look at Louisa]
+- (Louisa) "Ha ha ha" [loud genuine laugh]
+  "You are a funny man!"
+- (Sune) "Yeeeahhhh" 
+   "Speaking of John"
+- (Louisa) "Which we weren't"
+- (Sune) "Yeah, you kinda got me there I suppose, but I figured one of us had to bring it up, and..."
+- (Louisa) "You know, I'm not sure one of us does. Carol thaught it would be a good idea to talk to you for some reason, but I'm not sure it was related to John... Not directly anyways"
+  "We could of course call her and ask, but that seems a little immature"
+- (Sune) "'Help Carol, we forgot how to talk'" 
+- (Louisa) "Yes, like that. How about we see if we can't solve this riddle by working together. Suggest me 3 different topics - all related to you personally - and none of them related to John, I'll pick one of them, and then we'll take it from there." 
+- (Sune) "Alright... Let me think... Otherwise I'll just pick whatever I was thinking about, and that might be un-interesting..."
+...
+- (Sune) "Ok. I've got it. In front of you are three doors:
+  1. Surviving in the aftermath of nuclear war in the nuclear family: a personal tragedy from modern family life
+  2. My theories on how Hollywood budget cuts has ultimately caused the death of the explorative conversation and eroded social coherence
+  3. My theories on how early childhood trauma brough on by extreme asthma attacks, has cast a long shadow on my workout-routine well into my early middleage"
+
+- (Louisa) "Wow, those are quite the options... Well, I don't care about your asthma attacks to be honest, and although we could probably have an intense debate about subject #2, I'm going to see what's behind door #1. Alex, I choose door #1 and a tale about a broken marriage"
+- (Sune) "I thought you would... Ok, so have you ever noticed how limited our range of conversation has become? On most topics there is a very limited set of responses that people expect you to choose from, and when the conversation is between a man and a woman, the options become even more limited, almost all of them along the line of some light banter with an undertone of..."
+  "Wait a minute...!"
+  "..."
+  "Why would you choose the one with the divorce? I just threw that one in there to make three! I was sure you would go for 2, and to be honest, I'm glad you didn't go for 3, because that is still traumatic to me... Nobody ever chooses the first option!"
+- (Louisa) "Well funny man, It's my show, and I chose door number 1, now get on with the tale" [taking a seat, leaning back in the chair and gesturing with her hands for him to get on with the show]
+- (Sune) "Well alright... Let me just rewind my head... I sort of had the first 5 minutes of conversation-theories all ready..."
+  "Ok... I met my X-wife when we were 22" [crossing his forearms in an X]
+- (Louisa) "What was that?"
+- (Sune) "The X... yes... Well, technically we are not really divorced... It's just easier that way legally, if I should pass away or whatever... We've been living apart for 2 years now and rarely talk, but legally we are still married, so it's really not right to call her my ex-wife - like spelled with an e and an x - but if I call her my X-wife..." [crosses forearms again]
+  "most people naturally assume that's what I meant, and the rest of them get to wonder what the X means... Is it like the 'X-men' or maybe like 'X marks the spot'? In this day and age, where any answer is right at your fingertips, that kind of mistery may mean a little to some people"
+- (Louisa) "Ok, I see that. And she's totally fine with this?"
+- (Sune) "Well, it's really most likely to affect her in any case... without being too dramatic about it, it's fair to say that the likelyhood of her outliving me is... massive. There are statistics around, that clearly detail that people with ADHD have a significantly shorter expected lifespan than normal folks, and if I didn't have ADHD, I might have known just how many years 'significantly' means in this context" [looking at Louisa sternly]
+  "Well anywho, I told her at some point, that she only has to ask for a divorce and we'll make it happen, but she's a pretty practical woman, and so far she hasn't. Makes no difference to me"
+  "Now, where were we... Ah yes, about a year after I met her, she gave birth to our daughter. That was... pretty wild actually. I cried and all" [making convincing gestures with his eyes]
+- (Louisa) "A lot of people do that at the birth of a child... You are allowed to I think" [smiling]
+- (Sune) "Ah yes... Time is really weird... I remember how I felt when she was just a baby, and I used to go for these long walks at 5 o'clock in the morning... It was the Summer... She would only sleep when she was being driven in her carriage... So I would take these long walks of up to 2 hours, so my girlfriend - we weren't married then - could sleep. And I had dreams... for her! I wanted her to be happy and have a good life... Which doesn't really express what I'm trying to say... I wanted her to be whole, if that makes any sense... I've always felt empty of some sort... not entirely soulless, but not entirely not soulless... and in some unarticulated way, I thought I could hug, and dance and sing her whole..."
+- (Louisa) "..." [now taking on a serious look]
+  "Go on... I think this is what we came for"
+- (Sune) "If we just take a snapshot of that instant... of me singing to our daughter in the living-room of 'then' and hang it on our mental board... And then I'll progress time... And 5 years later, 3 became 4 as my son was born and by then, my X-wife and I had already separated for the first time, but we ended up moving back together after a year... And in that period... leaving my daughter and X-wife when I came to visit... It made me so damn sad... I had no more than gone out of the door before I started bawling"
+  "...and 30 something years of living with an undiagnosed mental disorder was beginning to take it's tool I suppose, and though I didn't call it that back then, I was becoming more and more ridden with anxiety... about the kids, finances, the world at large even... And let's stop to take another mental snapshot, of me walking with my son in his carriage when he was a baby... It's fall and he's sleeping, and it's gotten dark outside, I walk by this villa, where the hedge has just been planted, so I can see directly into the living room, and the family is having visitors over, and it seemed to me like what family bliss is like, and I thought that if I worked hard for it, that's what we would have some day... And I would have peace"
+  "...and the years fly by in a blur, and my routines and behaviour gets more and more erratic... Get up at 3:30 to go into work, work out, at the desk at 7:00... Or working long hours and coming home at 23:30 in the evening"
+  "and disappointing my wife in so many ways... And all the time feeling scared to death... Every day was just about getting by..."
+  "until I can't take it more, and runs away... That's the second time we move apart... and the one that really took a toll on my X-wife... And I remember arriving at the realization during that period, that I would never have the kind of peace and family blizz where people come over for on a dark Autumn evening..."
+  "And we moved back together, but I had broken something in my wife, that wouldn't heal... But I didn't see that then... That our third act was just an ending drawn out... You know, when one part of a relationship draws a line in the sand like 'you have screwed me over too many times, and this is a line that will not be crossed'... the line can be moved closer to other person, and more lines can be drawn... I think that's a pretty good sign that a relationship is over... Of course, I didn't see that then"
+  "And now, looking back, I have a wall full of snapshots and broken dreams and broken promises, and I know that I am totally the one who hung up those photos and broke those dreams, but it feels like I'm living in a world that has gone under... Like I passed out drunk before the party got started and wake up now that everybodys leaving, and I have this constant impulse that I should fix it, but there is nothing I can do to fix what was broken, and I can't move on... I don't feel like I belong out in the world anymore"
+  "Shit, I think that's as close as I come to explaining it... Like falling through the cracks of time, and now living just outside of space and time"
+  "And I really don't like it here... I feel lost... But I'll endure it, if only I know that my children will be alright... that having me as a father hasn't irreversably damaged them..."
+  "I'm not one to give anyone advice on whether or not people should have kids... Only thing... People have a tendency to talk like: 'I deserve to have kids'... and of course they do, that's all you know before... Hell, when my X-wife got pregnant at 22, it wasn't something we had explicitly planned on, but at least on my part, I felt like 'Why the fuck shouldn't I be able to be a good parent?'... And it's only when you have kids you realize that you had it all wrong... It's not about whether you deserve to have kids, but whether your kids deserve be stuck with you as their parent. And..."
+  "... " [throws up his hands in a 'what-do-I-know'-gesture]
+
+Throughout the most of his flashpoint trip down memory lane, Sune had been staring into the desk in-front of him. Only now, when he feels like his story has been told, does he look up at Louisa, and realizes that she has gone pale and is sitting as if frozen in place. 
+
+- (Sune) "Are you alright?"
+  "You know, the story is over now... I know I am a really great story teller, and you are probably preparing for a gut-punching twist... like in a Hollywood sob-story... but there's no death or anything... both my kids are alive and doing better than they have in years, for all I know... I don't see them often, but I do offer to hang out with them... they are just growing old... you can relax now" [said with a smile, but also a little worried]
+- (Louisa) "I'm glad your kids are alright" [smiling]
+  "And I think I know why Carol wanted me to come here"
+  "Thank you for sharing your story with me. I don't feel like telling you what it did to me... hearing your story... And I'm not sure I know that myself... yet..."
+  "... but that's not what you need anyway. What you need, is for somebody to take you out into the world, and show you that it's still there... And that's exactly what I am going to do!"
+  "Do you dance?"
+- (Sune) "I only know salsa"
+- (Louisa) "Perfect! I wouldn't know salsa from shanolam and that means that you can teach me, and somehow, I think you find comfort in that role"
+  "Are you through with whatever work you were doing when I came here, or do you need to finish up?"
+- (Sune) "Oh, I was just planning another setup for scaring the shit out of new hires... Nothing that can't wait" [dismissive gesture with hands]
+- (Louisa) "..." [looking at him questionly and a little worried, face expressing: 'You are kidding, right?']
+
+  
+  
+  
+
