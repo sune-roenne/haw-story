@@ -1,4 +1,4 @@
-Angela is sitting in the train, commuting to work, when suddenly, the world freezes... Not in the sense of getting cold, but in the sense that the train's movement is completely halted from one moment to the next. At the same time, every passanger in train become inanimate. It's as if someone clicked the pause button, but the world forgot to include Angela in the pause-command.
+Angela is sitting in the train, commuting to work, when suddenly, the world freezes... Not in the sense of getting cold, but in the sense that the train's movement is completely halted from one moment to the next. At the same time, every passanger in the train becomes inanimate. It's as if someone clicked the pause button, but the world forgot to include Angela in the pause-command.
 
 - (Angela) "I'm dreaming!"
   "Wait... I said that out loud, didn't I?"
@@ -9,20 +9,20 @@ Angela is sitting in the train, commuting to work, when suddenly, the world free
 Angela takes out her cell phone and checks the date on the display: Wednesday - April 10th - 2024. 
 
 - (Angela) "That's today, isn't it?"
-  "Uuuh, I remember that guy! I have only ever seen him once on this train"
+  "Uuuh, I remember THAT guy! I have only ever seen him once on this train"
   "Ok, so the 'when' is today...or yesterday... How the hell do I determine the time OUTSIDE my dream"
 - (Brain) "Who cares?"
 - (Angela) "Alright... I kinda thought this was my show, but alright"
   "So... Here we are, in a situation I have recently experienced, and you have brought me here..."
   "You've brought me here because I missed something, right?"
-  "Because that's what dreams are about... The brain does a complete garbage collection of the heap and cleans out any interrupted and/or unfinished thoughts, and at this point in my day, I left something interrupted"
+  "Because that's what dreams are about... The brain does a complete garbage collection and cleans out any interrupted and/or unfinished thoughts, and at this point in my day, I left something interrupted"
   "Am I right?"
   "..."
   "Look Brain, I don't negotiate with terrorists... Either you're in the dream, and you ping/pong with me and you get to have your little passive/agressive outbursts, or you're out and you stay out"
   "..."
   "Alright, just remember that you asked for it"
-  "DOES A TREE MAKE A SOUND IF IT FALLS IN THE FOREST AND NO-ONE IS AROUND TO HEAR IT?" [shouting]
-  "AND WHAT IF IT DOESN'T SO MUCH FALL AS GENTLY LANDS ON IT'S BUTT?"
+  "DOES A TREE MAKE A SOUND IF IT FALLS IN THE FOREST AND NOONE IS AROUND TO HEAR IT?" [shouting]
+  "AND WHAT IF IT DOESN'T SO MUCH FALL AS GENTLY LAND ON IT'S BUTT?"
   "DO TREES EVEN HAVE BUTTS? I KNOW THEY HAVE BUDS, BUT DO THEY HAVE BUTTS?"
   "AND WHAT IF THERE IS SOMEONE AROUND TO HEAR IT, BUT THE PERSON IS DEAF AND..."
 - (Brain) "Oh my God, what the hell is wrong with you?"
@@ -34,17 +34,17 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
 - (Brain) "I'm OUT! Goodbye"
 - (Angela) "Good riddance! I can't stand people - or brains - who think you can have it both ways. Have your cake and eat it too. Now, that gives me an idea..."
   "I will close my eyes, and think about chocolate cake with chocolate frosting..."
-  "It worked! But look at that thing, not even in my dreams could I win a bake-off"
+  "It worked! But look at that thing, not even in my dreams could I win a bake-off, huh?"
   "But... who cares? This one is for science"
   "TONIGHT LADIES AND GENTLEMAN, WE WILL ANSWER THE AGE-OLD QUESTION: 'IF YOU EAT AN ENTIRE CHOCOLATE CAKE IN YOUR DREAMS, WILL YOU WAKE UP AND BE FAT?'"
   "AND... TO HELP US ANSWER THAT QUESTION, HERE IS THE LOVELY AAAAANGEEELLAAAAAA" [clapping]
-  "AND NOW... IF THE AUDIENCE WOULD PLEASE SHUT THE FUCK UP AS LOVELY ANGELA ATTEMPTS TO EAT THIS WHOLE CAKE IN ONE GO... Drum-roll please"
+  "AND NOW... IF THE AUDIENCE WOULD PLEASE SHUT THE FUCK UP AS LOVELY ANGELA ATTEMPTS TO CRAM DOWN THIS WHOLE CAKE IN ONE GO... Drum-roll please"
   [drum-roll]
-  "AND THERE YOU HAVE IT LADIES AND GENTLEMEN, SHE'S DONE IT! LET'S HEAR FROM THE LOVELY ANGELA HOW SHE FEELS"
+  "AND THERE YOU HAVE IT LADIES AND GENTLEMEN, SHE'S DONE IT! LET'S HEAR FROM THE LOVELY ANGELA HOW SHE'S DOING"
   "ANGELA! HOW DO YOU FEEL RIGHT NOW?"
   "Well Mike, I feel like I have just swallowed an entire chocolate cake... And I don't even like cake... bu hu... I think I'm going to be sick!"
   "ISN'T SHE JUST A TREAT LADES AND GENTLEMEN!?"
-  "WELL, THAT'S IT FOR TONIGHT LADIES AND GENTLEMEN, BE SURE TO CHECK IN AGAIN WHEN WE WAKE UP, TO DISCOVER IF LOVELY ANGELA IS NOW FAT ANGELA. UNTIL NEXT TIME!"
+  "WELL, THAT'S IT FOR TONIGHT, BE SURE TO CHECK IN AGAIN WHEN WE WAKE UP, TO DISCOVER IF 'LOVELY ANGELA' IS NOW 'FAT ANGELA'. UNTIL NEXT TIME!"
   "..."
   
 - (Angela) "Alright, with that out of the way, let's see what we have here"
@@ -52,34 +52,34 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
   "Do I feel attracted to him?"
   "No... He's certainly not the type of guy I would usually go for"
   "But this is definitely about him"
-  "There was something about what he was doing... and what he was doing was..."
+  "There was something about what he was doing... and what he was doing was...?"
   "He was watching that guy over there. Uff! That guy looks like a complete sleeze bag. Yuck! He's got like a sex-offender vibe to him. I don't want him in my dream"
-  "Excuse creep"
+  "Excuse me, creep"
 - (Creep) "Who me?"
 - (Angela) "How many other creeps do you see in this dream?"
 - (Creep) "There's at least..."
-- (Angela) "That's enough filth out of your filthy mouth. Go stand in the other end of the train where I can't see you"
+- (Angela) "That's enough filth out of your FILTHY mouth. Go stand in the other end of the train where I can't see you"
 - (Creep) "Or what?"
 - (Angela) "Uuuhh... magic time again"
-  "Now, we say abra cadabra, and look what started crawling on your arms... Bull-ants!"
+  "Now, we say abra cadabra, and look what started crawling on your arms... Bull ants!"
 - (Creep) "Eeeew... That's disgusting!"
-- (Angela) "Oh yes... It is disgusting, but wait until you feel their bite!"
+- (Angela) "Oh yes... very, but wait until you feel their bite!"
 - (Creep) "AAAAAAAAARRRRRGHHHH! THAT HURTS SO BAD!"
-- (Angela) "Yes... That's what I have heard. Now go stand in the other end of the train, and if you leave now, I'll make sure there is someone waiting for you down there with a strong painkiller to ease your troubles"
+- (Angela) "Yes... That's what I have heard. Now go stand in the other end of the train, and if you leave now, I'll make sure there is someone waiting for you down there with a strong painkiller to ease the pain"
 - (Creep) "ARRRRGGGGGGHHH" [running out of the train car]
-- (Angela) "No rest for the wicked! The guy will be waiting for you with a nice shot of fentanyl... Let's hope you the dosis right... Muahaha"
+- (Angela) "No rest for the wicked! The guy will be waiting for you with a nice shot of fentanyl... Let's hope you get the dosis right... Muahaha"
   "Alright... Back to the guy. He was watching the creep, but why?"
   "What do you say we cheat a little Angela...?"
   "Oh my, that's a splendid idea! Seing as this is my dream, and I'm supreme ruler - queen of the bull ants - I could step a little closer and have a better look at the guy"
   "Hmmm... Those are sinister eyes. Pretty color of blue, but they cover some nasty secrets don't they. Intriguing!"
   "Now... You were watching the creep. You weren't in love with the creep, and you don't look like you are about to burst out in a birthday tune for loser, so why were you watching him?"
-  "Let me think... Back in the real world... The boring world... The place where I cannot command bull ants... YET (!)... you got off at the same stop as he did, but wait a minute... You went for the exit before he did! Which means, that you must have known where he was going, and when you got off the train... you were going to follow him and... kill him!"
+  "Let me think... Back in the real world... The boring world... The place where I cannot command bull ants... YET (!)... you got off at the same stop as he did... because you were following him, but wait a minute... You went for the exit before he did! Which means, that you must have known where he was going, and when you got off the train... you were going to follow him and... kill him!"
   "That's it, isn't it?! You were following him, and you were following him in order to kill him, and the reason you wanted to kill the creep was... that he's a creep!"
   "... or that is at least what you tell yourself, but maybe that's just an excuse... because you are a very angry man! And so you track down and kill creeps as an outlet for your anger!"
   "Am I right?!"
 - (Angry man) "You are right, but I'd like to think I'm also doing some good in the world"
 - (Angela) "Holy shit! You talk!"
-  "How long have you been there?"
+  "How long have you been here?"
 - (Angry man) "Well, the whole time"
 - (Angela) "Yeah, but like, there's a lot of people here, but they're not really here... I could draw a moustache on them, and they wouldn't notice"
   "How long have you been... sentient?"
@@ -93,13 +93,13 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
 - (Angry man) "Hey, this is your show... Feel free to change my looks into whatever you prefer" [smiling]
 - (Angela) "Hmm... I think we'll stick with it for now... Your look does have kind of a rough quality to it. It's probably just an acquired taste"
 - (Angry man) "Have it your way"
-- (Angela) "Alright... So I feel like I have solved the first riddle, but I bet there's more... Am I supposed to guess the details of what that creep has done"
+- (Angela) "Alright... So I feel like I have solved the first riddle, but I bet there's more... Am I supposed to guess the details of what that creep has done?"
 - (Angry man) "Oh God no! I've read his file and it's not something I want to be reminded of again"
   "No, for now, you can relax. I have something I need to show you" [get's up and reaches into his pocket]
-- (Angela) "Uuuuhhhh... Is this going to be one of those dreams where I'm going to need a long hot shower when I wake up?" [biting her lower lip]
+- (Angela) "Uuuuhhhh... Is this gonna be one of those dreams where I'm going to need a long hot shower when I wake up?" [biting her lower lip]
 - (Angry man) "That wasn't the plan... Do you want it to be?"
 - (Angela) "Hmmmm" [dreamy]
-  "Alright... No Alex, let's see what great mystery is hidden behind door number 1. But, before we continue, I need to give you a name... It feels weird thinking of you as 'angry man'"
+  "Alright... No Alex, let's see what great mystery hides behind door number 1. But, before we continue, I need to give you a name... It feels weird thinking of you as 'angry man'"
 - (Unnamed man) "Can I be Fernando Sanchez? I like that name"
 - (Angela) "No... That you cannot. Because Fernando Sanchez is a silly name, which anybody who's anybody knows..."
   "We'll call you John!"
@@ -116,28 +116,28 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
 
 The cell phone starts playing a movie. The camera fades in on a young man and a young woman sitting in the clearing of a forest on a bright Summers day.
 - (Angela) "Uuhh... Is that us?"
-- (John) "Not exactly, but to some extend it is"
+- (John) "Not exactly, but then again..."
 - (Angela) "Alright... Do you want to be the boy or the girl?"
 - (John) "I'd prefer to be the young man"
-- (Angela) "Hmmm... Alright... A little boring I suppose... But, you shouldn't ask a question if you're not willing to hear the answer"
-  "Uuuh... look... I'm pretty aren't I?"
+- (Angela) "Hmmm... Alright... A little boring I suppose... But, 'you shouldn't ask a question if you're not willing to hear the answer'"
+  "Uuuh... look... I'm pretty ain't I?"
 - (John) "I think so"
 - (Angela) "You are kinda handsome too!"
 - (John) "On behalf of the young man: thank you. The dialogue is about to start"
 - (Angela) "Point taken"
 
 - (Young woman) "They want me to marry him"
-- (Young man) "Do you want to marry him?"
+- (Young man) "Do YOU want to marry him?"
 - (Young woman) "No! I want to marry you"
 - (Young man) "I also want to marry you" [smiling]
 - (Young woman) "I don't think it's right that they get to decide"
 - (Young man) "It isn't"
 - (Young woman) "Is there anything we can do?"
 - (Young man) "I think so, but we will have the whole world against us"
-- (Young woman) "Well, if the world is ready to go against us for not getting in line with such a stupid demand, I say: 'LET THE WORLD BURN'"
+- (Young woman) "Well, if the world is ready to go against us for not getting in line with such a stupid demand, then let the world burn"
 - (Young man) "..." [smiling]
   "I love you, and I think I am always going to love you"
-- (Young woman) "I love you, and I want you more than life itself"
+- (Young woman) "I love you more than life itself"
   "Will you make love to me?"
 - (Young man) "I will"
 
@@ -147,7 +147,7 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (Angela) "Yes... spunk"
   "Uuh, look at them going at it... This isn't PG-13 huh?"
 - (John) "You have the phone... You can just press the fast forward"
-- (Angela) "No way! Look at that! Look how clumsy they are"
+- (Angela) "No way! Look at that! Look how clumsy they are!"
 - (John) "I think it's their first time... And this is supposed to be way before porn was a thing"
 - (Angela) "Yeah, but this is like the viking age, isn't it? Didn't they have like massive sex orgies and such?"
 - (John) "I honestly don't know"
@@ -157,7 +157,7 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
   "Now what do we have here..."
   "Uuuh... there's our young couple again"
   "They look mean! They are up to no good!"
-  "Oh... I think I know what's going to happen here... I'm not sure I can watch it"
+  "Oh... I think I know what's going to happen here... I'm not sure I want to watch it"
 - (John) "..."
 - (Angela) "Alright... Let me at least turn the sound off"
   "Oh, that's horrible! Those people don't stand a chance!"
@@ -168,7 +168,7 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (John) "They sliced the throat of 38 people of the village that night, 35 of which died"
 - (Angela) "Because they wanted her to marry someone else?"
 - (John) "They were kind of insistent. Those were different times, and she was just a property... He was as well"
-- (Angela) "So, no working off the debt of buying her from that jerk that owned her in the kitchen, huh?"
+- (Angela) "So, he couldn't just buy her free and work off the debt in the kitchen, huh?"
 - (John) "I'm afraid not"
 - (Angela) "But I bet you didn't come here to show me just that... There's more isn't there"
 - (John) "Yes"
@@ -179,11 +179,11 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (Angela) "Will you hold me while we watch?"
 - (John) "I'd love to"
 
-- (Angela) "NO NO NO NO YOU DUMB BITCH! DON'T GO IN THERE! WHAT'S WRONG WITH YOUR BRAIN? THERE'S ENOUGH SPEARS FOR AN ENTIRE ARMY LEANED AGAINST THE WALL OUTSIDE, AND YOU ARE WILLING TO BELIEVE THERE'S JUST A SINGLE FAMILY IN THERE!!!?!"
+- (Angela) "NO NO NO NO YOU DUMB BITCH! DON'T GO IN THERE! WHAT'S WRONG WITH YOUR DUMB BRAIN? THERE'S ENOUGH SPEARS FOR AN ENTIRE ARMY LEANED AGAINST THE WALL OUTSIDE, AND YOU ARE WILLING TO BELIEVE THERE'S JUST A SINGLE FAMILY IN THERE!!!?!"
 - (Angela) "I almost don't feel sorry for you when you are that stupid!"
 - (Angela) "Please tell me that the man has a little brains"
   "Yes... that's good... That's right mr. Big Brain, it IS a trap... Yes, just watch them and figure out a plan... Maybe you should jack the spears, eh?"
-  "NO! WHAT ARE YOU DOING???! YOU ALREADY KNEW THEY HAD HER! JESUS CHRIST! ALL YOU HAD WAS THE ELEMENT OF SURPRISE AND NOW YOU DON'T EVEN HAVE THAT... ALL BECAUSE THEY WAVED A LITTLE KNIFE AGAINST YOUR GIRLFRIENDS THROAT!"
+  "NO! WHAT ARE YOU DOING???! YOU ALREADY KNEW THEY HAD HER! JESUS CHRIST! ALL YOU HAD GOING FOR YOU WAS THE ELEMENT OF SURPRISE AND NOW YOU DON'T EVEN HAVE THAT... ALL BECAUSE THEY WAVED A LITTLE KNIFE AGAINST YOUR GIRLFRIENDS THROAT!"
 
 - (Angela) "Oh no... Please tell me they aren't going to use that for what I think they are going to use it for!"
 - (John) "I can't"
@@ -195,7 +195,7 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (John) "..." [smiling]
 - (Angela) "Wait a minute! What was that?! In the shadows. Let me just pause it... and enlarge... That looks kind of like a man, doesn't it? A really evil man. Is that a man?"
 - (John) "The jury is hung on that one... some call him the Shadow-Man and think of him as kind of an orchestrator of these kinds of rituals, some say there isn't anything at all"
-- (Angela) "Well, I'm on Team Shadow-Man! There totally was a very evil man right there"
+- (Angela) "Well, I'm on Team Shadow-Man! There totally IS a very evil man right there"
   "Alright, let me just hit 'play' again"
   "Oh, I forgot what this was"
   "How long does this crap go on?"
@@ -210,7 +210,7 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (Angela) "Cryptic... But I hadn't expected much more to be honest"
   "Is the Shadow-Man real?"
 - (John) "I don't know"
-- (Angela) "I have a feeling I'm barking up the wrong tree here"
+- (Angela) "I have a feeling I'm barking up the wrong tree here..."
   "There is a riddle in this dream... right here... for me. Right?"
 - (John) "I don't know"
 - (Angela) "That's right... you are completely oblivious. I mean, not you as you're sitting right here infront of me... But as it played out on the train..."
@@ -227,5 +227,5 @@ Angela closes her eyes and looks concentrated, when suddenly a loud scream is he
 - (Angela) "John! Where are you going? John!"
 
 The entirity of Angela's dream world desolves into nothing, and Angela is gripped by the feeling of falling through endless darkness.
-Angela wakes up in chok! And as it turns out, she did have to take a shower when she woke up, but that was from being drenched in sweat. 
-She had not gotten fat.
+Angela wakes up in shock! As it turns out, she does have to take a shower because she is drenched in sweat. 
+She is not fat.
