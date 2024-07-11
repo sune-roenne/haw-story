@@ -88,11 +88,68 @@ It's pretty telling of the mental temperature in the room, that Albert is at thi
   "And the wife said something like: 'Goddammit, where have you gone off to now you miserable psycho?'"
   "And the poor little boy kept looking for me all throughout the house" [sobbing slightly]
   "AND I WAS RIGHT THERE" 
-  "But they couldn't see me, because I was off-v-coordinate to them"
+  "But they couldn't see me, because I was off-V-coordinate to them"
   "But I could look into their plane and see them... But they couldn't see me!" [now crying]
 - (Albert) "Why did the cloud do that?"
 - (Sune) "What cloud?"
   "Stick with the story man!"
-  "John... We have to change your v-coordinate... But you must jump... But we'll get you back when it's time... back to this plane"
-- (John) "Hoooww?"
-  
+  "John... We have to change your V-coordinate... But you must jump... But we'll get you back when it's time... back to this plane"
+- (John) "Haaoooww?"
+- (Sune) "Quit fucking around John!"
+  "You know how!"
+  "Get your feet wet!"
+- (John) "No! 
+  "I'm not going in there with her!"
+- (Sune) "I'm sorry buddy"
+  "There is no other way"
+  "The quantum-gate is open now, but it won't be for long"
+- (John) "She wants to draaaoowwnn meee"
+  "In blood"
+- (Sune) "Ok, so you close your eyes and think about something nice"
+  "I made an even 100 off HookerBoy's old girlfriend like that the other day"
+- (Albert) "I've never seen her before in my life!"  
+  "Just listen to my voice John... I'll talk you through it"
+  "But we need to hurry, the draft from the quantum state is sucking the evil into the room"
+  "And HookerBoy is sitting right up wind... He won't be HookerBoy for long if you don't hurry up and jump"
+  "I need you to take a dreep breath in John"
+  "DO IT FOR CHRIST SAKE!"
+  "Now blow it out John"
+  "RELEASE THE FUCKING AIR JOHN"
+  "Now close your eyes John!"
+  "I'll count to 6, and while I do that, you breath air into your lungs"
+  "When I count down from 9, you release the air"
+  "1...2...3...4...5...6..."
+  "Hold it in"
+  "9...8...7...6...5...4...3...2...1..."
+  "We'll do that again John, but this time, you let go of space... you'll be carried up, up, up to the clouds John"
+  "1...2...3...4...5...6..."
+  "With your inside voice, say: 'Ohm tat zat'... It means 'So long space'"
+  "SAY IT JOHN! HookerBoy is already starting to turn pale with evil"
+  "That's it John..."
+  "Now breath out John... 9...8...7...6...5...4...3...2...1..."
+  "That's good John... Now, I'm not going to count for you anymore, so you have to learn to breath on your own or die"
+  "It's very important that you use your inside eyes for the next bit... If you open your outside eyes, you are going to cause a rupture in quantum space and kill everyone within a 5 kilometer radius"
+- (Albert) "Open your fucking inside eyes John!" [said with a voice that indicated sheer terror, but a huge evil grin"
+- (Sune) "Do as he says John, he only wants what's best for you"
+  "Open your inside eyes"
+  "Ada boy"
+  "Now look around with your inside eyes... you are standing on a cloud John... below you is the lake... she is waiting for you in the lake... but you have to jump down there John"
+  "And when you jump, you have to say 'Gung Ho Fat Jahn'... It means 'Adiós Time'... You will be V-coordinate free... At last John..."
+- (Albert) "I am quantum" [mouthing the words inaudably]
+  "On the count of 3, you jump John"
+  "3..."
+- (Albert) "I am quantum" [mouthing with a look of realization]
+- (Sune)  "2..." 
+- (Albert) "I..." [saying out loud]
+- (Sune) "1"
+- (Albert) "AM..."  [yelling]
+- (Sune) "JUMP JOHN!"
+- (Albert) "QUANTUM!!!"
+
+As Albert yells this last part of what was to become his mantra for the next couple of hours as he ravaged the air ducts of the FinaLibre building, he get's up and takes off running down the long corridor outside Sune's office, screaming at the top of his lungs.
+
+- (Sune) "YOU FORGOT THE GUN QUANTUM-MAN... I DON'T TRUST MYSELF WITH IT"
+
+And just like that, the room went silent. 
+
+For whatever else could be said about Sune, he certainly was a liar, and the only slightly redeeming quality to this fact is that he at least believed his own lies more than anyone else did. This for instance means, that when he had talked John into the clouds and convinced him to jump, he was 100% certain that John would land in his lake. It also meant that he was now fully convinced that the death of his family life had been caused by a shift of position out of the V-axis, and not one very patient woman, deciding for the sake of herself and her children that enough was finally enough. If he had been the kind of person that would learn from making a mistake just once, he would surely have reminded himself that filling his own head with that kind of nonsense is a very bad starting point when going for a deep sea swim in the ocean of psychodelic designer drugs... but he wasn't and thus, while John took off to pursue his destiny with Angela and the mysterious girl in the lake and Quantum-Man was having the time of his life causing mayhem to the floors above by means of airbourne psychological terror distributed through the air vents, Sune spent most of that time bawling his eyes out, trying to reach across the V-axis-offset to comfort the little boy he could see pacing the empty house, calling out for his father.     
