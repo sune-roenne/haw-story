@@ -46,6 +46,53 @@ Sune watches his legs intently for the next 15 seconds, then suddently jumps up 
 
 - (Sune) "BOMBS AWAY"
 
-John let's out an indecipherable protest as the remote control lands on his face, but then contents himself with trying to figure out how this alien machinery works. It's hard to exactly ascertain another person's exact level of comprehension regarding a specific subject, but the changing climate in the room over the course of the following 3 hours - going from scorching heat to freezing cold to humid like a tropical forrest - suggest that he never really achieves a state of supreme practicioner in the craft weather-regulatorism. 
+John let's out an indecipherable protest as the remote control lands on his face, but then contents himself with trying to figure out how this alien machinery works. It's hard to ascertain another person's exact level of comprehension regarding a specific subject, but the changing climate in the room over the course of the following 3 hours - going from scorching heat to freezing cold to humid like a tropical forrest - suggest that he never achieves a state of supreme practicioner in the craft of weather-regulatorism. 
 
+- (John) "So... How do we do 'jump'?"
+- (Sune) "You muzzt heeer thee zztorii"
+  "ferhst"
+- (Albert) "I'm not coming down from up here"
+  "You tell your story Old Man, but I'm staying up here"
+- (John) "You do you, man!"
+
+It's pretty telling of the mental temperature in the room, that Albert is at this point laying on his stomach looking directly into the floor. John hasn't move from his position on the floor, laying on his back, staring up into a colorful array of lights, while Sune has re-conquered his office chair, and is now fiddling with the gun, appearently trying to figure out where the handle is. 
+
+- (Sune)  "STORY TIME AZZHOLES"
+  "Do you guys know Blender?  
+- (Albert) "Yeah... My dad had one of those"
+- (John) "HookerBoy knows all about Blendah Old Man"  
+
+- (Sune) [struggling a little with pronounciation throughtout]
+  "Blender is a three dee animatronix software"
+  "And it is soooooo good"
+  "But I don't know that, because I get dizzy"
+  "Because you can move around in the computer"
+  "but then, you get lost on the Z-axis and you can't come down to the plane again"
+  "you displace"
+  "Did you guys know that I was a normal guy once?"
+- (John) "BULL SHIT"
+- (Albert) [actually articulating] "Aaarrkwaaard siiilence"
+- (Sune) [unphased] "I had a family once"
+  "Before i displaced"
+  "A loving wife, a smart and beautiful daughter and a sweet little boy"
+- (Albert) "The boy wasn't smart?"  
+- (Sune) "Oh yes! A very smart boy"
+  "But then one day, something scary happened"
+- (Albert) "Please lower your voice... I can't loud scary right now!"
+- (Sune) "A cloud came by" [in a whisper]
+  "and shifted the man"
+- (Albert) "The man was you, right?"
+- (Sune) "It was"
+  "The cloud drifted in at night, and shifted my v-coordinate"
+  "And then the daughter said something like: 'Where is dad?'"
+  "And the wife said something like: 'Goddammit, where have you gone off to now you miserable psycho?'"
+  "And the poor little boy kept looking for me all throughout the house" [sobbing slightly]
+  "AND I WAS RIGHT THERE" 
+  "But they couldn't see me, because I was off-v-coordinate to them"
+  "But I could look into their plane and see them... But they couldn't see me!" [now crying]
+- (Albert) "Why did the cloud do that?"
+- (Sune) "What cloud?"
+  "Stick with the story man!"
+  "John... We have to change your v-coordinate... But you must jump... But we'll get you back when it's time... back to this plane"
+- (John) "Hoooww?"
   
