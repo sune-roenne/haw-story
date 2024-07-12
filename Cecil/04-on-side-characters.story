@@ -1,5 +1,5 @@
 - (Susan) "I just don't see why it was necessary to kill the boy, that's all"
-- (Ben) "I agree with you on principle Susan, but in this specific instance it served a purpose... It showed his dedication to -  SLASH - obsession with, reaching his goal"
+- (Ben) "I agree with you on principle Susan, but in this specific instance it served a purpose in showing his dedication to -  SLASH - obsession with, reaching his goal"
 - (Karl) "And what principle would that be that you agree with Ben?"
 - (Ben) "The principle of killing off side-characters for emotional effect"
   "Hollywood does it to a fault: here's  a story about a guy"
@@ -38,21 +38,20 @@
   "but will he?"
   "the suspense is enough, to convince you about the very real dangers of mountain climbing"
 - (Karl) "Well, that's mountain climbing, but there are movies where something's got to give"
-  "if you do a war-story, and people don't die..."
-  "I'll be asking for my money back"
+  "if you do a war-story, and people don't die...!!"
 - (Mike) "Of course"
   "But I have to agree with Ben, it's alright to mix it up a little now and then"
   "The schtick about a naíve lovable guy, who only ever acts in the interest of the regiment, in the middle of a war-zone, get's killed in an ultimate act of self-sacrifice, saving his buddies...?"
   "Please!"
 - (Karl) "Kill the fucker at base camp! Seven-six-two millimeter"
 - (John, Cecil, Ben, Mike) "FULL METAL JACKET!"
-- (Carol) "Woow you guys! All that masculinity is making my seat damp"
+- (Carol) "Waow you guys! All that masculinity is making my seat damp"
 - (Susan) "..." [applying an imaginary fan with her one hand]
 
-- (Cecil) "Alright... All bullshit aside, you do know why they do that, right?"
+- (Cecil) "Alright... All jokes aside, you do know why they do that, right?"
 - (Karl) "Do what?"
 - (Cecil) "Kill off the side-kick?"
-- (Everyone) "..." [looking a little puzzled, since the topic seemed to have been debated through]
+- (Everyone) "..." [looking a little puzzled, since the topic seemed debated through]
 - (Cecil) "Jesus... and you guys work in Finance"
   "Alright, then listen up and take notes"
   "It's very simple: Hollywood kills off the lovable side-character
@@ -64,14 +63,14 @@
   "and some form of sacrifice on the side of the main protagonist, usually a close friend" [counting 2 by extending index finger]
   "and I can hear your mind working to find the connection"
   "PROMOTING A LIFE STYLE!"
-  "A life style in which you ultimately have to sacrifice your friendships, as you achieve love"
+  "A life style in which you ultimately have to sacrifice your friendships, to achieve love"
   "Because, believe it or not: Hollywood earns money... that is: ALOT MORE MONEY on the average western civilization couple than they do from 2 average western civilization singles, all other things equal"
   "Think about it: what do you spend your money on when you are single: getting shit-faced and trying to hook up"
   "Alright, so you may catch a top-flick with your homies when you are single, but compare that to the amount of movie dates you have during the dating-phase"
   "The 'Netflix n' chill's during the commitment phase..."
   "And the amount of electronic entertainment consumed once the relationship spawns offspring, because: what else can you do for those first 10 years"
-  "Alright, I see your doubts, but think about this... and feel free to verify this afterwards..."
-  "The amount of adults of western civilizations between the age of 18 and 40 either married or living in a commited 'marriage-like' relationship increased by 53% between 2004 and 2019..."
+  "Alright, I see your doubts, but then let's let facts tell their undeniable truth... and feel free to verify this afterwards..."
+  "The amount of adults of western civilizations between the ages of 18 and 40 either married or living in a commited 'marriage-like' relationship increased by 53% between 2004 and 2019..."
   "And guess which sector increased it's net annual income - WHEN ADJUSTED FOR INFLATION - by almost 300%..."
   "THE ELECTRONIC ENTERTAINMENT INDUSTRY" [bowing]
 - (Everyone) "..." [staring in amazement]
@@ -85,7 +84,7 @@
 - (Cecil) "..." [bowing head in acceptance of defeat]
 - (Everyone else) "..." [getting up from their seat]  
 - (Karl) "I'm hard man! That was the most beautiful load of mind fuck in the history of cool people!" [to Cecil, bowing in recognition]
-- ((Old) John) "Nice try brother... That was first class 'pulling-figures-out-of-your-ass' if I've ever heard some!" [to Cecil]
+- ((Old) John) "Nice try brother... That was some first class 'pulling-figures-out-of-your-ass' if I've ever heard some!" [to Cecil]
 - (Mike) "That was sick man!" [to Cecil, while extending his hand to him for a hand shake]
 - (Susan) "In my eyes, you're still a real winner" [to Cecil]
 - (Carol) "I'm a sucker for any man that can work his mouth around crap like that" [placing her hands over her heart]
