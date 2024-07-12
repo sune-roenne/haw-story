@@ -19,8 +19,87 @@ John get's to thinking back to that one time, where he and his team mates from F
 'This is actually worse than sitting on the floor'. 
 
 If we were to play a game, in which I would ask you to name the arch-nemesis of a person of my choosing, and I were to say: 'Batman', I bet there's a good chance that you would think of 'The Joker'. And if I were to say: 'The Joker', I bet that you would very likely say: 'Batman', assuming a parity in the selection of arch-nemisi, because after all: if you have selected someone to be your arch-nemesis, the least they can do is choose you back, because the fear of rejection and being the only person at the school dance without an arch-nemesis makes the pairing-option the most COMFORTABLE. But it isn't really the most RATIONAL, is it? If we approach the topic from another angle and try to de-clutter and de-mystify the effects of alienating nomencloture like 'villain', 'psychopath' and 'exhibiting-severe-anti-social-traits' or whatever else the psychiatrists subject us to for that prescription, people like 'The Joker' and Lex Luthor are really just assholes. And we know from experiences such as school- and workplace-bullying that assholes will sometimes focus their energy on whoever they deem a sufficiently weak target regardless of whether or not that person is also an asshole or not. Most often though, assholes have a tendency to surround themselves with other assholes: they have asshole friends, asshole colleagues and they have asshole enemies. When looking at the situation in this light, it should come as no surprise, that the arch-enemy of Quantum-Man turned out to be - not a hero who arose in a time of need when employees were being harassed by an unseen (though not entirely UNHEARD) force of evil in the air ducts - but another asshole. An asshole, that Quantum-Man thought of as 'The Shadow Man'.
-Albert had always been a realist, and had for instance never really believed in the notion of 'love at first sight', and Quantum-Man couldn't care one way or the other but from the moment he stared down on the dark figure standing in the shadows of the northside 2nd floor bathroom, he knew that he haded the person staring back at him. The setting of this specific bathroom - where a young woman had been stabbed to death a little more than 2 weeks ago - may have added to the intensity Quantum-Man experienced in the room, but he would have haded that ill-lit figure in any setting. It may have happened during aforementioned murder or it may have happened in the ruccus that followed that the wall-lamp had been broken, and nobody had found the time to fix it yet, leaving the small lamp above the handwash miror with the unfathomable task of lighting the room. Although it wasn't anything anyone ever said out loud, the shared belief among the staff at FinaLibre was, that it was useless to fix the broken lamp, because nobody was ever going to use that bathroom again (unless a disaster of unimaginable propertions was to occur in the cafeteria-kitchen, and in that case, the poor lighting in the room may turn out to be a blessing). Indeed, after the clean-up crew had finished on the evening following Angela's murder, nobody had been in here. That is: nobody but the man who killed her, 'The Shadow-Man'.
+Albert had always been a realist, and had for instance never really believed in the notion of 'love at first sight', and Quantum-Man couldn't care one way or the other but from the moment he stared down on the dark figure standing in the shadows of the northside 2nd floor bathroom, he knew that he haded the person down there. The setting of this specific bathroom - where a young woman had been stabbed to death a little more than 2 weeks ago - may have added to the intensity Quantum-Man experienced in the room, but he would have haded that ill-lit figure in any setting. It may have happened during aforementioned murder or it may have happened in the ruccus that followed that the wall-lamp had been broken, and nobody had found the time to fix it yet, leaving the small lamp above the handwash miror with the unfathomable task of lighting the entire room. Although it wasn't anything anyone ever said out loud, the shared belief among the staff at FinaLibre was, that it was useless to fix the broken lamp, because nobody was ever going to use that bathroom again (unless a disaster of unimaginable propertions was to occur in the cafeteria-kitchen, and in that case, the poor lighting in the room may turn out to be a blessing). Indeed, after the clean-up crew had finished on the evening following Angela's murder, nobody had been in here. That is: nobody but the man who killed her, 'The Shadow-Man'.
 When Quantum-Man first came to the air vent of this bathroom, he had thought the room to be empty, until he noticed the shadow of something that could only be a person, standing still in a dark corner of the room. On top of Quantum-Man's ability to float soundlessly through any confined space, he also had the unusual ability to 'tune his sight', a move of the hands that to the untrained eye would look like someone wiping hair, sweat and/or blood from his eyes. Tuning in on the man, he became able to sense the ghostly glare emitted from the area around the Shadow-Man, replaying Angela's murder for the man's enjoyment, over and over. Well, actually determining that THAT was what he was sensing was of course a little difficult, since Quantum-Man had been blessed with the good fortune of 'radical disco-lights' from the moment of his inception, but if that same spiritual birth had taught him anything, it was that it was perfectly alright to use a little imagination to fill out the dark corners of ignorance. 
-Knowing what we know about Albert's build, it's hard to imagine that the Shadow-Man didn't hear Albert moving in on his current position from a long way aways, but for a long time, the dark figure just stands there reveling in the beauty of his past misdeed, even as Quantum-Man starts to growl at the dark figure. And then all of a sudden the figure raises his gaze to the air event, and rays of red-hot microwave light is bombarding Quantum-Man, and the disco-lights all shift to blood red, pounding to the beat of Quantum-Man's cold heart as Quantum-Man realizes that the Shadow-Man is trying to cook him like oatmeal-pudding in a microwave oven and he let's out a primal scream that was supposed to be the declaration that 'this shitta is Quantum!' but instead comes out sounding like a hoarse mix between the scream of an angry drunkard before he launches himself into a bar-browl and a person being roasted alive. And then Quantum-Man declares a tactical retreat, zooming through the air-ducts of the building, back to stack up on re-inforcements, back to receive new orders from the mind-cloud.
+Knowing what we know about Albert's build, it's hard to imagine that the Shadow-Man didn't hear Albert moving in on his current position from a long way aways, but for a long time, the dark figure just stands there reveling in the beauty of his past misdeed, even as Quantum-Man starts to growl at the dark figure. And then all of a sudden the figure raises his gaze to the air event, and rays of red-hot microwave light is bombarding Quantum-Man, and the disco-lights all shift to blood red, pounding to the beat of Quantum-Man's cold heart as he realizes that the Shadow-Man means to cook him like oatmeal-pudding in a microwave oven and he let's out a primal scream supposed to be the declaration that 'this shitta is Quantum!' but instead comes out sounding like a hoarse mix between the scream of an angry drunkard before he launches himself into a bar-browl and a person being roasted alive. And then Quantum-Man declares a tactical retreat, zooming through the air-ducts of the building, back to stack up on re-inforcements, back to receive new orders from the mind-cloud.
 Frank hadn't really been expecting anyone to be watching him in the bathroom, and to say that Frank knew exactly what had just happened simply wouldn't be true, but Frank had a pretty good idea of who the fat weirdo in the ventilation system was and he knew how to deal with the situation. After all, he had hired the miserable fuck so naturally it was his job to terminate him. Like everything else around here.
 Frank looked at himself in the mirror, adjusted his tie, and calmly walked out of the bathroom. 
+
+Sometimes, you have to stand your ground and fight, whether it be a social, symbolic or knuckles-against-bones fight. There are people who will push you as far as possible up into a corner until your only way out of the situation is through them. There are situations where the pillars of the figurative house you call your life is rattled and shaken, and you need to stop running around picking up framed memorabilia and get working on fortifying your home. John didn't do much with living by pre-defined principles or rules, but he did have a lot of ingrained behaviour and reinforced habits. If for instance you put two buttons in front of him - one of them labelled 'violence' - you could be pretty sure that he had pressed whatever button was stained with blood before you had the chance to present him with his options. As such, he finds his current situation, being completely frozen in space, very uncomfortable. As his movement stopped, his body never let go of the tension of running at max-intensity, and it took for the large muscles on the back of the leg to go into spasms, for him to realize that his situation would be much improved if he just let go. 'Relax, and let go'. And so he does, and though he wouldn't wish to be left like this for days, he is pretty sure he'll be alright like this until his kidney and liver has processed enough of the insane mixture he consumed for his brain to start working on an exit-strategy back to reality. As such, John once again finds himself on the brink of coming to peace with himself and his current surroundings, when the damn sobbing returns. It is coming from somewhere very far off, but when you are standing completely still in an unventilated endless hallway, it doesn't take a lot for a sound for it to get under your skin. Luckily for John's sanity - and whoever might be closeby when he returns to the real world if he he had to listen to that damn sobbing until then - John now hears something else: footsteps coming from down the hall. As they get closer, Angela appears at the edge of the darkness of the unlit area in front of him and walks up to him until she is only half a meter from him, tilts her head to one side and looks at him in much the same way a mother would look at a baby who had just painted it's owner face with peanutbutter and says: 'John... You're going the wrong way', and as she says it, he realizes that not only is she right, but 'why had he even thought about going the other way?' And with the realization, comes peace. Peace in the very real and physical sense that he once again regains the ability to move his body freely. Angela takes him by the hand and continue forward, and when they come to Johns previous place of contemplation, the place where the lights stop and the road continue into complete darkness, John stops. Angela, two steps in front of him, turns her head and looks at him as if to ask 'are you coming?' and he says to her: 'I'll be right behind you' and Angela walks on and after her 4th step, John can no longer see her out there in front. Keeping his inner eyes wide open, John walks into the darkness.
+
+- (John) "What's with HookerBoy?"
+- (Sune) "..." [putting a hand up to signal to John that he should tread lightly]
+  "Quantum-Man" [whispering] 
+  "He's sulking because I wouldn't let him have the gun to reclaim the fallen parts of 'Quantum-Land'" [voice slightly raised, as if he was telling another adult what mischiefs the boy had been up to, partly to let the boy know that he had not forgotten about it]
+  "I've offered him some sentitives, but he's content with just taking them himself when the 'mind-cloud' has come to avange the unjustice"
+- (John) "..." [concentrated look]
+  "I think you did that"
+- (Sune) "..." [looking thoughtful, then shrugs his shoulders]
+  "Maybe"
+- (John) "You look peaceful... you don't have that energy of raging insanity radiating off you"
+- (Sune) "I'm all cried out"
+  "It'll be back... I'm not worried"
+  "Did you find Angela?"
+- (John) "As much as is possible under these circumstances... given that she's dead and all"
+- (Sune) "I'm glad to hear it" [smiling]
+  "That you found her that is"
+
+They both sit without moving or saying a word for a couple of minutes. 
+
+- (John) "Look... when Angela came down here to give you the diary..."
+- (Sune) "yeah?"
+- (John) "Which way did she leave?"
+- (Sune) "...?" [not understanding]
+- (John) "When she stepped out of your office, did she go right like everyone always does, or did she turn left?"
+- (Sune) "..." [looking deep in thought]
+  "I think she turned left"
+- (John) "What is there to the left?"
+- (Sune) "I don't know. I think there's a fire-escape or something. I guess I just figured that that was where the evil circulated in, and mostly just kept it as is"
+
+John get's up, showing clear signs of being lightheaded, struggling to get his body started again.
+
+- (Sune) "We're going out to look at the left. Are you coming?" [directed at 'Quantum-Man']
+  "If you keep your yelling and swearing to a minimum, you are allowed to leave the room now"
+- (Albert) "..." [not answering, continuing to look straight into the wall of the corner in which he is seated]
+- (Sune) "You know where to find us if you change your mind" [making a show of picking up the gun and taking it with him]
+
+- (John) "It's a stairway"
+- (Sune) "Who would have thought?"
+  "I guess I would have thought, because we are under ground"
+  "But I've never been out here before"
+- (John) "Doesn't look like cleaning has neither"
+  "But someone's been here" [pointing at the foot-prints in the massive dust-pileup] 
+  "There is something behind the stairway... Help me get those boxes out?"
+
+When the area beneath the bottom of the stairway has been sufficiently cleared, John opens the 1x1 meter hatch that was concealed by the boxes a minute ago, and steps into the room behind the stairs and turns on the light.
+
+- (Sune) "It's very... spartan"
+- (John) "Yes"
+- (Sune) "Do you think she made it for the two of you?"
+- (John) "Yes"
+- (Sune) "Do you think you could have lived down here?"
+- (John) "We would have tried" [shrugging his shoulders, turning around to exit the room through the hatch]
+
+Sune turns off the light, and exits the room behind the stairs in time to hear the fire-exit on the floor above slam shut. 
+
+- (John) "Is he going to be alright?" [motioning at the fire-exit he has just seen Quantum-Man run out of]
+- (Sune) "..." [seeming to give it some thought]
+  "I think so" [nodding]
+  "He'll V-shift back before day-light"
+- (John) "Shouldn't there be a fire alarm right now?" [once again pointing at the fire-exit]
+- (Sune) "She must have disabled it... You guys would need a way to come and go, right?"
+  "She was pretty good with electronics. She was cool like that" [smiling]
+
+- (Sune) "She's not the only one who's been down here" [pointing at a set of foot-prints in the dust, too large to belong to either Angela or Quantum-Man]
+- (John) "I know"
+- (Sune) "Do you think that's why he killed her?"
+- (John) "..." [shrugging]
+  "I don't care" [looking deadpan into nothing]
+- (Sune) "When will you kill him?"
+- (John) "Soon..."
+  "I have a couple of goodbyes to make"
+
+- (Sune) "..." [looking at John, nodding]
+  "Take care John" [walking out of the stairway towards his office]
+- (John) "You too"
+  
