@@ -1,4 +1,4 @@
-Jacob enters the locker room of his local Gliders & Soaring Society - a community of hobby glider pilots and enthusiasts - and immediately notices the young man sitting on the bench in front of the entrance. Jacob is about to ask the young man if he is lost - at 37 Jacob is the youngest member of the community that primarily consists of men over 50 with considerable liquidity to splurge on their hobby - but then notices the insistent and determined stare in the young mans eyes, and realizes what this is about.
+Jacob enters the locker room of his local Gliders & Soaring Society - a community of hobby glider pilots and enthusiasts - and immediately notices the young man sitting on the bench in front of the entrance. Jacob is about to ask the young man if he is lost - at 37 Jacob is the youngest member of the community that primarily consists of men over 50 with considerable liquidity to splurge on their hobby - but then notices the insistent and gloomy stare in the young mans eyes, and realizes what this is about.
 
 - (Jacob) "My tow-pilot could be here any minute"
 - (Young man) "The T61F is motor-powered"
@@ -17,7 +17,7 @@ Jacob reaches into his pocket, pulls out his latest-edition iPhone, takes out th
   "No"
   "Trier"
 
-Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign of inexperience, signs that the young man might show willingness to engage in conversation and if not that: signs that he who would be wound-up tight enough to try and play the silent killer type. Jacob just needs a little leverage, a small advantage he can use to turn the situation around, but so far no outs have presented themselves.
+Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign of inexperience, a sign that the young man might show willingness to engage in conversation and if not that: a sign that he who would be wound-up tight enough to try and play the silent killer type. Jacob just needs a little leverage, a small advantage he can use to turn the situation around, but so far no outs have presented themselves.
 
 - (Jacob) "Yeah?" [challenging the young man to expand on the matter]
 - (Young man) "..." [considering, still deadpan]
@@ -33,7 +33,7 @@ Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign
   "but if I can make you for Trier, someone may start digging"
 - (Jacob) "Jesus Christ!"
   "Do you have any idea what kind of game you've gotten yourself involved in kid?"
-  "If anybody starts 'digging' the Banshees will have the investigation shut down immediately"
+  "If anybody 'starts digging' the Banshees will have the investigation shut down immediately"
   "You do know what kind of people are behind this thing, don't you?"
   "or do you think you are making the world a better place?"
   "a top-secret invite-only vigilante online-society appears with hit-details of mostly rich and powerful scumbags"
@@ -48,11 +48,11 @@ Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign
   "I mean, you have a deadline in 10 hours, boss is on your back to close another client"
   "your closest collaborators are ready to stab you in the back at the slightest mistake"
   "but it totally pales in comparison to what you did last night"
-  "when you broke into some guys home, shot him in the head and dumped it into the harbor in his own car"
+  "when you broke into some guys home, shot him in the head and dumped it into the harbor in the man's own car"
   "Who cares what your fucking boss will say?"
   "Who cares what lies the clients may catch you in, if you slip up in that other operation, you're dead"
   ".. well, I guess I don't have to tell you that..." [vague smile]
-  "But on the other hand, it gives you a whole other outlook on life..."
+  "But on the other hand, it gives you a whole other outlook on life..." [repeating in a deeper tone of voice]
   "Make that deadline and make 'man of the hour'? Can't feel any real sense of achievement..."  
   "Bang the young intern during lunch hour? Kinda fun while it lasts, but you are too senseless to make it mean anything to you..."
   "And at some point, killing stops being the same... The thrill is not the same, so you start taking unnecessary risks to get the feeling back"
@@ -72,7 +72,8 @@ Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign
 - (Jacob) "Wait a minute, so you were doing this BEFORE Banshee? Freelance?"
 - (Young man) "I guess"
 - (Jacob) "Why?"
-- (Young man) "Anger issues I suppose"
+- (Young man) "..." [giving it some thought]
+  "Anger issues I suppose"
 - (Jacob) "Christ!" [in disbelief]
   "..."
   "Well, even knowing what I know now, I think I would still sign up... Make some stories, you know?"
@@ -96,7 +97,8 @@ Jacob pulls up the bottom of his shirt and lowers his pants a little to reveal a
 
 'Alright' Jacob thinks 'Do some high/low combo's, see how good his striking game is, and take it to the ground if you don't have striking superiority within the first 30 seconds'.
 Jacob sends a kick to the young man's thigh with his left leg, then follows up with two quick jabs, does a slight cross-fake and goes for a hook, when he feels the man's knife go through his throat.
-'So, he lied... How did I not see that coming?' Jacob may be able to send off a few more strikes, but at this point, what's the point? 
+'So, he lied... How did I not see that coming?' 
+Jacob may be able to send off a few more strikes, but at this point, what's the point? 
 
 At least the young man makes it quick: when Jacob stops resisting, the young man sweeps his leg's and drives him to the floor on his stomach, and pulls the knife across Jacob's throat in one smooth movement, pulling hard on the knife to make it go as deep into Jacob's throat as possible, and maintains a hold of Jacob's hair pulling the throat apart across the seam to allow for maximum spillage, and waits for Jacob to bleed out. 
 The young man then leaves the knife on the floor, looks around the locker room to make sure he hasn't forgotten anything, turns off the light, and leaves. 
