@@ -1,4 +1,4 @@
-Jacob enters the locker room of his local Gliders & Soaring Society - a community of hobby glider pilots and enthusiasts - and immediately notices the ýoung man sitting on the bench in front of the entrance. Jacob is about to ask the young man if he is lost - at 37 Jacob is the youngest member of the community that primarily consists of men over 50 with considerable liquidity to splurge on their hobby - but then notices the insistent and determined stare in the young mans eyes, and realizes what this is about.
+Jacob enters the locker room of his local Gliders & Soaring Society - a community of hobby glider pilots and enthusiasts - and immediately notices the young man sitting on the bench in front of the entrance. Jacob is about to ask the young man if he is lost - at 37 Jacob is the youngest member of the community that primarily consists of men over 50 with considerable liquidity to splurge on their hobby - but then notices the insistent and determined stare in the young mans eyes, and realizes what this is about.
 
 - (Jacob) "My tow-pilot could be here any minute"
 - (Young man) "The T61F is motor-powered"
@@ -13,7 +13,7 @@ Jacob reaches into his pocket, pulls out his latest-edition iPhone, takes out th
 - (Young man) "Any other devices?"
 - (Jacob) "No. I just came to glide"
   "Was it the Hjort Hansen-job?"
-- (Young man) "..." [appearently considering, deadpan stare]
+- (Young man) "..." [apparently considering, deadpan stare]
   "No"
   "Trier"
 
@@ -48,7 +48,7 @@ Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign
   "I mean, you have a deadline in 10 hours, boss is on your back to close another client"
   "your closest collaborators are ready to stab you in the back at the slightest mistake"
   "but it totally pales in comparison to what you did last night"
-  "when you broke into some guys home, shot him in the head and dumped it into the harbour in his own car"
+  "when you broke into some guys home, shot him in the head and dumped it into the harbor in his own car"
   "Who cares what your fucking boss will say?"
   "Who cares what lies the clients may catch you in, if you slip up in that other operation, you're dead"
   ".. well, I guess I don't have to tell you that..." [vague smile]
@@ -58,13 +58,13 @@ Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign
   "And at some point, killing stops being the same... The thrill is not the same, so you start taking unnecessary risks to get the feeling back"
   ... but I guess I don't have to tell you that"
   "..." [looking at the young man in challenge]
-- (Young man) "..." [meeting Jacob's stare, then appearently relenting, relaxing his composure a little]  
+- (Young man) "..." [meeting Jacob's stare, then apparently relenting, relaxing his composure a little]  
   "I never signed up"
   "Someone made me for a drunk driver I did"
   "Guy had killed a total of 7 people on 2 different occasions"
 - (Jacob) "The Djernes case? That was you?!"
   "The newspapers said he looked like he had run into a bear or a pack of hungry wolves"
-  "What did you use? A bat? A lead pipe? I'm curius!"
+  "What did you use? A bat? A lead pipe? I'm curious!"
 - (Young man) "I didn't use anything" [deadpan]
 - (Jacob) "Holy Christ! You did that with your bare hands?"
 - (Young man) "When I got home, someone was waiting in my bedroom, and gave me the Banshee-spiel"
@@ -77,7 +77,7 @@ Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign
   "..."
   "Well, even knowing what I know now, I think I would still sign up... Make some stories, you know?"
 
-If the young man does know, he's not making any attempt to show it. Instead, he get's up and cracks his neck and knuckles.
+If the young man does know, he's not making any attempt to show it. Instead, he gets up and cracks his neck and knuckles.
 
 - (Jacob) "How are you going to do it?"
   "A gun?"
@@ -85,7 +85,7 @@ If the young man does know, he's not making any attempt to show it. Instead, he 
 - (Jacob) "A knife?"
 - (Young man) "No"
 
-Suddently, Jacob's outlook seems a lot brighter! 'What a fucking moron!' Did he really believe taking down Jacob would be like beating a drunkard in the boondocks? 
+Suddenly, Jacob's outlook seems a lot brighter! 'What a fucking moron!' Did he really believe taking down Jacob would be like beating a drunkard in the boondocks? 
 Jacob pulls up the bottom of his shirt and lowers his pants a little to reveal a tattoo that looks a little like a Karate-belt around his waist.
 
 - (Jacob) "..." [looking at the young man, questioningly]

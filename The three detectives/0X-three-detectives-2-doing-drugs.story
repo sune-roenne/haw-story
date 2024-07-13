@@ -108,43 +108,43 @@ It's pretty telling of the mental temperature in the room, that Albert is at thi
 - (Sune) "Ok, so you close your eyes and think about something nice"
   "I made an even 100 off HookerBoy's old girlfriend like that the other day"
 - (Albert) "I've never seen her before in my life!"  
-  "Just listen to my voice John... I'll talk you through it"
+- (Sune) "Just listen to my voice John... I'll talk you through it"
   "But we need to hurry, the draft from the quantum state is sucking the evil into the room"
   "And HookerBoy is sitting right up wind... He won't be HookerBoy for long if you don't hurry up and jump"
   "I need you to take a dreep breath in John"
-  "DO IT FOR CHRIST SAKE!"
-  "Now blow it out John"
-  "RELEASE THE FUCKING AIR JOHN"
-  "Now close your eyes John!"
-  "I'll count to 6, and while I do that, you breath air into your lungs"
+- (Albert)  "DO IT FOR CHRIST'S SAKE!"
+- (Sune) "Now blow it out John"
+- (Albert) "RELEASE THE FUCKING AIR JOHN"
+- (Sune) "Now close your eyes John!"
+  "I'll count to 6, and while I do that, you breathe air into your lungs"
   "When I count down from 9, you release the air"
   "1...2...3...4...5...6..."
   "Hold it in"
   "9...8...7...6...5...4...3...2...1..."
   "We'll do that again John, but this time, you let go of space... you'll be carried up, up, up to the clouds John"
   "1...2...3...4...5...6..."
-  "With your inside voice, say: 'Ohm tat zat'... It means 'So long space'"
+  "With your inside voice, say: 'Ohm tat zat'... It means... 'So long space'"
   "SAY IT JOHN! HookerBoy is already starting to turn pale with evil"
   "That's it John..."
-  "Now breath out John... 9...8...7...6...5...4...3...2...1..."
-  "That's good John... Now, I'm not going to count for you anymore, so you have to learn to breath on your own or die"
-  "It's very important that you use your inside eyes for the next bit... If you open your outside eyes, you are going to cause a rupture in quantum space and kill everyone within a 5 kilometer radius"
-- (Albert) "Open your fucking inside eyes John!" [said with a voice that indicated sheer terror, but a huge evil grin"
+  "Now breathe out John... 9...8...7...6...5...4...3...2...1..."
+  "That's good John... Now, I'm not going to count for you anymore, so you have to learn to breathe on your own or die"
+  "It's very important that you use your inside eyes for the next bit... If you open your OUTSIDE eyes, you are going to cause a rupture in quantum space and kill everyone within a 5 kilometer radius"
+- (Albert) "Open your fucking inside eyes John!" [said with a voice that indicated sheer terror, but a huge evil grin]
 - (Sune) "Do as he says John, he only wants what's best for you"
   "Open your inside eyes"
   "Ada boy"
   "Now look around with your inside eyes... you are standing on a cloud John... below you is the lake... she is waiting for you in the lake... but you have to jump down there John"
-  "And when you jump, you have to say 'Gung Ho Fat Jahn'... It means 'Adiós Time'... You will be V-coordinate free... At last John..."
-- (Albert) "I am quantum" [mouthing the words inaudably]
-  "On the count of 3, you jump John"
+  "And when you jump, you have to say 'Gung Ho Fat Jahn'... It means... 'Adiós Time'... You will be V-coordinate free... At last John..."
+- (Albert) "I am quantum...?" [mouthing the words inaudably]
+- (Sune)  "On the count of 3, you jump John"
   "3..."
-- (Albert) "I am quantum" [mouthing with a look of realization]
+- (Albert) "I am quantum!" [mouthing with a look of realization]
 - (Sune)  "2..." 
 - (Albert) "I..." [saying out loud]
 - (Sune) "1"
 - (Albert) "AM..."  [yelling]
 - (Sune) "JUMP JOHN!"
-- (Albert) "QUANTUM!!!"
+- (Albert) "QUANTUM!!!" [yelling]
 
 As Albert yells this last part of what was to become his mantra for the next couple of hours as he ravaged the air ducts of the FinaLibre building, he get's up and takes off running down the long corridor outside Sune's office, screaming at the top of his lungs.
 
