@@ -1,5 +1,5 @@
-John is jogging towards the train station, cursing his poor time management skills. He has a feeling like he had been on time right up until it's was time to actually leave the apartment, and then something had happened, and now he is running late. Once again. John believes that he can still make his train, if only he runs the rest of the way. It's still pretty chilly for a Summer morning, but he may have to take a shower and change when he get's into the office, but it beats having to wait 20 minutes for the next train to Thousand Acre Forest. 
-John doesn't immediatly recognize the old lady when he runs by her, but when she calls out his name, he knows that there is no getting around it. He's going to have be polite, and stop and have a talk with her. He owes Miss Jansen that much.
+John is jogging towards the train station, cursing his poor time management skills. He has a feeling like he had been on time right up until it's was time to actually leave the apartment, and then something had happened, and now he is running late. Once again. John believes that he can still make his train, if only he runs the rest of the way. It's still pretty chilly for a Summer morning, but he may have to take a shower and change when he gets into the office, but it beats having to wait 20 minutes for the next train to Thousand Acre Forest. 
+John doesn't immediately recognize the old lady when he runs by her, but when she calls out his name, he knows that there is no getting around it. He's going to have be polite, and stop and have a talk with her. He owes Miss Jansen that much.
 
 - (Miss Jansen): "JOHN! Is that you?"
 - (John) "So it is, Miss Jansen"
@@ -9,13 +9,13 @@ John doesn't immediatly recognize the old lady when he runs by her, but when she
   "And what a shame what happened to your mother!"
   "Is your father doing alright?"
 - (John) "Yeah, it was a real bummer about my mom"
-  "Dad is doing alright. I think he's made friends and started seeing people after I moved out" [smiling]
+  "My father is doing alright. I think he's made friends and started seeing people after I moved out" [smiling]
 - (Miss Jansen): "I am really glad to hear it"
 
-John doesn't doubt it. Miss Jansen really had been really good to him in school, and even as a child, John sensed that Miss Jansen was trying really hard in her own little way to correct a wrong, that a machinery outside anyone's control and influence had inflicted on him and his father, and he had always felt grateful for that. John had grown up without a mother, step-mother or even a 'Dad's regular call girl' in his life, but the closest thing he had had to a mother figure in his life growing up, was Miss Jansen. 
+John doesn't doubt it. Miss Jansen really had been really good to him in school, and even as a child, John sensed that Miss Jansen was trying really hard in her own little way to correct a wrong, that a machinery outside anyone's control and influence had inflicted on him and his father, and he had always felt grateful for that. John had grown up without a mother, step-mother or even a 'Father's regular call girl' in his life, but the closest thing he had had to a mother figure in his life growing up, was Miss Jansen. 
 
-- (Miss Jansen) "You were always so talented when it came to mathemetics. I bet you work with computers and numbers, don't you?"
-- (John) "Well... I sort of got a little side tracked and never really pursued math..." [a little embarressed]
+- (Miss Jansen) "You were always so talented when it came to mathematics. I bet you work with computers and numbers, don't you?"
+- (John) "Well... I sort of got a little side tracked and never really pursued math..." [a little embarrassed]
   "But I may be turning it around now" [smiling]
 - (Miss Jansen): "That's lovely! I sometimes fear that maybe I smothered you as a child, and didn't let you realize your full potential, letting you slide through life too easy"
 - (John) "Certainly not! Well, you may have made life easier on me, but I'm not sure I would have been a very nice person today if it wasn't for your influence" [smiling]
@@ -43,7 +43,7 @@ John could kick himself for not having seen it before. There really had been ple
 - (John) "Because she's a murderous bitch who's going to drown me in that lake if I get close enough to let her"
 - (Miss Jansen): "How will you know before you've tried it?"
 
-John DID know, because John HAD tried it, and there were other things wrong with the Lake-Girl-scene that totally justified John's urge to supress it.
+John DID know, because John HAD tried it, and there were other things wrong with the Lake-Girl-scene that totally justified John's urge to suppress it.
 
 - (John) "What do you want Miss Jansen"
 - (Miss Jansen): "I want you to apply yourself John! You had so many options available, and you flushed them all down the pisser with drugs and anger issues!"
@@ -66,25 +66,25 @@ As the old lady says this, John is immediately reminded of the urgency he felt b
 John enters the loading area of the train station, in time to glimpse the train disappearing behind the first bend in the tracks on the way to Thousand Acre Forest, and the disappointment overwhelms John with roaring fury.
 
 - (John) "FFFFFUUUUUUUUCCCCCCKKKKKK!!"
-- (Frank) "Now John, we can't have that tone here at FinaLibre. We are a respectable company and you can't go around acting like you would with your junkie and hooker friends. You are simply going to have to apply yourself now"
+- (Job interview guy) "Now John, we can't have that tone here at FinaLibre. We are a respectable company and you can't go around acting like you would with your junkie and hooker friends. You are simply going to have to apply yourself now"
 - (John) "Well, we're not at FinaLibre now, are we?" [angrily]
-- (Frank) "Are you being insubordinate?"
+- (Job interview guy) "Are you being insubordinate?"
 - (John) "No sir, I'm not being insubordinate. I'm letting out emotions, which is something real people do, so they don't explode in fits of screaming rage at the slightest provocation"
-- (Frank) "Well, you are just going to have to find a more civil outlet for your frustration!"
+- (Job interview guy) "Well, you are just going to have to find a more civil outlet for your frustration!"
 
-At this point, John has started to dress down, taking of his tie and cufflinks. It's not that it really matters, with this being a dream and all and what does he care if he get's his imaginary suit dirty, but he kind of likes the ritual. It's a little like cracking your knuckles and neck.
+At this point, John has started to dress down, taking of his tie and cuff links. It's not that it really matters, with this being a dream and all and what does he care if he gets his imaginary suit dirty, but he kind of likes the ritual. It's a little like cracking your knuckles and neck.
 
-- (Frank) "I don't like that look in your eyes young man!"
+- (Job interview guy) "I don't like that look in your eyes young man!"
 - (John) "Keep talking"
 
-Frank does keep talking and screaming and crying while he remains conscious, but eventhough John's mind finds excuses to keep the man alive and screaming, he knows that the therapy-session must end at some point. As he walks out of the train station, the cleaning crew comes rushing in to clean up the blood and various other body fluids the bloody corpse has expulsed during the massacre. 
-The next thing John is aware of, is that he is passing through that small passageway between dream and awake; the point where you know you are awake, but can still remember your dream. John reaches out for his phone, and sends himself a message that reads:
+Job interview guy does keep talking and screaming and crying while he remains conscious, but even though John's mind finds excuses to keep the man alive and screaming, he knows that the therapy-session must end at some point. As he walks out of the train station, the cleaning crew comes rushing in to clean up the blood and various other body fluids the bloody corpse has expulsed during the massacre. 
+The next thing John is aware of is, that he is passing through that small passageway between dream and awake; the point where you know you are awake, but can still remember your dream. John reaches out for his phone, and sends himself a message that reads:
 
 - GET ON THAT TRAIN
 - lake girl
 - long hallway
 - the shadows... Shadow-Man?
-- remember tatto-check! IMPORTANT!
+- remember tattoo-check! IMPORTANT!
 
 After replaying the dream once again, the adds:
 

@@ -1,6 +1,6 @@
 - (Albert) "No, no, no... I checked the stress diagram for the building, and we're going to collapse the entire North half of the building if we put it there"
   "However..."
-  "If place 2 charges in the cravice between this beam and the ceiling..."
+  "If place 2 charges in the crevice between this beam and the ceiling..."
   "And a single charge in a little dugout of this wall..."
   "There is almost no chance of causing damage to any part of the weight-bearing structure..."
   "AAAAND... It will almost certainly drive the mark to run this way..."
@@ -14,19 +14,19 @@
   "I only ever wanted perfection!"
   "And as it turns out, the answer was right there all along!"
   "It really isn't about the journey..."
-- (Sune and Albert in chorus) "...It's the friends you make along the way" [Sune, whiping an actual tear off his cheek]
+- (Sune and Albert in chorus) "...It's the friends you make along the way" [Sune, wiping an actual tear off his cheek]
 - (John) "I think you may have mispronounced 'ACCOMPLICE'" [making sure to stress that last word, and the fact that he had used the singular form]
 
 "There really is something rotten about this basement!" John thinks to himself, as he hears Sune and Albert lay out their plan to scare the fear of death into some young - most likely undeserving - new hire at FinaLibre, who's only provable crime had been to accept the job offer in what he thought of - and what probably indeed is - a hip new FinTech company in the prime of it's existence. It was no more than 24 hours ago, that this little band of amateur detectives assembled in Sune's office in the basement for their first meeting, and John practically had to drag Albert along by the boots. The guy was shaking so hard walking down the stairs as long-since repressed memories of some sick prank came topside in the ocean of Albert's mind. And then look at the murderous little bastard in spe now!
 John can feel this place getting under his own skin as well. The worst part about it is that the madness gets into your head, and somehow you stop noticing that it's there while the decease slowly eats away at your sanity. John 
-remembers having read about a parasittic creature that will infect bees and wasps and take control of their mind, and while the creature is spawning offspring that nest inside the animals body, the animal falls more and more under control of the parasite until it's time for the offspring to hatch, and the parasite pushes the big red self-destruct button causing the animal to kill itself and leave it's remains for the offspring to feast on. 
+remembers having read about a parasitic creature that will infect bees and wasps and take control of their mind, and while the creature is spawning offspring that nest inside the animals body, the animal falls more and more under control of the parasite until it's time for the offspring to hatch, and the parasite pushes the big red self-destruct button causing the animal to kill itself and leave it's remains for the offspring to feast on. 
 "Was it really bees and wasps? Or some other insect?" 
-You see, that's how it get's you... You know that there is something dark and evil eating away at your very core, and all you do is pacify yourself with questions about insects!
+You see, that's how it get' you... You know that there is something dark and evil eating away at your very core, and all you do is pacify yourself with questions about insects!
 
 - (John) "Alright, I need you guys to step out of your little 'Bonnie & Clyde in the Twilight-Zone'-fantasy for a bit, and talk to me"
 - (Sune and Albert) "..." [looking expectingly at John]
 - (John) "What do you guys know about dreams?"
-- (Sune) "Ooohhhh Sunny... I had dreams once... Until that damn shark ate my leg and my baby!" [once again wiping a tear from his chin]
+- (Sune) "Ooohhhh Sunny... I had dreams once... Until that damn shark ate my leg and my baby!" [once again wiping a tear from his cheek]
 - (Albert) "..." [looking in admiration]
 - (John) "Dreams, as in whatever the hell the brain is doing while we sleep" [a little annoyed]
 - (Sune) "Dreams... The window into the soul"
@@ -37,11 +37,11 @@ You see, that's how it get's you... You know that there is something dark and ev
   "Let's try again: What do you know about dreams?"
 - (Albert) "I think they are the result of some cleanup job the brain performs at night"
   "Cleaning up unfinished and interrupted thoughts"
-- (Sune) "So ya have a clean shitter in the morning!"
+- (Sune) "So ya have a clean shitter in the morning!" [Scottish accent]
   "But there's also the recurring dreams... You know: the one with the beavers"
 - (John) "The beave... NO! I can't believe you almost got me again! None of us is going to ask you about your recurring dreams about soul-eating beavers, or whatever sick shit you have just thought up!"
 - (Sune) "Your loss!"
-  "But if I have to come visit your ass in the hospital because you got acute shock from the 'Beaver-dream' and didn't know that the key is to use the plunger..."
+  "But if I have to come visit you in the hospital because you got acute shock from the 'Beaver-dream' and didn't know that the key is to use the plunger..."
   "I'll be singing 'I told you so, I told you so, I told you so'"
 - (John) "ALRIGHT! Text me whatever hint you have on getting out alive from the 'beaver dream'"
   "I had a dream. A school teacher from elementary school confronted me with a riddle... or it could have been a joke... she was a little unclear about that... she also mentioned a bunch of other stuff, but I'm not really ready to talk about that"
@@ -81,7 +81,7 @@ The question is followed by more than a full minute of silence.
 - (John) "..."
   "I..."
   "You guys are fuc..."
-  "..." [draws deep breath in, closes eyes, and exhales a lot of suddently pent up frustration]
+  "..." [draws deep breath in, closes eyes, and exhales a lot of suddenly pent up frustration]
   "I absolutely know the riddle is about the first meaning!"
   "As in: a radicalized person... radicalizing someone"
   "It's the only meaning that strikes any sort of chord with me"
@@ -112,7 +112,7 @@ John stares at the explanation in deep contemplation.
 
 - (John) "I think I've heard these before..."
   "If we roll with this..."
-  "And interprit the riddle in the spirit of those jokes..."
+  "And interpret the riddle in the spirit of those jokes..."
   "Then the answer to 'How do you make a square radical?', would be something silly like: 'First you make a cubic radical, and then you squeeze it until it's square'... Right?"
 - (Sune) "Hmmm... Wouldn't it just become round? I doubt it would become square"
 - (Albert) "But if you assume that meaning, then you can pretty much remove the part about the radical being square, because the riddle reduces to: 'How do you make a radical?'"
@@ -121,8 +121,8 @@ John stares at the explanation in deep contemplation.
   "I once worked in a terrible place called 'The Pit'... It drove away my sanity, and left me this way!"
   "The Cripple forced me to participate in a 'Social Experiment'... He was a real psycho! Bad hip... EVERYBODY ELSE HAD TO SUFFER because of it!"
   "The experiment was to try to radicalize this poor bastard... 'Wadih'... or 'Wahid'... or 'Jesper'... Hell if I remember"
-  "I took extensive notes..." [opens the notebook]
-- (John) "Look... I appreciate these undoubtebtly useful insights, but unless whatever findings you guys made can be expressed as a one-liner, I doubt it's going to be the answer we are looking for"
+  "I took extensive notes though..." [opens the notebook]
+- (John) "Look... I appreciate these undoubtedly useful insights, but unless whatever findings you guys made can be expressed as a one-liner, I doubt it's going to be the answer we are looking for"
 - (Sune) "Yeah... It's much the same... It didn't work... He just kept on with that stupid grin and his 'Skønno Bardønno Frede' and chucking beers and pork grinds..."
   "Between the three of us, I'm not sure he really understood the language..."
   "Or maybe he was just immune to new ideas"
@@ -140,7 +140,7 @@ John stares at the explanation in deep contemplation.
   "researching how to make bombs, or gain access to unregistered firearms..."
 - (Sune) "That one's easy... I'll send you a link"
 - (Albert) "I guess it takes... dedication"
-  "And you have to be ready to separate yourself from society as a whole while you undergo some metamorphis... At least mentally"
+  "And you have to be ready to separate yourself from society as a whole while you undergo some metamorphosis... At least mentally"
 - (John) "Alright, but there's gotta be more... Otherwise, why hasn't HE become radicalized?" [pointing at Sune]
 - (Albert) "..." [looking questioningly at John]
 - (John) "Well..." [conceding]
@@ -148,14 +148,14 @@ John stares at the explanation in deep contemplation.
   "He certainly does have potential..."
   "but, it's like he doesn't really believe in anything..."
   "I think, in order to become radicalized, you need to at least WANT to believe in something..."
-  "He seems more or less content with just fucking around with scaring the shit out of the lowhanging quartile of the work force, and whatever other types of shit he get's into down here..."
+  "He seems more or less content with just fucking around with scaring the shit out of the low-hanging quartile of the work force, and whatever other types of shit he gets into down here..."
 - (Sune) "Why, I have NEVER! HERACY! I thought you believed in the cause!"
 - (Albert) "And can you describe the cause in just a few words?... No distracting diagrams!"
 - (Sune) "EASILY! PTSD in less than a minute and a half... You know that!"
 - (Albert) "Exactly! You have a goal... And it's both insane and beautiful and I'm totally onboard, but it's not a 'cause' as such, unless we include '4 shits n' giggles' as a cause..."
 - (John) "..." [looking pensive]
-  "Alright, how about this for a solution: 'How do you make a square radical? You take an idealist, break him down and bake him at 200 degrees for 30 minutes in a square mould'...?"
-  "...Ok, ok ... I know, it needs a little work, but it does make me think of something"
+  "Alright, how about this for a solution: 'How do you make a square radical? You take an idealist, break him down and bake him at 200 degrees for 30 minutes in a square mold'...?"
+  "...OK, OK ... I know, it needs a little work, but it does make me think of something"
   "Where did we put Angela's test results?"
 
 - (John) "I remember wondering about this test she periodically did on Frank..."
@@ -185,8 +185,8 @@ John stares at the explanation in deep contemplation.
   "Frank is an evil bastard, and if we don't kill him, who will?"
   "Sometimes, you have to be the change you want to see in the world"
 
-John hadn't really been driving at anything... He had just put his view on Frank out there, as sort of a: 'by the way, I think Frank is a fucking psycho and I'd really like to kill him' with the same lighthearted intent two married men will notice the changes in 'hot & not in women's legwear' on a young woman passing by their bar stool, without actually having any intent of approaching her. Of course, if she offered to go with one of them to somewhere more private so he could have a closer look, he may feel forced to oblige in much the same way that John wouldn't mind catching Frank in doing some weird shit that would justify pummeling the man silly, but neither had any intent. But now that it was out there, John inevitably got to thinking about some more aspects about the situation: there was definitely something about Frank that rubbed him very wrong, but he was also suddently struck by an all new realization - though, come to think about, the old freak might have hinded at it a couple of times: say he was right about Frank and this little unholy group of outcasts killed the man and were able to get away with it and prove to the world that Frank had been responsible for every catastrophe since the destruction of Babel, his job here at FinaLibre would be done. And how would he feel about that? "UNSATISFIED" 
-The old bastard was right: "his involvement in this scene was about a lot more than figuring out who killed Angela and prevent further killings. To him, this was first and foremost about HER"
+John hadn't really been driving at anything... He had just put his view on Frank out there, as sort of a: 'by the way, I think Frank is a fucking psycho and I'd really like to kill him' with the same lighthearted intent two married men will notice the changes in 'hot & not in women's legwear' on a young woman passing by their bar stool, without actually having any intent of approaching her. Of course, if she offered to go with one of them to somewhere more private so he could have a closer look, he may feel forced to oblige in much the same way that John wouldn't mind catching Frank in doing some weird shit that would justify pummeling the man silly, but neither had any intent. But now that it is out there, John inevitably gets to thinking about some more aspects about the situation: there is definitely something about Frank that rubs him very wrong, but he was also suddenly struck by an all new realization - though, come to think about, the old freak might have hinted at it a couple of times: say he was right about Frank and this little unholy group of outcasts killed the man and were able to get away with it and prove to the world that Frank had been responsible for every catastrophe since the destruction of Babel, his job here at FinaLibre would be done. And how would he feel about that? "UNSATISFIED" 
+The old bastard is right: "his involvement in this scene is about a lot more than figuring out who killed Angela and prevent further killings. To him, this is first and foremost about HER"
 
 - (John) "Much as I hate to disagree with you old man, he's right: We can't kill him without proper cause. It's true: the guy is highly respected here at the company, and people will definitely notice if he goes missing all of a sudden"
   "I'll take the test data Angela pulled on him home with me, and see if I can find something to suggest that he went psycho over the years working here, or that Angela at least suspected him of it"
@@ -197,11 +197,11 @@ Sune doesn't say anything to this but also doesn't make any objections. Albert o
 - (Albert) "I hate to leave you guys to it, but I have an appointment in town in an hour, and I really need to change into something that won't have me arrested on suspicions of terrorism if I happen to run into a police bomb squad on my way there"
 - (Sune) "You promised! At least give me her phone number so I can write her myself"
 - (Albert) "Alright... But whatever happens, know that she's going to absolutely loathe you and do everything in her power to pull you into the swamp of self-loathing and hold you under until you drown"
-- (Sune) "..." [looking into the void, seemingly lovestricken]
+- (Sune) "..." [looking into the void, seemingly love-stricken]
 - (Albert) "Have fun Sensei"
 - (Sune) "OOOOSSSHH!!!"
 
-John has been surprised to discover that he kind of likes hanging out with the old freak and the young whore... There is something freeing about for once not being the most mentally disturbed person in the room. John however knows, that the trio work best when they are indeed a trio. When the whore is there, he can sort of lean back and only interfere with the conversation has gone too far off track - like smacking an 80's television set when the signal went bad - but when it's just him and the old man, it's all just a little too much. The constant barrage of bullshit fired at him is draining as hell, and John is contemplating an exit strategi as Albert steps out, but he could have saved himself the trouble, because as soon as Albert is out of ear shot, the old freak does his signature move - the one where he balances between being far off in some other land and being very 'right here and in your face' - as he slams both his fists into the desk between John and him, leans in and stares at John deadpan:
+John has been surprised to discover that he kind of likes hanging out with the old freak and the young whore... There is something freeing about for once not being the most mentally disturbed person in the room. John however knows, that the trio work best when they are indeed a trio. When the whore is there, he can sort of lean back and only interfere with the conversation when it has gone too far off track - like smacking an 80's television set when the signal went bad - but when it's just him and the old man, it's all just a little too much. The constant barrage of bullshit fired at him is draining as hell, and John is contemplating an exit strategy as Albert steps out, but he could have saved himself the trouble, because as soon as Albert is out of ear shot, the old freak does his signature move - the one where he balances between being far off in some other land and being very 'right here and in your face' - as he slams both his fists into the desk between John and him, leans in and stares at John deadpan:
 
 - (Sune) "You may think you have all the time in the world to fuck around and chase the ghost of Angela, but you don't and if you don't reconcile yourself to that fact, a lot of people are going to die!"
   "Nobody is saying you have to drop it, but keep your fucking eyes on the primary objective!"
@@ -209,6 +209,6 @@ John has been surprised to discover that he kind of likes hanging out with the o
 
 Sune's phone gives out a 'DING'.
 
-- (Sune) "Now get the fuck out; I have a very fine and extremely angry young woman on the way paying good money to do me a great deal of bodily harm, and I have to hose down the laundry room before she get's here"
+- (Sune) "Now get the fuck out; I have a very fine and extremely angry young woman on the way paying good money to do me a great deal of bodily harm, and I have to hose down the laundry room before she gets here"
 
-John knows better than to try for a win when trailing by 10 and in way, there is something beautiful - no, that's the wrong word for something so evil - 'awe-inspiring' about whatching the guy do change-of-direction-drills up and down the step ladder of the mental illness spectrum. John let's the comment about hosing down the laundry room hang there as the final word and mental image to summarize the result of the day, and walks out. 
+John knows better than to try for a win when trailing by 10 and in way, there is something beautiful - no, that's the wrong word for something so evil - 'awe-inspiring' about watching the guy do change-of-direction-drills up and down the mental illness spectrum. John let's the comment about hosing down the laundry room hang there as the final word and mental image to summarize the result of the day, and walks out. 

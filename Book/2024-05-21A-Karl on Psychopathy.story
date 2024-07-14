@@ -145,7 +145,7 @@
   "What was it, about 3 weeks ago you went off on that mad Winnie The Pooh is a sadistic rapist non-sense"
 - (Karl) "That is besides the point!"
 - (Susan) "And the day before that, you went off on the Lizard-people theory"
-- (Carol) "I think you need so see someone about your fear of blood, honey" [touching Karl's arm comfortingly]
+- (Carol) "I think you need to see someone about your fear of blood, honey" [touching Karl's arm comfortingly]
 - (Karl) "Look! It's not about that!" [frustrated]
 
 Everybody except from Karl gets up from the lunch table.
