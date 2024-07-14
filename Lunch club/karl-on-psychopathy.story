@@ -4,7 +4,7 @@
   "that was MY childhood dream?" [challenging the rest of the group]
 - (Mike) "Well, it's your money" [folding]
 - (Cecil) "You do you, man" [folding]
-- (Carol) "You know Karl, it wouldn't hurt to have this one thing, she going to be married to YOU for the rest of her life"
+- (Carol) "You know Karl, it wouldn't hurt to give her this one thing, she is, after all, going to be married to YOU for the rest of her life"
 - (Ben) "There wasn't even a pot, man... Take it" [folding]
 - (John) "..." [holding a hand up, dismissing getting involved in the dirty affair]
 
@@ -18,8 +18,8 @@
   "people snorting cocaine off the butts of hookers while 'landing big deals over the phone'" [gestures holding a telephone-receiver between head and shoulder]
   "and out-of-touch professional psychopath management driving stock of replaceable labor over the Cliff of Exhaustion in suicide!"
 - (Carol) "Would one of you guys please show Mike around to the Employee Fountain of Nickles? ... tsk, tsk tsk" 
-- (Ben) "I'll get you setup for FunBox TM Mike" [winking]
-- (John) "Now we just gotta find you a boss psychopath Mike and you'll be a happy camper" [smiling at Mike]
+- (Ben) "I'll get you set up for FunBox TM Mike" [winking]
+- (John) "Now we just gotta find you a boss psychopath for Mike and he'll be a happy camper" [smiling at Mike]
 - (Susan) "We've got Pissy Frank come Audit-time... does that help?"
 - (Karl) "..." [in deep contemplation, apparently brooding over an idea]
   "You guys know what?"
@@ -61,7 +61,7 @@
   "You guys might 'think I was an asshole'" [looking at John]
   "but would that make me a psychopath?"
 - (Everyone) "..." [puzzled, not really getting what Karl is driving at]
-- (Mike) "Karl, did your father do mean things too you?" [touching Karl's hand with a concerned expression on his face]
+- (Mike) "Karl, did your father do mean things to you when you were a child?" [touching Karl's hand with a concerned expression on his face]
 - (Karl) "Shut up!"
   "Alright..."
   "You remember Jacob, right John?" [looking at John]
@@ -74,15 +74,15 @@
   "Shot 10 times in the head!"
   "But that the case is COVERED in red tape!"
   "Buried!"
-  "Check this out..." [leaning forward, whispering in secrecy]
+  "And there's more..." [leaning forward, whispering in secrecy]
   "One time, some of us from Client Management went out drinking..."
   "And after the strip joint, when it was just me and Jacob having drinks in a last-ditch bar"
   "we get to talking, and he tells me about this super-secret online society he's a part of"
   "'Banshee something'... The whole Banshee thing derives from some Irish myth about forewarnings of death..."
   "It's invite only... Someone finds you and tell you that you're in..."
-  "And do you guys know what these guys do?"
+  "And do you guys know what these people do?"
   "They KILL people"
-  "So, if you're a member, you can put up a 'mark' and a reward, that 'I would like to see this or that guy put to sleep'"
+  "So, if you're a member, you can put up a 'mark' and a reward, that 'I would like to see this or that guy disappear'"
   "And the reward is in a virtual currency that you can only obtain, by killing people on the list!"
   "Only requirement is, that you have to prove that the mark has killed people"
   "So, for instance, say you have a real issue with some dude in your everyday life..."
@@ -111,4 +111,46 @@
   "In the way that 'nobodies seen Jacob but he's probably living the sweet life in a favela in Brazil, when in fact he's buried in an unmarked grave somewhere'"
 - (Everyone) "..." [looking at Karl puzzled and a little worried]
 - (Karl) "So, now..." [sitting up straight and raising his voice]
-  
+  "Society as a whole, would label anyone on that list a 'psychopath', right?" [once again, emphasizing the quotes]
+- (Everyone) "..." [a little uneasy]
+- (Karl) "But I call bullshit!"
+  "They just have another frame of reference!"
+  "The ability to track someone down and murder them isn't some malevolent trait that some off-breed less developed cast of society has..."
+  "Like the square Johns will have you think"
+  "It's just that you have accepted that the same thing might happen to you... You are playing for bigger stakes so to say"
+  "And I think that you can generalize this perception..."
+  "In movies and books, the murderer is often treated as someone almost from another universe, because he is able to do the 'unthinkable deed'"
+  "I think it's just a matter of these people having learned throughout their life, that society will do the same thing to them..."
+  "They are playing the game of life on a higher skill setting"
+- (Ben) "Well, I think psychologists generally agree that psychopathy is the result of a mix of nature and nurture, but..."
+- (Karl) "BUT NOTHING!"
+  "Can't you see: this is 'stay-in-your-place'-ism in it's worst form"
+- (John - thinking) "IMMORTAL TECHNIQUE" [giving the props that Karl forgot to give]
+- (Karl) "Because the rich assholes that are presently in power, do not want us to play any game that might jeopardize their superiority..."
+  "... so they make up a whole load of bull shit terms like: 'psychopath' and 'sociopath'..."
+  "notice how they can't even agree on whether those two are the same damn thing!"
+  "and every fucking square John happily skip along to the beat of these assholes: 'we must not be psychopaths', because it makes the ASSHOLES in power feel uneasy"
+  "..." [now standing, looking around the table, challenging the others to retort]
+- (Cecil) "I'm felling a little uneasy myself... But I've got nothing..." [folding his hand]
+- (Mike) "That was a lot to take in... I can't even..." [folding his hand]
+- (Ben) "..." [shrugging his shoulders, folds]
+- (Everyone) "..." [looking at John in expectation of his move]
+- (John) "..." [staring at Karl]
+  "Do you know what I really hate about working with you?"
+- (Karl) "..." [looking at John, defiantly]
+- (John) "I get to know really private details about your girlfriend based on when you set off on one of these manic rants"
+  "Details that I don't want to know!"
+- (Everyone) "..." [looking puzzled]
+- (Carol) "THAT'S RIGHT!"
+  "What was it, about 3 weeks ago you went off on that mad Winnie The Pooh is a sadistic rapist non-sense"
+- (Karl) "That is besides the point!"
+- (Susan) "And the day before that, you went off on the Lizard-people theory"
+- (Carol) "I think you need so see someone about your fear of blood, honey" [touching Karl's arm comfortingly]
+- (Karl) "Look! It's not about that!" [frustrated]
+
+Everybody except from Karl gets up from the lunch table.
+
+- (Karl) "Not ALL about that anyways..." [muttering to himself]
+
+- (Mike) "Was that whole thing about a secret society just something he made up?" [whispering to Cecil as they leave]
+- (Cecil) "I'm not sure man, but I might just stick to 'not-killing-people' to be on the safe side" [smiling, a little uneasy]
