@@ -41,7 +41,7 @@ Meanwhile, in the basement.
 - (Sune) "What a loser!"
   "The boy lacks ambition" [gesturing 'what can I say?']
 - (Donnie) "Well..."
-  "Look, I need to talk to you about another thing..."
+  "Look, I really need to talk to you about another thing..."
 
 
 Meanwhile, on the second floor.
