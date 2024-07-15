@@ -17,7 +17,7 @@ Carol noticed a young woman standing outside the main entrance to FinaLibre. The
 - (Carol) "Please... I commit greater crimes against our hopelessly ineffective access control system every Friday night" [smiling]
 - (Louisa) "In that case; yes... I would very much like a tour" [smiles]
   "Did you know John well? That's not his real name by the way..."
-- (Carol) "I know... It's the name he gave us when applying for the job, so we've just kinda stuck with it, eventhough it was heavily speculated he had made up most of the 'John'-personality"
+- (Carol) "I know... It's the name he gave us when applying for the job, so we've just kinda stuck with it, even-though it was heavily speculated he had made up most of the 'John'-personality"
   [walking with Louisa towards the entrance, beginning the tour]
 - (Louisa) "I guess it's as good a name as any" [smiles]
   "Did you know him well?"
@@ -41,14 +41,14 @@ Carol noticed a young woman standing outside the main entrance to FinaLibre. The
 - (Carol) "Don't be silly... there are no restrictions when it comes to closure... From what he shared about the two of you, you were really close once"
 - (Louisa) "I'd like to think that we were... Or... I DID think we were close... Until we suddenly weren't"
   "... and I don't even know what happened..." [stopping, in a quiet corner]
-  "I would have understood if he had left me during our first years together... I'n fact, I never understood why he didn't..."
+  "I would have understood if he had left me during our first years together... In fact, I never understood why he didn't..."
   "I was in a really bad place back then"
 - (Carol) "..." [nodding knowingly]
 - (Louisa) "But I had put that behind me, and I honestly think John had too"
   "We weren't perfect, but what couple is? We had fights, sometimes really loud fights, but we always found a way, you know"
   "And I think we were moving forwards towards a better life for the both of us"
   "I finished my studies and got full-time"
-  "... we both layed off drugs and partying..."
+  "... we both laid off drugs and partying..."
   "We had a small apartment together, and we had found a way to live life, that wasn't destructive"
   "... we had even talked about starting a family... Nothing hasty... Just: 'could you imagine this or that', joking about baby names and such... And it seemed to me like John was on board"
   "And then one day, he wasn't at all onboard... He didn't want to start a family, he cheated on me and then just broke it off"
@@ -59,7 +59,7 @@ Carol noticed a young woman standing outside the main entrance to FinaLibre. The
   "Do you know what he told me?"
 - (Carol) "No idea... He never told me anything about his view on family, other than 'it's not for me'"
 - (Louisa) "He had a dream! That's what he said... or that's what it all boiled down to: he had a dream, and now he knew that he wasn't going to have kids"
-  "At first I thought he was joking, and I tried for some snive remarks, but he got all serious and like 'I really need you to understand this one thing'"
+  "At first I thought he was joking, and I tried for some snide remarks, but he got all serious and like 'I really need you to understand this one thing'"
   "... and then he tells me about this dream he had... He met himself as older, only it wasn't him as such, but then again: IT WAS HIM... That's what he said..."
   "... and he saw kids... whole kids, except they had a hole where their father was supposed to be... in the same way it was with him and his mother... Did he tell you that he died when he was 4?"
 - (Carol) "He did" [smiling]
@@ -70,7 +70,7 @@ Carol noticed a young woman standing outside the main entrance to FinaLibre. The
 - (Carol) "No, it's alright... There are things about John I wonder about myself, and it's good to hear about your experiences with him"
 - (Louisa) "How long were you together?"
 - (Carol) "Well, I guess we weren't really together, other than on occasions over the course of 3 weeks. It was never really an exclusive deal... Well, at least it wasn't for me, but I don't know if he saw anyone else..."
-  "I think that was one of the things I liked about him from the start... He was really chill... About that, I mean... He had this whole 'wound-up-crazy-tight-violent-murderer'-deal going for him, but he was really chill when it came to our relation... I have a very active... social life... which scares off most men I meet... even when they say they are cool with it, somehow it always end up being the elephant in the room... But it was never like that with John... I have sort of a... reputation in the company... and to begin with, I thought maybe he hadn't heard about that, because he wasn't really trying out for Mister Popular, and that made me feel kinda worried that he thought we had something exclusive going and that he would then find out from our colleagues about... well... and so I dropped some casual hints about how I sometimes spend time with other men, and he seemed totally unphased by it, until my hints became so unsubtle that he told me in a really personal and considerate tone, that he knew about how I also see other men, and that it was totally cool with him, but he wanted to thank me for bringing up the subject, because he had been meaning to ask me to show him the consideration of not being with him within 24 hours of being with someone else, for sanitary reasons... And he said it in a way that suggested that he knew that there was something wrong with him for having this weird need for hygeine, and that it wasn't me who is a slut, which is what any other man I have ever known would have made me feel like in that situation, even if they didn't mean it"
+  "I think that was one of the things I liked about him from the start... He was really chill... About that, I mean... He had this whole 'wound-up-crazy-tight-violent-murderer'-deal going for him, but he was really chill when it came to our relation... I have a very active... social life... which scares off most men I meet... even when they say they are cool with it, somehow it always end up being the elephant in the room... But it was never like that with John... I have sort of a... reputation in the company... and to begin with, I thought maybe he hadn't heard about that, because he wasn't really trying out for Mister Popular, and that made me feel kinda worried that he thought we had something exclusive going and that he would then find out from our colleagues about... well... and so I dropped some casual hints about how I sometimes spend time with other men, and he seemed totally unfazed by it, until my hints became so unsubtle that he told me in a really personal and considerate tone, that he knew about how I also see other men, and that it was totally cool with him, but he wanted to thank me for bringing up the subject, because he had been meaning to ask me to show him the consideration of not being with him within 24 hours of being with someone else, for sanitary reasons... And he said it in a way that suggested that he knew that there was something wrong with him for having this weird need for hygiene, and that it wasn't me who is a slut, which is what any other man I have ever known would have made me feel like in that situation, even if they didn't mean it"
 - (Louisa) "You are right! That was a really great quality about him!"
   "But of course, it's a little hard to tell your mother that when you tell her you've met someone" [laughing]
 - (Carol) "Right" [laughing]
@@ -125,7 +125,7 @@ The sound of Louisa's voice, makes Sune look up immediately.
 - (Sune) "Would you feel better if we talked outside in the sun-light?"
 - (Louisa) "Here or there doesn't make any difference to me. Why do you ask?"
 - (Sune) "Well, it's just that you are a totally normally sized woman, and I'm this super-masculine and over-powered man... Don't get me wrong: Carol is right about me being harmless and all, but how would you know that, and I wouldn't blame you if you wanted to be out where people could see us and all... I have a daughter who is grown up now, so I'm used to worrying about what women must do to stay safe"
-- (Louisa) "..." [looking him over, inspectingly]
+- (Louisa) "..." [looking him over, inspecting him]
   "Yeah... you don't scare me"
 - (Sune) "..." [looking at her confused, then looks down at himself]
   "Ah, it's because I'm wearing my nerd-fit today... If I had brought my slav-uniform - real Adeedas and gold chain - you would have been hella scared"
@@ -137,49 +137,49 @@ The sound of Louisa's voice, makes Sune look up immediately.
    "Speaking of John"
 - (Louisa) "Which we weren't"
 - (Sune) "Yeah, you kinda got me there I suppose, but I figured one of us had to bring it up, and..."
-- (Louisa) "You know, I'm not sure one of us does. Carol thaught it would be a good idea to talk to you for some reason, but I'm not sure it was related to John... Not directly anyways"
+- (Louisa) "You know, I'm not sure one of us does. Carol thought it would be a good idea to talk to you for some reason, but I'm not sure it was related to John... Not directly anyways"
   "We could of course call her and ask, but that seems a little immature"
 - (Sune) "'Help Carol, we forgot how to talk'" 
 - (Louisa) "Yes, like that. How about we see if we can't solve this riddle by working together. Suggest me 3 different topics - all related to you personally - and none of them related to John, I'll pick one of them, and then we'll take it from there." 
-- (Sune) "Alright... Let me think... Otherwise I'll just pick whatever I was thinking about, and that might be un-interesting..."
+- (Sune) "Alright... Let me think... Otherwise I'll just pick whatever I was thinking about, and that might be uninteresting..."
 ...
-- (Sune) "Ok. I've got it. In front of you are three doors:
+- (Sune) "OK. I've got it. In front of you are three doors:
   1. Surviving in the aftermath of nuclear war in the nuclear family: a personal tragedy from modern family life
-  2. My theories on how Hollywood budget cuts has ultimately caused the death of the explorative conversation and eroded social coherence
-  3. My theories on how early childhood trauma brough on by extreme asthma attacks, has cast a long shadow on my workout-routine well into my early middleage"
+  2. My theories on how Hollywood budget cuts has ultimately caused the death of the exploratory conversation and eroded social coherence
+  3. My experiences with childhood trauma brought on by extreme asthma attacks, has cast a long shadow on my workout-routine well into my early middle-age"
 
 - (Louisa) "Wow, those are quite the options... Well, I don't care about your asthma attacks to be honest, and although we could probably have an intense debate about subject #2, I'm going to see what's behind door #1. Alex, I choose door #1 and a tale about a broken marriage"
-- (Sune) "I thought you would... Ok, so have you ever noticed how limited our range of conversation has become? On most topics there is a very limited set of responses that people expect you to choose from, and when the conversation is between a man and a woman, the options become even more limited, almost all of them along the line of some light banter with an undertone of..."
+- (Sune) "I thought you would... OK, so have you ever noticed how limited our range of conversation has become? On most topics there is a very limited set of responses that people expect you to choose from, and when the conversation is between a man and a woman, the options become even more limited, almost all of them along the line of some light banter with an undertone of..."
   "Wait a minute...!"
   "..."
   "Why would you choose the one with the divorce? I just threw that one in there to make three! I was sure you would go for 2, and to be honest, I'm glad you didn't go for 3, because that is still traumatic to me... Nobody ever chooses the first option!"
 - (Louisa) "Well funny man, It's my show, and I chose door number 1, now get on with the tale" [taking a seat, leaning back in the chair and gesturing with her hands for him to get on with the show]
 - (Sune) "Well alright... Let me just rewind my head... I sort of had the first 5 minutes of conversation-theories all ready..."
-  "Ok... I met my X-wife when we were 22" [crossing his forearms in an X]
+  "OK... I met my X-wife when we were 22" [crossing his forearms in an X]
 - (Louisa) "What was that?"
 - (Sune) "The X... yes... Well, technically we are not really divorced... It's just easier that way legally, if I should pass away or whatever... We've been living apart for 2 years now and rarely talk, but legally we are still married, so it's really not right to call her my ex-wife - like spelled with an e and an x - but if I call her my X-wife..." [crosses forearms again]
-  "most people naturally assume that's what I meant, and the rest of them get to wonder what the X means... Is it like the 'X-men' or maybe like 'X marks the spot'? In this day and age, where any answer is right at your fingertips, that kind of mistery may mean a little to some people"
-- (Louisa) "Ok, I see that. And she's totally fine with this?"
-- (Sune) "Well, it's really most likely to affect her in any case... without being too dramatic about it, it's fair to say that the likelyhood of her outliving me is... massive. There are statistics around, that clearly detail that people with ADHD have a significantly shorter expected lifespan than normal folks, and if I didn't have ADHD, I might have known just how many years 'significantly' means in this context" [looking at Louisa sternly]
+  "most people naturally assume that's what I meant, and the rest of them get to wonder what the X means... Is it like the 'X-men' or maybe like 'X marks the spot'? In this day and age, where any answer is right at your fingertips, that kind of mystery may mean a little to some people"
+- (Louisa) "OK, I see that. And she's totally fine with this?"
+- (Sune) "Well, it's really most likely to affect her in any case... without being too dramatic about it, it's fair to say that the likelihood of her outliving me is... massive. There are statistics around, that clearly detail that people with ADHD have a significantly shorter expected lifespan than normal folks, and if I didn't have ADHD, I might have known just how many years 'significantly' means in this context" [looking at Louisa sternly]
   "Well anywho, I told her at some point, that she only has to ask for a divorce and we'll make it happen, but she's a pretty practical woman, and so far she hasn't. Makes no difference to me"
   "Now, where were we... Ah yes, about a year after I met her, she gave birth to our daughter. That was... pretty wild actually. I cried and all" [making convincing gestures with his eyes]
 - (Louisa) "A lot of people do that at the birth of a child... You are allowed to I think" [smiling]
-- (Sune) "Ah yes... Time is really weird... I remember how I felt when she was just a baby, and I used to go for these long walks at 5 o'clock in the morning... It was the Summer... She would only sleep when she was being driven in her carriage... So I would take these long walks of up to 2 hours, so my girlfriend - we weren't married then - could sleep. And I had dreams... for her! I wanted her to be happy and have a good life... Which doesn't really express what I'm trying to say... I wanted her to be whole, if that makes any sense... I've always felt empty of some sort... not entirely soulless, but not entirely not soulless... and in some unarticulated way, I thought I could hug, and dance and sing her whole..."
+- (Sune) "Ah yes... Time is really weird... I remember how I felt when she was just a baby, and I used to go for these long walks at 5 o'clock in the morning... It was the Summer... She would only sleep when she was being driven in her carriage... So I would take these long walks of up to 2 hours, so my girlfriend - we weren't married then - could sleep. And I had dreams... for her! I wanted her to be happy and have a good life... Which doesn't really express what I'm trying to say... I wanted her to be whole, if that makes any sense... I've always felt empty of some sort... not entirely soulless, but not entirely not soulless... and in some inarticulate way, I thought I could hug, and dance and sing her whole..."
 - (Louisa) "..." [now taking on a serious look]
   "Go on... I think this is what we came for"
 - (Sune) "If we just take a snapshot of that instant... of me singing to our daughter in the living-room of 'then' and hang it on our mental board... And then I'll progress time... And 5 years later, 3 became 4 as my son was born and by then, my X-wife and I had already separated for the first time, but we ended up moving back together after a year... And in that period... leaving my daughter and X-wife when I came to visit... It made me so damn sad... I had no more than gone out of the door before I started bawling"
   "...and 30 something years of living with an undiagnosed mental disorder was beginning to take it's toll I suppose, and though I didn't call it that back then, I was becoming more and more ridden with anxiety... about the kids, finances, the world at large even... And let's stop to take another mental snapshot, of me walking with my son in his carriage when he was a baby... It's fall and he's sleeping, and it's gotten dark outside, I walk by this villa, where the hedge has just been planted, so I can see directly into the living room, and the family is having visitors over, and it seemed to me like what family bliss is like, and I thought that if I worked hard for it, that's what we would have some day... And I would have peace"
-  "...and the years fly by in a blur, and my routines and behaviour gets more and more erratic... Get up at 3:30 to go into work, work out, at the desk at 7:00... Or working long hours and coming home at 23:30 in the evening"
+  "...and the years fly by in a blur, and my routines and behavior gets more and more erratic... Get up at 3:30 to go into work, work out, at the desk at 7:00... Or working long hours and coming home at 23:30 in the evening"
   "and disappointing my wife in so many ways... And all the time feeling scared to death... Every day was just about getting by..."
-  "until I can't take it more, and run away... That's the second time we move apart... and the one that really took a toll on my X-wife... And I remember arriving at the realization during that period, that I would never have the kind of peace and family blizz where people come over on a dark Autumn evening..."
+  "until I can't take it more, and run away... That's the second time we move apart... and the one that really took a toll on my X-wife... And I remember arriving at the realization during that period, that I would never have the kind of peace and family bliss where people come over on a dark Autumn evening..."
   "And we moved back together, but I had broken something in my wife, that wouldn't heal... But I didn't see that then... That our third act was just an ending drawn out... You know, when one part of a relationship draws a line in the sand like 'you have screwed me over too many times, and this is a line that will not be crossed'... the line can be moved closer to the other person, and more lines can be drawn... I think that's a pretty good sign that a relationship is over... Of course, I didn't see that then"
-  "And now, looking back, I have a wall full of snapshots and broken dreams and broken promises, and I know that I am totally the one who hung up those photos and broke those dreams, but it feels like I'm living in a world that has gone under... Like I passed out drunk before the party got started and wake up now that everybodys leaving, and I have this constant impulse that I should fix it, but there is nothing I can do to fix what was broken, and I can't move on... I don't feel like I belong out in the world anymore"
+  "And now, looking back, I have a wall full of snapshots and broken dreams and broken promises, and I know that I am totally the one who hung up those photos and broke those dreams, but it feels like I'm living in a world that has gone under... Like I passed out drunk before the party got started and wake up now that everybody's leaving, and I have this constant impulse that I should fix it, but there is nothing I can do to fix what was broken, and I can't move on... I don't feel like I belong out in the world anymore"
   "Shit, I think that's as close as I come to explaining it... Like falling through the cracks of time, and now living just outside of space and time"
-  "And I really don't like it here... I feel lost... But I'll endure it, if only I know that my children will be alright... that having me as a father hasn't irreversably damaged them..."
+  "And I really don't like it here... I feel lost... But I'll endure it, if only I know that my children will be alright... that having me as a father hasn't irreversibly damaged them..."
   "I'm not one to give anyone advice on whether or not people should have kids... Only thing... People have a tendency to talk like: 'I deserve to have kids'... and of course they do, that's all you know before... Hell, when my X-wife got pregnant at 22, it wasn't something we had explicitly planned on, but at least on my part, I felt like 'Why the fuck shouldn't I be able to be a good parent?'... And it's only when you have kids you realize that you had it all wrong... It's not about whether you deserve to have kids, but whether your kids deserve be stuck with you as their parent. And..."
   "... " [throws up his hands in a 'what-do-I-know'-gesture]
 
-Throughout the most of his flashpoint trip down memory lane, Sune had been staring into the desk in-front of him. Only now, when he feels like his story has been told, does he look up at Louisa, and realizes that she has gone pale and is sitting as if frozen in place. 
+Throughout the most of his flash-point trip down memory lane, Sune had been staring into the desk in-front of him. Only now, when he feels like his story has been told, does he look up at Louisa, and realizes that she has gone pale and is sitting as if frozen in place. 
 
 - (Sune) "Are you alright?"
   "You know, the story is over now... I know I am a really great story teller, and you are probably preparing for a gut-punching twist... like in a Hollywood sob-story... but there's no death or anything... both my kids are alive and doing better than they have in years, for all I know... I don't see them often, but I do offer to hang out with them... they are just growing old... you can relax now" [said with a smile, but also a little worried]
@@ -189,10 +189,10 @@ Throughout the most of his flashpoint trip down memory lane, Sune had been stari
   "... but that's not what you need anyway. What you need, is for somebody to take you out into the world, and show you that it's still there... And that's exactly what I am going to do!"
   "Do you dance?"
 - (Sune) "I only know salsa"
-- (Louisa) "Perfect! I wouldn't know salsa from shanola and that means that you can teach me, and somehow, I think you find comfort in that role"
+- (Louisa) "Perfect! I wouldn't know salsa from Shinola and that means that you can teach me, and somehow, I think you find comfort in that role"
   "Are you through with whatever work you were doing when I came here, or do you need to finish up?"
 - (Sune) "Oh, I was just planning another setup for scaring the shit out of new hires... Nothing that can't wait" [dismissive gesture with hands]
-- (Louisa) "..." [looking at him questionly and a little worried, face expressing: 'You are kidding, right?']
+- (Louisa) "..." [looking at him questioningly and a little worried, face expressing: 'You are kidding, right?']
 
 ...
 
@@ -205,7 +205,7 @@ As they are walking home Louisa's place after a couple of hours of dancing.
   "No... I still can't see it... I'm almost sorry, but I can't really see the danger here" [starts walking again]
   "I would even ask you up for a drink, but I fear that might start you on your 'Hollywood-killed-spontaneous-interaction'-ramblings..."
   "... and maybe I feel that way about having the end to this conversation determined by how long it takes us to walk to my place... I'll have to give that some thought..."
-  "... but steering clear of those pitfalls, I won't ask you to come up to my apartment, but I'm commanding you to follow me home and escort me to my apartment, and come in to the kitchen with me, where you will sit down and converse with me, until I throw my hands in the air and exclaim: 'Good Golly' I think we've reached the end of this exciting evening, at which point I will walk you to the entrance, and you will give me an akward last-minute hug... you know: scratch that... You strike me as the kind of person who would put way too much thought into what is appropriate social etiquette, decide on a hand-shake to not seem presumptious, and when I hit you with that 'what-the-fuck-is-wrong-with-you'-look, you'll jump ship and go in for a hug to not seem rude, but by then it'll be too late, and what will always come first to mind from this otherwise really cozy evening, will be that horribly akward ending... No... I'll walk you to the entrance and when I say: 'hug', you'll give me a 10 second hug like we'd known eachother for a long time and had just shared a really tough time, because even though we have only just met, that's exactly how it is"
+  "... but steering clear of those pitfalls, I won't ask you to come up to my apartment, but I'm commanding you to follow me home and escort me to my apartment, and come in to the kitchen with me, where you will sit down and converse with me, until I throw my hands in the air and exclaim: 'Good Golly' I think we've reached the end of this exciting evening, at which point I will walk you to the entrance, and you will give me an awkward last-minute hug... you know: scratch that... You strike me as the kind of person who would put way too much thought into what is appropriate social etiquette, decide on a hand-shake to not seem presumptuous, and when I hit you with that 'what-the-fuck-is-wrong-with-you'-look, you'll jump ship and go in for a hug to not seem rude, but by then it'll be too late, and what will always come first to mind from this otherwise really cozy evening, will be that horribly awkward ending... No... I'll walk you to the entrance and when I say: 'hug', you'll give me a 10 second hug like we'd known each other for a long time and had just shared a really tough time, because even though we have only just met, that's exactly how it is"
 - (Sune) "..." [smiles]
 
 They walk for about 2 minutes in silence.
@@ -222,7 +222,7 @@ As they reach the door to the stairway of her apartment building:
 - (Sune) "Those poor bastards who drift off from shore in blowup rubber-rafts at the beach every Summer"
 - (Louisa) "..." [that: 'are your kidding me'-look again, as she starts climbing the stairs]
 
-On the 2nd floor, Louisa get's out her keychain and unlocks the entry-door to her apartment, and gestures for him to go in... Both trying to hide the fact that the short climb up the stairs have left them short-winded, and masking it behind taking their shoes off and walking to the kitchen.
+On the 2nd floor, Louisa gets out her key-chain and unlocks the entry-door to her apartment, and gestures for him to go in... Both trying to hide the fact that the short climb up the stairs have left them short-winded, and masking it behind taking their shoes off and walking to the kitchen.
 
 - (Louisa) "Were you really thinking about poor bastards on rubber-rafts just now?"
 - (Sune) "Well, yeah, figuratively speaking"
@@ -232,7 +232,7 @@ On the 2nd floor, Louisa get's out her keychain and unlocks the entry-door to he
 - (Louisa) "... and then we realize that our fate is in the hands of powers much greater than ourselves..."
   "...and by then it's too late..."
 
-They maintain eye-contact as their heads near each other and their lips touch for the first kiss, and then their eyes close, and like two people drifting off into to the great void, they both know that they are now in the hands of greater powers, and their kiss turns deeper and more passionate and the current is leading them away from shore at an accellerating speed, as their lips part and he leans slightly forward and she leans her head against his neck and shoulders and he lets his left hand slide over her soft hair, and the current leads them slowly back towards the shore. For the next 10 minutes, they hold each other. He holds her and tries to let go of a past that once was and she holds him and tries to let go of a future that never will be, and in the end he leaves the apartment without either of them saying another word, because they had already spoken all the words that needed to be spoken. 
+They maintain eye-contact as their heads near each other and their lips touch for the first kiss, and then their eyes close, and like two people drifting off into to the great void, they both know that they are now in the hands of greater powers, and their kiss turns deeper and more passionate and the current is leading them away from shore at an accelerating speed, as their lips part and he leans slightly forward and she leans her head against his neck and shoulders and he lets his left hand slide over her soft hair, and the current leads them slowly back towards the shore. For the next 10 minutes, they hold each other. He holds her and tries to let go of a past that once was and she holds him and tries to let go of a future that never will be, and in the end he leaves the apartment without either of them saying another word, because they had already spoken all the words that needed to be spoken. 
   
 The last thought that goes through Louisa's mind before she drifts off to sleep that night is: "I think I forgive you John"  
 
