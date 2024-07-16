@@ -100,10 +100,7 @@ Jacob sends a kick to the young man's thigh with his left leg, then follows up w
 'So, he lied... How did I not see that coming?' 
 Jacob may be able to send off a few more strikes, but at this point, what's the point? 
 
-At least the young man makes it quick: when Jacob stops resisting, the young man sweeps his leg's and drives him to the floor on his stomach, and pulls the knife across Jacob's throat in one smooth movement, pulling hard on the knife to make it go as deep into Jacob's throat as possible, and maintains a hold of Jacob's hair pulling the throat apart across the seam to allow for maximum spillage, and waits for Jacob to bleed out. 
+At least the young man makes it quick: when Jacob stops resisting, the young man sweeps his leg's and drives him to the floor on his stomach, and pulls the knife across Jacob's throat in one smooth movement, pulling hard on the knife to make it go as deep into Jacob's throat as possible, and maintains a hold of Jacob's hair pulling the throat apart across the seam to allow for maximum spillage, and waits for Jacob to bleed out. He then pulls up Jacob's shirt to expose his lower back, carves '¤BB02651' and covers the back by the shirt again. 
 The young man then leaves the knife on the floor, looks around the locker room to make sure he hasn't forgotten anything, turns off the light, and leaves. 
-
-
-
-    
+  
   
