@@ -98,8 +98,3 @@ Sune turns off the light, and exits the room behind the stairs in time to hear t
 - (Sune) "When will you kill him?"
 - (John) "Soon..."
   "I have a couple of goodbyes to make"
-
-- (Sune) "..." [looking at John, nodding]
-  "Take care John" [walking out of the stairway towards his office]
-- (John) "You too"
-  
