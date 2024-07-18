@@ -180,7 +180,7 @@ About 5 minutes go by, where Carol goes through various stages of feeling horrif
   "I'm not a very good scale of justice, but even if you decide to make it your life's work to put me in jail, it's still a whole other thing than what those guys were doing"
 - (Carol) "I'm not sure if that is any comfort... But maybe it is..." [shaking her head]
   "Alright, finish the story"
-- (John) "As I said, the police decided not to follow the case... The parents of the 2 kids may have been pissed at me, but if so, the school and my dad probably shielded me from it..."
+- (John) "As I said, the police decided not to follow the case... The parents of the 2 kids may have been pissed at me, but if so, the school and my father probably shielded me from it..."
   "The school did however decide that it would be good for me to have some regular sessions with the school guidance counselor slash psychologist"
   "... and she was really nice..."
   "... she was in her mid 40's, and I think she really cared for what she did and the students she talked to..."
