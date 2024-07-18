@@ -1,0 +1,45 @@
+When John wakes, Carol is sitting upright in her bed staring at him, tears streaming down her face.
+
+- (Carol) "What were you dreaming about?"
+- (John) "Angela"
+- (Carol) "Did you fuck her?"
+- (John) "We made love"
+- (Carol) "Was it good?"
+- (John) "I'm not going to answer that"
+- (Carol) "HOW FUCKING CONSIDERATE OF YOU!"
+- (John) "..." [looking at her, rather expressionless]
+- (Carol) "You don't see anything wrong here, do you?"
+- (John) "..." [looking at her, waiting for her to continue]
+- (Carol) "You can't see how FUCKED UP it is for you to be dreaming about fucking a dead girl?"
+  "In MY bed??!"
+- (John) "She wasn't dead in my dream"
+- (Carol) "You are obsessed! This is so far from normal that you have to bounce the signal off satellites to establish radio-contact with normal"
+  "Do you think that solving this case will bring her back?"
+- (John) "No"
+- (Carol) "And let's just pretend it did... That's about the most fucked up assumption to a conversation I've ever had, but let's roll with it"
+  "What do you think would happen if she came back and magically fell in love with the great amateur detective who solved the mystery of her murder?"
+- (John) "I don't know how to answer.."
+- (Carol) "I'll tell you what would happen: IT WOULD NEVER WORK!"
+  "She'd tire from you within the month... I'm sure she would find the whole angry-gloomy-avenger thing exciting to begin with, but it gets boring pretty quickly and Angela of all people would realize that"
+  "... but, know what, let's keep rolling... Let's say that you are JUST what she's ALWAYS been looking for, and the two of you complement each other like yin and fucking yang and you spent a couple of months fucking like mad rabbits and exchanging views on 'How to get by with severe anti-social disorders in the year 2024', then what? When the honeymoon is over, here comes everyday life! And do you know what everyday life is full of?"
+- (John) "Angry people yelling at you when you wake up?"
+- (Carol) "RICH! Everyday life is full of little disagreements; Oh, you want the recliner honey, well, I was thinking we could go with the antiques, and you know what that means right?"
+- (John) "Compromises"
+- (Carol) "That's right! Compromises! And that's the one thing neither of you know how to do!"
+  "But alright, let's assume you don't give a shit about what chairs you have in your living-room and have no problem letting Angela get that one"
+- (John) "I think it would be the other way around... when it comes to the chairs that is..."
+- (Carol) "..." [staring in amazement]
+  "Even if you somehow never had to deal with that great destroyer of marriages: everyday nagging and bickering, you know who would be waiting there to take you down, and keep you down?"
+- (John) "The world around us"
+- (Carol) "That's RIGHT! Because the world DEMANDS compromises, and the world DEMANDS that you pay rent on time and that you pick up your kids before kindergarten closes and the world doesn't give a shit how much you love each other, and you would never be able to accept that"
+- (John) "The world is changing"
+- (Carol) "... Somehow, we are having two different conversations at the same time here"
+  "I want you to leave now"
+- (John) "..." [gets up]
+- (Carol) "You know what really drives me nuts?"
+- (John) "..." [looking at Carol, waiting]
+- (Carol) "THAT! That thing right there! Because I can't even be mad can I...? Because you never promised me anything, right? Hell, you even agreed with me from the start, that I might get hurt, and all those times when I thought 'I think we really have something here' you never ACTUALLY confirmed that, did you? You just smiled and let me think whatever I wanted, and it's not YOUR fault if I thought we were starting a real thing, right?"
+- (John) "You can be mad. I understand"
+- (Carol) "John, please leave now"
+- (John) "I will"
+
