@@ -1,12 +1,12 @@
 - (Waitress) "Welcome to The House of Role-play... How may I service you tonight?"
 - (John) "I thought this was The House of the Triple Bacon Burger?"
-- (Waitress) "Yeah, many people make that mistake... During even hours we're The House of Role-play, and during odd hours were The House of the Triple Bacon Burger..."
+- (Waitress) "Yeah, many people make that mistake... During even hours we're The House of Role-play, and during odd hours we're The House of the Triple Bacon Burger..."
   "Do you want to wait around?"
   "I've heard the waitress at the burger joint is kinda hot"  
   "It will only be another 45 minutes" [smiling]
 - (John) "I guess"
 - (Waitress) "And may I interest you in something from our menu while you wait?"
-- (John) "You might... Anything in particular you'd recommend?"
+- (John) "You might... Anything in particular you can recommend?"
 - (Waitress) "We do a 'Customer-with-Burger-Joint-waitress'-scene that's pretty good... Or so I've been told"
   "But no... I think you are more of a 'Dirty Thirties' kinda fella..."
 - (John) "Oh my... Tell me more, please"
@@ -17,7 +17,7 @@
   "...and a skimpy little dairy maid dress..." [whispers]
   "it revolves around one young couples everlasting love and the struggles of fighting socioeconomic distress and capitalist asshats" [now reading aloud from the menu again]
   "Role-players Weekly has on no less than 12 occasions nominated this specific play for Aficionados Top-Choice Award... 10 of which it won"
-- (John) "I don't see how I can say no to that then... I'll have one of those" [smiling]
+- (John) "I don't see how I can say no to that... I'll have one of those" [smiling]
 - (Waitress) "1 x Dirty Thirties" [writing on notepad while saying out loud]
 - (John) "Do I order drinks separately, or are they included in the selection?"
 - (Waitress) "Oh no sir, I'm afraid we don't allow the consumption of beverages during the play... For sanitary reasons"
@@ -33,11 +33,11 @@ John unbuttons his pants and reaches for the denim overalls hanging on the wall.
 - (John) "Now that you mention it, I DO remember. I'm terribly sorry, I must have been distracted"
 - (Waitress) "That's perfectly fine sir... It happens to the best of us" [big customer-is-always-right-smile]
   
-Without taking his eyes off the waitress, John finishes undressing, grabs the blue dairy maids dress and unzips it in the back, and then slide first his one leg and then the other leg down the dress. The dress has clearly been made for a person of much smaller proportions than John, but he pretends he doesn't notice this, pulls on to the most sturdy part of the dress his hands can find, and pulls the dress up with all his might, causing a huge rupture in the crotch of the dress. John and the waitress are still staring at each other looking very serious, but as the dress lets out its cry of pain, the waitress can't hold back the laughter any more.
+Without taking his eyes off the waitress, John finishes undressing, grabs the blue dairy maids dress and unzips it in the back, and then slides first one leg and then the other leg down the dress. The dress has clearly been made for a person of much smaller proportions than John, but he pretends he doesn't notice this, grabs the most sturdy part of the dress his hands can find, and pulls the dress up with all his might, causing a huge rupture in the crotch of the dress. John and the waitress are still staring at each other looking very serious, but as the dress lets out its cry of pain, the waitress can't hold back the laughter any more.
 
 - (Waitress) "Oh John... You look splendid" 
 
-The waitress runs to John and jumps onto him, with her legs clasping around his mid-section. John, not able to move from being trapped in a dress 10 sizes and 1 sex too small, lets himself fall backwards onto his lower back with the waitress landing on top of him. 
+The waitress runs to John and jumps onto him, with her legs clasping around his mid-section and kisses him violently. John, not able to move from being trapped in a dress 10 sizes and 1 sex too small, lets himself fall backwards onto his lower back with the waitress landing on top of him. 
 
 - (Waitress) "I don't want to do it in the Dirty Thirties John, I want to milk you right here in the dirty changing room" [drawing out the 'i' in 'dirty' on each occurrence]
 - (John) "I thought I was the dairy maid...?" [looking confused]

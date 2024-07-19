@@ -86,6 +86,6 @@ The next thing John is aware of is, that he is passing through that small passag
 - the shadows... Shadow-Man?
 - remember tattoo-check! IMPORTANT!
 
-After replaying the dream once again, the adds:
+After replaying the dream once again, he adds:
 
 - How do you make a square radical?
