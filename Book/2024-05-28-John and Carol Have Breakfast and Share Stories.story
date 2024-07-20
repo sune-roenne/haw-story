@@ -76,7 +76,49 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
   "Alright. That makes sense" [smiling]
   "We'll go with the plan with all the clothes" [smiling]
   
-- (Carol) "Alright, git with the story Mr. Sensible..." [smiling]
+- (Carol) "Alright Mr. Sensible... before we get started with the sequel to The Life of John, I need to tell you something so I don't forget..."  [smiling]
+  "I asked around the office yesterday... about Angela... and you may want to have a chat with Albert from Investment Compliance..."
+  "my source wouldn't tell me why, and she didn't want to give me much context, other than he and Angela may have known each other at one point or another... in the biblical sense..."  
+- (John) "Alright"
+- (Carol) "Albert's a little... special...."
+  "you may have to speak in 'capital letters'... if you know what I mean...?"
+- (John) "I think I understand..." [smiling]
+  "On the subject of Angela..."
+- (Carol) "Yes...?"
+- (John) "What's the story with... " [checks phone]
+  "Martin...?"
+- (Carol) "You've heard about that...?"
+  "Well, I guess you would..."
+  "A few months ago I had a thing with Martin from Accounting, and then one Friday at a party, Angela comes to our table, sits down next to him... Martin..."
+  "... They talk about History or some such non-sense and next thing I know, they are going at it on the dance-floor..."
+  "All but getting undressed and doing it right there in-front of everyone... They at least had the courtesy to go into the bathroom to do that..."
+  "... And there I was... Helpless to do anything about it..."
+  "Technically, Martin and I weren't exclusive...
+  "But we were at that stage where everyone around the office knew about it, and Angela sure as shit must have known..."
+  "... I know that doesn't really help my case about my innocence in her murder..."
+  "... but, at this point... I guess I was past any sensible state of emotion about the Angela-situation..."
+  "Do you know that feeling, when you are walking somewhere and it looks like maybe it's going to rain, but you think you'll be able to make it before the rain starts...?"
+  "... and not long after, you find out you were wrong as a drizzle starts...?"
+  "... and then the rain starts for real..."
+  "... and then it's just straight up pouring down, and you curse the God damned rain...?"
+  "... but you reach a point where you are completely drenched, and you figure 'what does it even matter?'...?"
+  "... and you decide to find out 'how wet can I get?'...?" [looks at John, waiting]
+- (John) "I know how wet you can get" [affirmative smile]
+- (Carol) "..." [looks at him, deadpan]
+- (John) "..." [looks at her, deadpan]
+- (Carol) "... right..." [smiles]
+  "You wanna know the most surreal thing about the whole thing...?"
+  "Before I even got started with the guy, I had asked her about him..."
+  "... to figure out if she might be interested..."
+  "Can you imagine how weird that feels: 'Hey Angela... Do you by any chance happen to have plans to have a swing at Martin from Accounting...? Because I'm thinking about falling in love with him, and I just want to make sure you don't come around and swoop him"
+- (John) "..." [giving it some thought]
+  "I'm not sure I can..."
+- (Carol) "I guess that's only for the best" [smiling]
+  "but... It doesn't change what I said yesterday: I didn't hate her and I was in no way involved in her death..."
+- (John) "I believe you" [smiling]
+  ... and thank you!"
+- (Carol) "And now John: get with the story!"  
+ 
 - (John) "Do you remember the first months of high school?"
 - (Carol) "Vaguely I'd say..."
   "There were a lot of new people, new ways to attend school, a lot of parties..."
@@ -85,7 +127,7 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
 - (John) "It was definitely worst on the 1st day"
   "On the 1st day, you are greeted with 'Only good freshman is a dead freshman' and so on"
   "But you know about this on beforehand, so you know to just keep your head down and let them throw sunflower seeds at you or whatever"
-  "And for 97% high schoolers, that's that..."
+  "And for 97% of high schoolers, that's that..."
   "And then you have the upper class man losers who experience a little taste of power or worth for the first time, and just cannot let it go..."
 - (Carol) "Sure, they must be in every school..."
   "And workplace for that matter..."
@@ -93,10 +135,10 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
 - (John) "And that was the general consensus at my high school as well..."
   "But there were these three seniors who would just not let it go..."
   "And of course they targeted me..."
-- (Carol) "And did you at this point stop to think WHY they targeted you... At this point it wasn't the first time..."
+- (Carol) "And did you at this point stop to think WHY they targeted you... It wasn't excatly the first time..."
 - (John) "I don't know if I at that point was conscious about it, but I might have been. They targeted me because I was willing to be targeted... I was ready to let it piss me off... Whether I was aware of why they targeted me, I knew perfectly well that I wasn't just willing to be pissed off about it, I WANTED to be pissed off"
   "And the thing about being the target of someone is, that you become really aware of their routines... Like: 'I know I usually run into these guys at this place at this point'..."
-  "And 2 months into my freshman year, I could say with almost certainty that I would come across them at the same stairs leading from the 2nd floor down to the 1st floor every Wednesday after 3rd period, as we all had classes in close proximity on the 2nd floor and were all going to classes on the 1st floor. Now, these guys would always walk together, probably because they didn't really have any other friends outside of each other and they would always walk in the same damn formation, with what I judged to be the stronger 2 walking side by side and the weaker and more scrawny of the three trailing behind them. And on this particular Wednesday, I time it so I am next in line to go down the stairs to the scrawny kid, and 2 steps down I hook his feet with one leg, push him real hard in the back and send him flying down the flight of stairs, not quite head first but enough so that he breaks his collarbone and one of his wrists and then continues down the stairs and clips his two friends, and then I yell 'WHAT THE FUCK? WHO PUSHED ME?' and then just start screaming like a maniac... Like something really hurt."
+  "And 2 months into my freshman year, I could say with almost certainty that I would come across them at the same stairs leading from the 2nd floor down to the 1st floor every Wednesday after 3rd period, as we all had classes in close proximity on the 2nd floor and were all going to classes on the 1st floor. Now, these guys would always walk together, probably because they didn't really have any other friends outside of each other and they would always walk in the same damn formation, with what I would say were the stronger 2 walking side by side and the weaker and more scrawny of the three trailing behind them. And on this particular Wednesday, I time it so I am next in line to go down the stairs to the scrawny kid, and 2 steps down I hook his feet with one leg, push him real hard in the back and send him flying down the flight of stairs, not quite head first but enough so that he breaks his collarbone and one of his wrists and then continues down the stairs and clips his two friends, and then I yell 'WHAT THE FUCK? WHO PUSHED ME?' and then just start screaming like a maniac... Like something really hurt."
 - (Carol) "And people bought that?" [skeptic]
 - (John) "Totally... Well everybody except for the scrawny kid and his 2 friends of course... And Louisa, but she's the topic of my 3rd story, so let's save her for now"
 - (Carol) "2 classes is like 50 students, right?"
@@ -104,8 +146,8 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
 - (Carol) "And nobody saw anything?"
 - (John) "I'm sure somebody saw something, but as you may know, humans make pretty terrible eye-witnesses..."
   "In my experience, there are 4 categories of people when experiencing something significant like a little scrawny kid come flying down the stairs, and then being asked to explain what happened:
-  - You are going to have a lot of people who COULD have seen something, but who were too busy thinking about everything other than flying scrawny kids, and hence don't know anything
-  - You'll have the people that will swear, no matter what, that they saw John push the scrawny kid on purpose and holla like the devil, because they don't like John, and the kid's 2 friends of course belonged to this category on this occasion
+  - You are going to have a lot of people who COULD have seen something, but who were too busy thinking about everything other than flying scrawny kids, and hence don't know shit
+  - You'll have the people that will swear, no matter what, that they saw John push the scrawny kid on purpose and then holla like the devil, because they don't like John, and the kid's 2 friends of course belonged to this category on this occasion
   - Then you have the people that saw something that looked like John might have pushed the scrawny kid, but whose memory is easily manipulated by what happens afterwards, like John yelling that someone pushed him or teachers asking them: 'did John really push the scrawny kid?' and they get to thinking, 'no gees, that can't have been what I saw because why would John do such a thing?' and empirical research have shown that a disturbingly large percentage of eye-witnesses belong to this category
   - And finally, you'll have the people that saw John send the kid flying down the stairs, and even-though they don't understand why anybody would do such a thing, they know what they saw. Or maybe they know why somebody might do such a thing, because they have thought about doing the same thing or they've been in the 'people-getting-pushed-down-the-stairs'-scenario a lot - in the same way that bouncers are likely to make better eye-witnesses in describing what happened before, during and after a fight simply because they have a lot of experience - but whatever flavor, it's my experience that this category is pretty scarce
  
@@ -124,7 +166,7 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
   "But it was of course the two friends of the scrawny kid... Allan and Mike... zooming in on me"
   "They had often arrived at school early as well, and on many occasions, they had either spat after me or pushed me or straight up tried to run me down when our paths crossed..."
   "And the place was perfect for that, because it was damn deserted at that time of day..."
-  "So when I hear the sound of their moped I turn around to look at them, and then take off running at full speed, and after about 20 meters of running, the road forks: right is to the school, and left leads into a tunnel under the highway going into an industrial area, and I run left and make it under the tunnel and right after the tunnel the path makes a sharp right turn, and the tunnel marks the ending of a stretch of about 20 meters of straight path for these guys to accelerate through and they try to maintain a high-speed, leaning into the sharp right turn and just as they clear the tunnel I'm standing right there and swing at the driver with a baseball bat that hits him on the side of his helmet and the two guys smashed into the concrete wall that walled in the turn. The passenger wasn't wearing a helmet, and he must have been dead on impact... Without going too much into the gory details, I know for a fact that the impact crushed his skull..."
+  "So when I hear the sound of their moped I turn around to look at them, and then take off running at full speed, and after about 20 meters of running, the road forks: right is to the school, and left leads into a tunnel under the highway leading into an industrial area, and I run left and make it under the tunnel and right after the tunnel the path makes a sharp right turn, and the tunnel marks the ending of a stretch of about 20 meters of straight path for these guys to accelerate through and they try to maintain a high-speed, leaning into the sharp right turn and just as they clear the tunnel I swing at the driver with a baseball bat that hits him on the side of his helmet and the two guys smashed into the concrete wall that walled in the turn. The passenger wasn't wearing a helmet, and he must have been dead on impact... Without going too much into the gory details, I know for a fact that the impact crushed his skull..."
 - (Carol) "Oh my God! That is horrible! I have so many questions right now, and at the same time: I don't know what to say..."
 - (John) "Well, maybe I can spare you some of the questions and finish the tale" [smiling]
   "Because the driver was pretty obviously alive, although he was not doing well... Mangled in a wreck of bike and man... or well, boy..."
@@ -141,7 +183,7 @@ Carol had been holding John's hands for most of the exciting part of the story, 
 - (Carol) "Why are you telling me this?" 
 - (John) "I'm not totally sure, but I think I want you to know who I am"
   "And the violence and anger is, unfortunately, a part of that"
-  "There is a realization I made sometime later that I was hoping to arrive at, but I understand if you don't want to hear any more"
+  "There is a realization I made sometime later that I was hoping to arrive at, but I understand if you don't want to hear any more...?"
 - (Carol) "Right now, I'm shocked! And I really don't know what to say! And honestly, I feel a little disgusted"
 - (John) "..." [looking at Carol, waiting]
 
@@ -160,7 +202,7 @@ About 5 minutes go by, where Carol goes through various stages of feeling horrif
 - (Carol) "What did you feel afterwards? Did you feel anything?"
 - (John) "I was mostly worried that somebody had seen me... There were a good 2 minutes that I would have had a hard time explaining if they had been caught on camera"
 - (Carol) "And you didn't feel guilty about killing those two boys... I mean, how did you justify THAT to yourself? DID you justify it?"
-- (John) "I'm not really sure... About the justification part... I don't think I ever felt guilty, but I may have felt the need to justify my actions... to myself..."
+- (John) "I'm not really sure... About the justification part... I don't think I ever felt guilt, but I may have felt the need to justify my actions... to myself..."
   "The way I saw it... And probably still see it... is... that they chose to step into the arena... You sort of said it yourself, when you said 'Oh no, I think I know where this is going'... Would they have killed me if they had the chance... Probably not, but then again, they may not have been thinking that they were going to kill me when they set off chasing me, but you know how these kind of stories go... Two people in a blood-frenzy out for revenge, and they don't like the way I scream when they kick me and one of them says something like 'I wish the little bitch would just shut up' and the other one - not wanting to be a pussy - says something like 'Maybe we should shut him up for good'..."
 - (Carol) "This whole situation is just so FUCKED John! You... them..."
 - (John) "..." [looking at Carol, expressionless]
@@ -170,7 +212,7 @@ About 5 minutes go by, where Carol goes through various stages of feeling horrif
 - (John) "I didn't get arrested, but I was brought in for questioning..."
   "Mostly, I kept to the truth, but I changed a few details... Like: I didn't tell the police that I had purposefully pushed the scrawny kid down the stairs... There had been a terrible accident, and now I suspected these 2 guys who I had a feeling didn't like me to begin with blamed me for that accident..."
   "And I hadn't hit them with a baseball bat that I hid behind the corner in an act of premeditation the week prior, but a stick I conveniently found laying on the ground - because I had put it there in an act of premeditation the week prior, which I of course didn't mention neither"
-  "I didn't try for an Oscar... I didn't try and say anything like 'I feel just horrible for what happened to them'... I told the police that I had been scared because I thought they would beat me to a pulp if they caught me, which I'm sure they would have liked to..."
+  "I didn't try for an Oscar... I didn't try and say anything like 'I feel just horrible about what happened to them'... I told the police that I had been scared because I thought they would beat me to a pulp if they caught me, which I'm sure they would have liked to..."
   "I think there may have been some of the people from the police who might have suspected that there was more to the story than I let on... Maybe the autopsy-report may have shown irregularities, but at the end of the day they had to decide if they thought they could put a convincing story together that would convince a judge or jury: I hadn't told them about all the shit these guy had pulled, just the stuff I knew they would pick up on anyway from talking to the teachers and the other students... not enough to establish a motive for premeditated murder, but certainly enough to justify being afraid of running into these two guys on a deserted path with no one else in sight, and I guess that the police also have to decide what they want to spend their energy on"
 - (Carol) "Why are you telling me all of this? Basically, you are admitting to murdering two boys? What will you do if I decide to go to the police?"
 - (John) "I can honestly say, that the thought hadn't even crossed my mind" [smiling]

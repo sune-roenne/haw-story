@@ -24,13 +24,13 @@ John stares in amazement at the young woman in the denim overalls and denim cap,
 - (John) "You look familiar"
 - (Familiar service attendant) "How's that sir?"
 - (John) "You look like a young woman who was murdered a few weeks ago"
-- (Familiar service attendant) "Don't you just hate it...? You go about minding your own business, and then somebody stabs you in the guts 38 times... tsk tsk tsk" [shaking her head]
+- (Familiar service attendant) "Don't you just hate that...? You go about minding your own business, and then somebody stabs you in the guts 38 times... tsk tsk tsk... Late-stage capitalism in a nut-shelf" [shaking her head]
   "..." [looking up at John, smiling]
 - (John) "I think she was on that train I just missed"
 - (Familiar service attendant) "Oh John" [looking intensely at John, wiping a bloody thumb across his cheek as if to say 'you silly boy']
   "If she's dead, it doesn't really matter if you catch the train or not, does it?"
 - (John) "..." [staring at her, puzzled]
 - (Familiar service attendant) "You are lost John" [looking at him sympathetically]  
-  "Let's find you" [leans in and kisses him on the cheek]
+  "Let's find you" [leans in and kisses him on the cheek leaving a bloody lip-print]
 
 The familiar-looking service attendant walks away from John, dragging her mop and bucket behind her as John stares at her in bewilderment. 
