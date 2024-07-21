@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "Another John and Carol",
+   "StoryLineKey": "aftermath",
+   "Aliases" : null
+}
+
+
 - (Ben) "... and so, in conclusion ladies and gentlemen, I hope to have proven beyond any doubt, that not only was Steve Jobs Head Marshall of the Lizard People, there's simply no way 9/11 could have happened without his Icelandic influences! " [ending speech with a slight bow]
 
 - (Susan) "I was there through the whole thing, and I still can't believe how you pulled it off, but you certainly did! 5 out of 5 from me" [miming applause, gets up to leave the table]

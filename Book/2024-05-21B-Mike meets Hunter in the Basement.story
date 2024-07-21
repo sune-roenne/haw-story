@@ -1,3 +1,13 @@
+{
+   "ChapterTitle": "Mike and Hunter in the Basement",
+   "StoryLineKey": "detectives",
+   "Aliases" : {
+      "Hunter" : "sune"
+   }
+}
+
+
+
 - (Karl) "Nerdy McNerd! Just the man I was looking for"
 - (Mike) "Always good to see you Karl. What can I do for you?"
 - (Karl) "I need a favor... But first, you gotta promise me to keep what I'm about to tell you between the two of us...?" [looking serious]

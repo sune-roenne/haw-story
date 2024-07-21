@@ -1,11 +1,16 @@
+{
+   "ChapterTitle": "John is Hired",
+   "StoryLineKey": "john",
+   "Aliases" : null
+}
+
+
 - (John) "I'm here to see Donald"
 - (Receptionist) "It's not an abbreviation... He is actually named 'Donnie'. 
    He is waiting for you in his office. Follow me" [courteous, smiling]
 
-... 
-
 (Knock, knock, knock)
-- (Receptionist) "" (opens door)
+- (Receptionist) "..." [opens door]
   "Donnie, John is here to see you" [leaning head inside office]
   
 - (Donnie) "Please show him in Janet"

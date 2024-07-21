@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "John and Carol Have Breakfast",
+   "StoryLineKey": "john",
+   "Aliases" : null
+}
+
+
 When John opens his eyes, Carol is sitting - already dressed - in the bed next to him shaking him gently to wake up.
 
 - (Carol) "Are you awake?"

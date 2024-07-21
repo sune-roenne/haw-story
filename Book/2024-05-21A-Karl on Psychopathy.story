@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "On Weddings and Psychopaths",
+   "StoryLineKey": "lunch",
+   "Aliases" : null
+}
+
+
 - (Karl) "... and can someone please tell me, WHY it's considered OK for her to want to spend 30.000 EUR on a fucking wedding..."
   "because she's 'always dreamed of being wedded like a fucking princess'..."
   "but it's NOT alright for me to spend 30.000 EUR after the wedding on stunt-men and extras so me and the boys can reenact The Battle of Falkirk from Braveheart..."

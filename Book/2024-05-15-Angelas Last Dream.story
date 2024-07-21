@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "Angela's Last Dream",
+   "StoryLineKey": "dreams",
+   "Aliases" : null
+}
+
+
 - (Angela) "I know it all now John"
 - (John) "I know"
 - (Angela) "What would catch your eye most efficiently:"

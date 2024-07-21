@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "The Quantum Division",
+   "StoryLineKey": "aftermath",
+   "Aliases" : null
+}
+
+
 - (Albert) "Donnie... sir, do you have a moment?"
 - (Donnie) "I'm sure you remember my name Albert. Donnie will be fine" [smiling]
   "Yes, come on in"

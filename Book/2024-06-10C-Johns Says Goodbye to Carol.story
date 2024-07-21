@@ -1,3 +1,9 @@
+{
+   "ChapterTitle": "John Makes a Choice",
+   "StoryLineKey": "dreams",
+   "Aliases" : null
+}
+
 - (Waitress) "Welcome to The House of Role-play... How may I service you tonight?"
 - (John) "I thought this was The House of the Triple Bacon Burger?"
 - (Waitress) "Yeah, many people make that mistake... During even hours we're The House of Role-play, and during odd hours we're The House of the Triple Bacon Burger..."

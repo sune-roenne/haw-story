@@ -1,3 +1,13 @@
+{
+   "ChapterTitle": "John Meets Someone Familiar",
+   "StoryLineKey": "dreams",
+   "Aliases" : {
+      "Service attendant" : "angela",
+      "Familiar service attendant" : "angela"
+   }
+}
+
+
 As has now become a daily ritual to John, the first thing he does when waking up in the morning is to check his wrist. 'AWAY' it says... That must mean he is awake. Wait a minute... John checks again and notices that his hands look all off. 'I was wrong' John thinks and gets out of bed. John doesn't bother with any type of morning routine; he just walks out of his main entrance and into the stairway outside in his underwear. Once down on the street, he sets off running towards the train station.
 
 He is running at a steady pace when he passes his Elementary School teacher Miss Jansen.

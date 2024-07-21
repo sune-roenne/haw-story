@@ -1,3 +1,9 @@
+{
+   "ChapterTitle": "Mike and Donnie",
+   "StoryLineKey": "keyevents",
+   "Aliases" : null
+}
+
 The trip from the bus stop to Donnie's house on the outskirts of the little village he is now walking through is about 1 km, which gives him time for contemplation, and he likes to contemplate.
 The last month has really been something. Had he expected things to be like this? Certainly not. A year ago, he was hoping to maybe find a research position in Computer Science, or do some exciting work with algorithms, and now he is knee deep in real-life IT-challenges, and they really aren't like the type of problems that had excited him so during his studies. Those had been all about the realization: You faced a problem that was out of focus, and by zooming into it's different components you could eventually look at the big picture and change the way you think. In his job at FinaLibre, Mike has found that the problems are a lot more trivial:
 

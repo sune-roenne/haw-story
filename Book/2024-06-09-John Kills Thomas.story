@@ -1,3 +1,11 @@
+{
+   "ChapterTitle": "Thomas has a Bad Day",
+   "StoryLineKey": "john",
+   "Aliases" : {
+      "Robotic voice": "john"
+   }
+}
+
 'What a night!' Thomas thinks, as he begins regaining consciousness. Thomas knows that this is going to be a hard day to get through, but luckily he doesn't have any plans this fine Sunday, and just thinking about last night dulls the headache a little and brings a smile to his face. And hey, doesn't he still have half a baggy? ... Yes, he thinks so. If only he can get find the initiative to stand up, then lining up and getting started will come automatically. Maybe he can even get in a few glasses of gin before the headache can really get a hold of him, and hey: then this day might turn out to above descent after all. It's all about standing up, but before that, he has to open his eyes. Hmmm, that's weird! He opens his eyes and it's still dark. And what the fuck ?! Is he tied to the bed. He can't move! Thomas starts pulling the restraints around his ankles and wrists, when he hears a 'whoosh' and feels something hitting him hard in the ribs. He opens his mouth to let out a scream of pain and then feels something being jammed into his mouth. That might be a sock! A used sock! Thomas hears a weird robotic voice coming from somewhere to his right.
 
 - (Robotic voice) "I will not lie to you. The next 5 minutes will be painful to you"

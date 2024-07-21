@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "The 3 Detectives: Riddling",
+   "StoryLineKey": "detectives",
+   "Aliases" : null
+}
+
+
 - (Albert) "No, no, no... I checked the stress diagram for the building, and we're going to collapse the entire North half of the building if we put it there"
   "However..."
   "If place 2 charges in the crevice between this beam and the ceiling..."

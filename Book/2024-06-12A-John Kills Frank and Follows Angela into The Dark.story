@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "John Follows Angela Into the Dark",
+   "StoryLineKey": "john",
+   "Aliases" : null
+}
+
+
 - (John) "What are you doing?"
 - (Sune) "A little good in the world... Or so I would like to think at least"
 - (John) "r/RelationshipAdvice???"

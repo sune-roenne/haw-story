@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "John and Carol Exchange Stories",
+   "StoryLineKey": "john",
+   "Aliases" : null
+}
+
+
 John is struggling to keep awake for the lesson on Interest Bearing Instruments. He might even have dosed off once or twice.
 
 - (Carol) "Hello Madman! Looks like you could use a pick-me-up...!"

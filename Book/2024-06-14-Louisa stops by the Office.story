@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "Louisa Drops by",
+   "StoryLineKey": "aftermath",
+   "Aliases" : null
+}
+
+
 Carol noticed a young woman standing outside the main entrance to FinaLibre. The woman had what seemed to be a permanent stern expression to an otherwise pretty face, but at the same time looked like someone who didn't know if she was in the right place.
 
 - (Carol) "Can I help you?" [smiling]

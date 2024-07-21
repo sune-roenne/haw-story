@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "John Explores the Basement",
+   "StoryLineKey": "detectives",
+   "Aliases" : null
+}
+
+
 John suddenly feels the need to check the tattoo on his arm. "AWAKE". But he already knew that.
 There are dreams that are so real, that you feel really stupid when you wake up from them, because throughout the entire dream, you were convinced that you were in the real world.
 And there are situations in the real world, where the details of life sneak up on you in such a way, that you come to believe that you must be dreaming.

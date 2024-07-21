@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "Official Announcement on Angela",
+   "StoryLineKey": "keyevents",
+   "Aliases" : null
+}
+
+
 - (Donnie) "Thank you all for coming here"
   "This announcement is the worst I have had to make during my years as CEO of FinaLibre"
   "At 14:38, Angela was found dead in the Northern-most bathroom of the 2nd floor, very likely murdered"

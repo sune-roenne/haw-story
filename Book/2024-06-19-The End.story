@@ -1,3 +1,9 @@
+{
+   "ChapterTitle": "After the Rain, Comes the Storm",
+   "StoryLineKey": "aftermath",
+   "Aliases" : null
+}
+
 Susan is looking troubled today. She is wearing sunglasses inside the building, and she hardly says a word unless someone directly address her. Most of her colleagues notice, but most of her colleagues feel they don't know her well enough to ask her about it. Ben however, does not consider himself to be in the set of 'most of Susan's colleagues'; in fact, he is more than happy to have a reason to talk to Susan.
 
 - (Ben) "What's wrong Susan?"

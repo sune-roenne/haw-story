@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "Albert Joins the Investigation",
+   "StoryLineKey": "detectives",
+   "Aliases" : null
+}
+
+
 It is 16:33, and Albert is nearing the narrow patch of pine trees in the Thousand Acre Woods, on his way to catch the 16:45 train. The assault he had endured last week on the same patch of gravel-track hadn't dissuaded him from choosing the shorter of the two most popular paths between FinaLibre and the Thousand Acre Woods (East) stop, but it had taught him to pay attention and be on the lookout, but even if it hadn't, he couldn't have missed the young man - 'John' - who stood with his back against a tree, most likely waiting for him. For a brief moment, Albert experiences a shiver running down his spine, but quickly convinces himself that this meeting won't be a replay of their previous encounter. On making eye contact with Albert, the young man jerks his head up in what is universally recognized as the 'What's up'-gesture you shoot at friends, and starts walking towards Albert. Had he known what was about to happen, the young man - 'John' - might have put a little more thought into picking the right gesture for the occasion, since the assumed camaraderie the gesture expressed sends Albert into a fit of rage. When they are about 2 meters from each other, Albert draws his right leg back, and releases it in what could easily have passed for a mid-tier semi-professional soccer goalie driving the ball far down center field on a kick-off. The top of Albert's foot makes contact with the man's - John's - inner thigh about 30 centimeters above the knee as Albert drives the point home by yelling:
 
 - (Albert) "NOD-UP IS FOR FRIENDS ASSHOLE! NOD-DOWN IS FOR CASUAL ACQUANTINCES YOU ASSAULT IN THE WOODS!"

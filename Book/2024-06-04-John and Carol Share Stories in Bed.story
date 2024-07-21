@@ -1,3 +1,9 @@
+{
+   "ChapterTitle": "John and Carol Do Psychology",
+   "StoryLineKey": "lunch",
+   "Aliases" : null
+}
+
 John senses someone watching him, and turns around to see Carol sitting on an office chair right behind him.
 
 - (John) "Hi Carol"

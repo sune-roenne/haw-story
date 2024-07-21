@@ -1,51 +1,36 @@
+{
+   "ChapterTitle": "Enter Cecil",
+   "StoryLineKey": "keyevents",
+   "Aliases" : null
+}
+
+
 - (Frank) "I know we covered some of this during the interviews, but let me start off by giving you a brief introduction to what we do here at FinaLibre"
 - (Cecil) "That would be great"
-- (Frank) "FinaLibre is first and foremost, the leading fund administration company in the country. A position we have held for the last 5 years when measured by Assets Under Management, which today is no less than 200 billion EUR."
+- (Frank) "FinaLibre is first and foremost, the leading fund administration company in the country. A position we have held for the last 5 years when measured by Assets Under Management, which today is no less than 200 billion EUR"
 - (Cecil) "That's impressive"
 - (Frank)  "Indeed it is, but we have no intention of stopping there. Although I am not able to share the specifics of our current RnD projects, don't expect to face unemployment anytime soon" 
 - (Cecil) "Glad to hear it"
 
-- (Frank) "Your agenda for today is as follows:
+Cecil in fact isn't expecting to be facing unemployment anytime soon and he isn't expecting to be staying with FinaLibre any more than absolutely necessary. Sure, the company had a reputation of being a good employer and had been pretty consistently represented in the top 3 financial services employers for the past many years and 'that's nice' Cecil supposes, 'if you're into that sort of thing'. And Cecil doesn't believe he is into that sort of thing, he is simply too young for that!
 
-1. FinaLibre - The company details
-2. Hundred Acre Woods
+Cecil wants back in the Major League! He had been well on his way to securing a place in the express lane to Investment Advisor superstardom, but then one little mistake on a skiing vacation a couple of months ago had sent him back in the 'poor bastards'-lane. Cecil had learned his lesson: dating the daughter of the person you expect to hold the express lane open for you is walking a tight line, and if something similar should befall him again, he needs to pay more attention.
 
-
-1. FinaLibre - The company details
-1.1 Company history:
-FinaLibre was founded 14 years ago, by our CEO Donnie when he and 6 others - 3 of which are still in the company - left one of the big 5 financial institutions in the country, after having secured a fund administration deal with 2 of the big pension funds. The deal financially secured a team of 10 people working for 1 year to implement an administration setup, that would cut down the administration fees for the 2 pension funds to a third going forward, with the continued survival of the company hinging on FinaLibre's ability to sign on another 3 customers within the first 6 months of operation of the new setup. The setup launched after 10 months of development - 2 months before the deadline - and had secured the commitment of 5 new customers within it's first 3 months of operation. 6 months later, the first CErtificate issuing funds were launched, and after 4 years of quasi-polynomial growth following these first CE funds, FinaLibre clinched the market lead.  
-
-I personally joined the team 10 years ago, and I guarantee you: this place is unlike any other company I have worked for! I say that primarily as a good thing.
-
-1.2 Organization
-We pride ourselves on being an agile, very non-hierarchical workplace. The only reason the initial 10 were able to reach their initial deadline, was that there was absolutely no middle-management bull-crap. Most new employees - like you - enter the organization through the Hundred Acre Woods - named in reference to the Thousand Acre Woods [knocks own chest twice].  
-
-- "Thousand Acre Woods... that's the forest that neighbors the building, right?"
-- "Right.... but you should knock your chest twice when you say it"
-- "When I say Thousand Acre Woods?"
-- "Yes"
-- "Why?"
-- "Tell you the truth, I'm not sure if it's local folklore or a tradition that was started within the company, but if for no other reason, then do it so nobody else does it for you"
-- "Alright..." [cautiously knocks chest twice]
-- "..."
-- "...?"
-- "You said it twice"
-- "Alright..." [knocks chest twice]
-- "Great!"
-
-In the Hundred Acre Woods, new employees are introduced to core concepts of Finance, Fund Administration, Programming and relevant technologies, whatever knowledge and capabilities they currently lack in order to be on par with the rest of the organization. 
-
-- "You just graduated a Master of Science in Finance, right?"
-- "Right"
-- "Wrong! As of now, you are just an employee of FinaLibre. We mainly employ people with a background in either Finance or Computer Science - but especially Donnie has a history of employing talent wherever he finds it. When you get through the Hundred Acre Woods, we expect you to be operational in both Finance & Programming, at a minimum to a degree where you are able to evaluate the correctness of a small program written in one of the popular programming languages in relation to some specified set of domain constraints, but preferably, you are able to hold your own in The Pit!"
-- "Wow! And everybody is able to do this? I mean, most of the people I studied with couldn't program worth sh... couldn't program..."
-- "Well, about 70% of new hires graduate from the Hundred Acre Woods within their first 3-6 months in the company, 10% "make it out of the forest" in less than 3 months. The residual usually find that FinaLibre is not for them and seek employment in a more traditional financial company. As I said: FinaLibre is unlike any other company I have worked at, but it's not for everyone!"
-- "Wait... What's The Pit?"
-- "Not something you'll be subjected to until after the Hundred Acre Woods!" [smiles nervously]
-- "Right..."
-
-2. The Hundred Acre Woods
-https://developer.pluralsight.com/
-
-
-
+- (Cecil) "As I mentioned during the interviews, I have extensive experience with Investment Advisory..."
+- (Frank) "I'm afraid we don't provide Investment Advisory services... We are strictly Fund Management"
+- (Cecil) "Oh... So, what would you like me to do?"
+- (Frank) "Well, first off, we need to get you through the Academy"
+   "Every new hire starts their employment with us in the Academy"
+   "This let's us ensure that every new hire understands what we do here, and that they have the skill-set that we are looking for"
+   "At the Academy you learn basic concepts about Finance... though I'm sure there will be nothing new for you here" [smiling]
+   "And basic concepts of Computer Science and Programming"
+- (Cecil) "Don't we have IT-guys for that?"
+- (Frank) "About 40% of our employees are people with an IT background..."
+  "And we expect them to have a sufficient understanding of Finance to partake in designing our solutions..."
+  "Having efficient processes is at the core of our operating philosophy..."
+  "And we simply can't waste time translating between 'IT'-talk and 'money'-talk"
+- (Cecil) "Well, I guess that makes sense, but I should warn you: IT was never really my strong suit in college..."
+- (Frank) "You needn't worry... You are not the first..." [smiling]
+  "The Academy has successfully trained people from all walks of life, so I'm sure we'll be able to train you..."
+  "... and if we can't we'll know at the 2-week or 3-month evaluation..." [smiling]
+- (Cecil) "..." [looking a little worried]

@@ -1,3 +1,9 @@
+{
+   "ChapterTitle": "The 3 Detectives: Out on the Town",
+   "StoryLineKey": "detectives",
+   "Aliases" : null
+}
+
 - (Sune) "Well, this has been a really productive day but would you look at the time already..."
   "uuoooaaaawww" [unconvincing attempt at a yawn]
   "Time flies and some of us have very active social lives..."

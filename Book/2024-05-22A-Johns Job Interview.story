@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "John's Job Interview",
+   "StoryLineKey": "john",
+   "Aliases" : null
+}
+
+
 - (Frank) "John, do you know what we do here at FinaLibre?"
 - (John) "You are the biggest fund administration company when meassured by Assets Under Management... sir"
 - (Frank) "That is factually correct. And with the risk of sounding like an interrogater, could you - in your own words and by a level of details of your own choosing - describe what a Fund Administration company does?"

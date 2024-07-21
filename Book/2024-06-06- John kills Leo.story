@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "John and Leo",
+   "StoryLineKey": "john",
+   "Aliases" : null
+}
+
+
 Leo started with FinaLibre in November of 2022, and after less-than-impressive tour through the Academy, Leo joined the Transactions & Settlement Team in April of 2023. 
 Leo didn't particularly mind this; by now he had come to terms with the fact, that he was no shooting star in the Financial Sector. It's not that he ever had any reason to suspect he was, but when he signed with FinaLibre in 2022, it still had the reputation of being a young company, and with his time as student assistant for one of the countries large Investment Banking Firms, he figured he may be able to go off that and shoot right into the C-level. 
 Some might say, that Leo was extraordinarily unlucky to be subjected to a particularly cruel-spirited 'Rite of Passage', and as a result of this had to be forcibly freed from the ventilation system by the Fire Department. These same people would probably also claim, that trying to play Angela for some quick project-credit and ending up suggesting to the board that FinaLibre went early-market on Hentai-NFTs, was just dumb luck. But then again, the pull-yourself-up-by-the-bootstraps-people would certainly insist that such minor incidents would be no hurdle for Leo to overcome, was he the Christ Incarnate of the capital markets.

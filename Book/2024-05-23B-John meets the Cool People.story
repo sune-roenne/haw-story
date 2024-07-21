@@ -1,3 +1,12 @@
+{
+   "ChapterTitle": "John (and John) and the Cool People",
+   "StoryLineKey": "lunch",
+   "Aliases" : {
+      "New John": "john"
+   }
+}
+
+
 - (Carol) "Hey psycho-boy... Do you eat?" 
 - (John) "When I'm hungry I do"
 - (Carol) "Wanna join the cool kids?"

@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "John Talks to Albert",
+   "StoryLineKey": "detectives",
+   "Aliases" : null
+}
+
+
 Albert gets up from his desk at the Investment Compliance unit of FinaLibre every day at exactly 16:12, clears his desk, walks to the wardrobe where he puts on his long coat and walks out of the main entrance between 16:23 and 16:25. He then walks through the eastern part of the Thousand Acre Woods towards the nearest train-station where he boards the train at 16:45. Every day. Wind and rain!
 It's not that this departure carries any specific significance to him... he would be just as happy catching the 17:05, 17:25 or 17:45 departure... hell, for all he cares, his day would be just as fine if he were to catch the 20:05 departure - except of course for the longer working hours this would imply - but he has a reputation to uphold, and THAT is important to him.
 

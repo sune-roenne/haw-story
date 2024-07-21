@@ -1,34 +1,40 @@
-- "Hey Poindexter, wanna join the rest of us for lunch?"
-- "That sounds nice... thanks"
-- "I'm Carol"
-- "Mike... glad to meet you"
+{
+   "ChapterTitle": "Mike Meets the Cool People",
+   "StoryLineKey": "lunch",
+   "Aliases" : null
+}
+
+- (Carol) "Hey Poindexter, wanna join the rest of us for lunch?"
+- (Mike) "That sounds nice... thanks"
+- (Carol) "I'm Carol"
+- (Mike) "Mike... glad to meet you"
 
 Mike has previously held part-time jobs in retail during his early studies, but this is his first time working corporate, and as they walk in silence towards the café, he has plenty of time to wonder about etiquette for these quasi-1-on-1-situations and if maybe he is expected to say something.
 
-- "Most people fill the void with pointless blabber about the latest in corporate politics, SFW-details of their personal life and so on, but I don't mind the silence"
-- "Was it that obvious?"
-- "Yes. It was very obvious, but we've all been there" [smiling]
-  "And here is a free tip for you: if you're scared of akward silence and/or would like to engage in a little man-on-man-flirtation yet would like to stay on the safe side of the unwritten laws of heterosexual and only slightly homophic behaviour of meterosexual males, you can always pick a soccer-team to route for and join in on the verbal orgy"
-- "Well, I like Chelsea" [lighting up in a maybe purposefully too bright a smile]
-- "Riiight..."
+- (Carol) "Most people fill the void with pointless blabber about the latest in corporate politics, SFW-details of their personal life and so on, but I don't mind the silence"
+- (Mike) "Was it that obvious?"
+- (Carol) "Yes. It was very obvious, but we've all been there" [smiling]
+  "And here is a free tip for you: if you're scared of awkward silence and/or would like to engage in a little man-on-man-flirtation yet would like to stay on the safe side of the unwritten laws of heterosexual and only slightly homophobic behavior of meterosexual males, you can always pick a soccer-team to route for and join in on the verbal orgy"
+- (Mike) "Well, I like Chelsea" [lighting up in a maybe purposefully too bright a smile]
+- (Carol) "Riiight..."
   "Look Mike... You seem like a really nice guy and all, but I'm not going to have sex with you"
-- "..." [Contemplating]
-- "..."
-- "... OK"
-- "OK? That's it? OK? What the hell kind of a response is that?"
-- "About the only sensible response as far as I can see" [smiling, once again in a bit too broad a smile]
-- "No getting down on your knees and begging the 'most beautiful woman you have ever met' to please, please, please reconsider? 
-   Or throwing your hands in the air and tsk tsk tsk 'LIKE I WOULD EVEN WANT TO HAVE SEX WITH YOU'?"
-- "Maybe I'm doing that first thing on the inside, but you have clearly stated that THAT is not an option to you, so it would be a little respectless of me to just ignore that fact and 'plow on' - no pun intended - and as for the second option... that's just plain childish"
-- "Well, you could say 'I can respect that'. That explicitly expresses respect and is A LOT better than plain old 'OK'"
+- (Mike) "..." [Contemplating]
+- (Carol) "..."
+- (Mike) "... OK"
+- (Carol) "OK? That's it? OK? What the hell kind of a response is that?"
+- (Mike) "About the only sensible response as far as I can see" [smiling, once again in a bit too broad a smile]
+- (Carol) "No getting down on your knees and begging the 'most beautiful woman you have ever met' to please, please, please reconsider?" 
+   "Or throwing your hands in the air and tsk tsk tsk 'LIKE I WOULD EVEN WANT TO HAVE SEX WITH YOU'?"
+- (Mike) "Maybe I'm doing that first thing on the inside, but you have clearly stated that THAT is not an option to you, so it would be a little respectless of me to just ignore that fact and 'plow on' - no pun intended - and as for the second option... that's just plain childish"
+- (Carol) "Well, you could say 'I can respect that'. That explicitly expresses respect and is A LOT better than plain old 'OK'"
 
 At this, Mike stops walking and as Carol does likewise, he looks her sternly in the eyes. No broad smile now.
 
-- "Look Carol, I'm picking up sort of a... vibe from you... you SAY you don't want to have sex with me, yet I can't help but feeling like this is just a ploy to somehow lure me into bed so you can have your way with me"
-- "I DO NOT WAN'T TO HAVE SEX WITH YOU!" [equally stern]
-- "I can respect that"  [resumes walking]
-- "...slick! [approvingly, under her breath]
-  Oh, there's the in-crowd... I'll introduce you"
+- (Mike) "Look Carol, I'm picking up sort of a... vibe from you... you SAY you don't want to have sex with me, yet I can't help but feeling like this is just a ploy to somehow lure me into bed so you can have your way with me"
+- (Carol) "I DO NOT WAN'T TO HAVE SEX WITH YOU!" [equally stern]
+- (Mike) "I can respect that"  [resumes walking]
+- (Carol) "...slick!" [approvingly, under her breath]
+  "Oh, there's the in-crowd... I'll introduce you"
   
 ...
 

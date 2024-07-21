@@ -1,3 +1,9 @@
+{
+   "ChapterTitle": "On Killing Side Characters",
+   "StoryLineKey": "lunch",
+   "Aliases" : null
+}
+
 - (Susan) "I just don't see why it was necessary to kill the boy, that's all"
 - (Ben) "I agree with you in principle Susan, but in this specific instance it served a purpose in showing his dedication to -  SLASH - obsession with, reaching his goal"
 - (Karl) "And what principle would that be that you agree with Ben?"

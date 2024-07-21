@@ -1,3 +1,15 @@
+{
+   "ChapterTitle": "Angela's Second Dream",
+   "StoryLineKey": "dreams",
+   "Aliases" : {
+      "Angry voice": "john",
+      "Subservient voice": "john"
+	  
+   }
+}
+
+
+
 Angela steps into her apartment, tired from a long day at work. She closes the door, takes off her footwear and tosses her keys over her shoulder. When she doesn't hear the expected rattle from the keys hitting whatever is back there, she gets suspicious. She peels the curtains of one window to a the side, in order to look at the traffic on the street below and determine if it is standing still or not, and reaches a conclusion.
 
 - (Angela) "I think we need to make a little adjustment here" [whispering]

@@ -1,3 +1,11 @@
+{
+   "ChapterTitle": null,
+   "StoryLineKey": "lunch",
+   "Aliases" : {
+      "Woman": "Carol"
+   }
+}
+
 - (Woman) "Hey try-hard, are you coming to lunch?"
 - (Cecil) "Sure... I'm Cecil by the way"
 - (Woman) "I know... Frank introduced you yesterday... which you should know... seeing as you were there and all"

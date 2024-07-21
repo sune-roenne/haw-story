@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "John is Riddled",
+   "StoryLineKey": "dreams",
+   "Aliases" : null
+}
+
+
 John is jogging towards the train station, cursing his poor time management skills. He has a feeling like he had been on time right up until it's was time to actually leave the apartment, and then something had happened, and now he is running late. Once again. John believes that he can still make his train, if only he runs the rest of the way. It's still pretty chilly for a Summer morning, but he may have to take a shower and change when he gets into the office, but it beats having to wait 20 minutes for the next train to Thousand Acre Forest. 
 John doesn't immediately recognize the old lady when he runs by her, but when she calls out his name, he knows that there is no getting around it. He's going to have be polite, and stop and have a talk with her. He owes Miss Jansen that much.
 

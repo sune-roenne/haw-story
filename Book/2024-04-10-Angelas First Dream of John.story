@@ -1,3 +1,12 @@
+{
+   "ChapterTitle": "Angela's First Dream",
+   "StoryLineKey": "dreams",
+   "Aliases" : {
+      "Angry man": "john"
+   }
+}
+
+
 Angela is sitting in the train, commuting to work, when suddenly, the world freezes... Not in the sense of getting cold, but in the sense that the train's movement is completely halted from one instant to the next. At the same time, every passenger in the train becomes inanimate. It's as if someone clicked the pause button, but the world forgot to include Angela in the pause-command.
 
 - (Angela) "I'm dreaming!"

@@ -1,3 +1,10 @@
+{
+   "ChapterTitle": "Cecil Goes Spelunking in the Basement",
+   "StoryLineKey": "detectives",
+   "Aliases" : null
+}
+
+
 - (Karl) "Hey Shit-Bird! Whatcha doin'?"
 - (Cecil) "Ugh! I'm trying to understand this CCP Swap setup. I understand the whole CCP ordeal and all, but who the hell came up with THIS setup??!"
 - (Karl) "Don't I just know it man! It's been that way at least since I was in the Academy... We all got slaughtered on that test!"

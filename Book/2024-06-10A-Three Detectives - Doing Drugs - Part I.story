@@ -1,3 +1,9 @@
+{
+   "ChapterTitle": "The 3 Detectives: Doing Drugs (Part I)",
+   "StoryLineKey": "detectives",
+   "Aliases" : null
+}
+
 - (Albert) "Seriously, why is it so damn hot in here. We've been here less than 5 minutes, and my shirt is as good as seethrough"
 - (Sune) "Yeah... You should apologize for that... Maybe hit the gym once in a while"
   "But, we forgive you... It's not your fault the damn Air Condition is broken"
