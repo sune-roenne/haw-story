@@ -48,14 +48,12 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
   "But... who cares? This is about the science of it"
   "TONIGHT LADIES AND GENTLEMAN, WE WILL ANSWER THE AGE-OLD QUESTION: 'IF YOU EAT AN ENTIRE CHOCOLATE CAKE IN YOUR DREAMS, WILL YOU WAKE UP AND BE FAT?'"
   "AND... TO HELP US ANSWER THAT QUESTION, HERE IS THE LOVELY AAAAANGEEELLAAAAAA" [clapping]
-  "AND NOW... IF THE AUDIENCE WOULD PLEASE SHUT THE FUCK UP AS LOVELY ANGELA ATTEMPTS TO CRAM DOWN THIS WHOLE CAKE IN ONE GO... Drum-roll please"
-  [drum-roll]
+  "AND NOW... IF THE AUDIENCE WOULD PLEASE SHUT THE FUCK UP AS LOVELY ANGELA ATTEMPTS TO CRAM DOWN THIS WHOLE CAKE IN ONE GO... Drum-roll please" [drum-rolls]
   "AND THERE YOU HAVE IT LADIES AND GENTLEMEN, SHE'S DONE IT! LET'S HEAR FROM THE LOVELY ANGELA HOW SHE'S DOING"
   "ANGELA! HOW DO YOU FEEL RIGHT NOW?"
   "Well Mike, I feel like I have just swallowed an entire chocolate cake... And I don't even like cake... boo hoo for me... I think I'm going to be sick!"
   "ISN'T SHE JUST A TREAT LADES AND GENTLEMEN!?"
   "WELL, THAT'S IT FOR TONIGHT, BE SURE TO CHECK IN AGAIN WHEN WE WAKE UP, TO DISCOVER IF 'LOVELY ANGELA' IS NOW 'FAT ANGELA'. UNTIL NEXT TIME!"
-  "..."
   
 - (Angela) "Alright, with that out of the way, let's see what we have here"
   "I remember that guy, but why?"

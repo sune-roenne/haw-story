@@ -28,7 +28,7 @@ An arm reaches under Angela's left arm from behind, and quickly grabs a hold of 
 
 - (Angry voice) "Listen, and listen good!"
   "If you don't do exactly as I say, I'm going to fuck you up really bad"
-  "If you try to fight me, I'm going to squish your creepy sex-offender balls, cut them off and make you eat them before I'll let you enjoy a very slow and VERY painful death"
+  "If you try to fight me, I'm going to cut off your creepy sex-offender balls before I give you a very slow and very painful death"
   "Do you understand the instructions I have just given you?"
 - (Angela) "Oh no, not that" [squeaky little-girls voice]
   "[clears throat]"
@@ -40,12 +40,12 @@ Angela draws her right elbow forward and drives it back, hitting the angry stran
 
 - (Angry voice) "Aaaaarrrrggghhhh"
 
-Angela now curls herself forward, resulting in a beautiful hip-throw, sending the angry stranger onto the bed in-front of them. Angela quickly capitalizes on the strangers brief disorientation and jumps on top of him in mount and starts pounding the side of his face with full-swing overhead slaps alternating her left and right hand.
+Angela now curls herself forward, resulting in a beautiful hip-throw, sending the angry stranger onto the bed in-front of them. Angela quickly capitalizes on the strangers brief disorientation and jumps on top of him and starts pounding the side of his face with full-swing overhead slaps alternating her left and right hand.
 
-- (Angela) "SAY YOU YIELD YOU SICK MURDEROUS PSYCHOPATH, OR WILL SLAP YOU SILLY"
+- (Angela) "SAY YOU YIELD YOU SICK MURDEROUS PSYCHOPATH, OR I WILL SLAP YOU SILLY"
   "YIELD TO THE CREEP!"
 - (Subservient voice) "I YIELD, I YIELD... You are the greatest opponent I have ever fought... I'm so sorry!"
-- (Angela) "NOW PREPARE FOR THE SHOCKER SICK PSYCHOPATH"
+- (Angela) "NOW PREPARE FOR THE SHOCKER YOU SICK PSYCHOPATH"
   "I'm a girl!"
   "You have just been beat by a girl!"
 - (Subservient voice) "But not just any girl mind you..."
@@ -114,7 +114,7 @@ Angela snaps her finger, and the buzzing in the air stops, as hundreds of mosqui
 - (Angela) "Oooohhhh... What did you have in mind?" [biting her lip]
 - (John) "Follow my lead..."
 
-John gets up and runs behind the hindmost stream of cars to the left-side corner, with Angela following him. 
+John gets up and runs behind the hindmost row of cars to the left-side corner, with Angela following him. 
 
 - (John) "You take this corner" [runs across the lot to the right side]
 
@@ -125,7 +125,7 @@ John starts firing into the air.
 - (Angels) "..." [sending a grenade off, blasting the screen to pieces]
   "I AM A SEX CREEP AND WOMEN DON'T LIKE ME SO I'M GOING TO RAPE EVERYONE HERE!!! MUAHAHAHAHA" [in her deep sex-offender voice, shooting her 6 shooter in the air]
 - (John) "I'M A VIKING WHO HAS COME FROM THE PAST TO PILLAGE AND KILL!!!" [also making a deep voice]
-- (both) "..." [walking towards their madras as cars flee the parking lot in panic]
+- (both) "..." [walking towards their madras as cars flee the drive-in in panic]
   "hahahahaha" [laughing their asses off, rolling on the madras]
 - (Angela) "Now, where were we Mr. Viking"
 - (John) "I think I was about to be molested by a sex creep"
@@ -150,9 +150,9 @@ Some time later, Angela and John are lying on their backs, looking up at the sta
   "The kind of guy who would risk death for love right...?"
 - (John) "..." [looking at Angela... smiling]
 - (Angela) "But you KNOW what that leads to... That's what everyone of your movies are about, right?"
-- (John) "I believe they might be about more than just that"
+- (John) "I believe they are about more than just that"
 - (Angela) "..." [pensive]
-  "Yes, I DO think that"
+  "Yes, I DO believe that"
   "Oh John, will you hold me until I sleep... squared, I suppose" [smiling, closing her eyes]
 - (John) "I'd love to" [holds her]
 

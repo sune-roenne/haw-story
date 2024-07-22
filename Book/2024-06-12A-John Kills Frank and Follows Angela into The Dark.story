@@ -77,7 +77,7 @@
 	
 - (Both - singing) 	"If Heaven and Hell decide
 			 That they both are satisfied
-			 Illuminate the "No's on their vacancy signs
+			 Illuminate the No's on their vacancy signs
 			 If there's no one beside you
 			 When your soul embarks
 			 Then I'll follow you into the dark"

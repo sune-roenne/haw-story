@@ -18,7 +18,7 @@
 - (Carol) "Clever boy... I have been here for 6 years"
 - (Cecil) "And what do you do here... or... What does your job description entail?"
 - (Carol) "Alright, you can chill with that... I was just yanking your chain... I'm not retarded"
-- (Cecil) [Smiles]
+- (Cecil) "..." [Smiles]
 - (Carol) "I work in Staffing... What you would probably call 'Human Resources' in most other organizations... Making sure that we have the required talent in the company, and that you guys receive your paycheck every month"
 - (Cecil) "I see... Looks like I want to stay on good terms with you!"
 - (Carol) "You better!"
@@ -30,25 +30,25 @@
 - (Man) "Hey Carol, who's the shit bird?"
 - (Carol) "Cool people, this is Cecil... Cecil, these are the cool people"
   "Specifically, in ascending order of length..."
-- (Man): "AND GIRTH!"
+- (Man) "AND GIRTH!"
 - (Carol) "... this is Karl, John and Ben... Karl and John work in Client Management..."
-- (Ben): "THE PHONE LADIES"
+- (Ben) "THE PHONE LADIES"
 - (Carol) ".. and Ben works in Reporting & APIs"
-- (Karl): "Ben is still waiting for his Sunflower Ribbon to arrive in the mail... He isn't really retarded... there's just something wrong with his brain"
-- (Ben): "HEY! You can't spell 'Social Retardation' without 'Retarded'"
+- (Karl) "Ben is still waiting for his Sunflower Ribbon to arrive in the mail... He isn't really retarded... there's just something wrong with his brain"
+- (Ben) "HEY! You can't spell 'Social Retardation' without 'Retarded'"
   "... wait a minute"
 - (John) "Suicide by words... again!" [Grinning, shaking his head]
 - (Carol) "And this lovely flower is Susan"
 - (Susan) "Nice to meet you Cecil" [Smiling]
 - (Cecil) "Pleasure is all mine"
 
-- (Ben): "So, is Angela joining us today?"
+- (Ben) "So, is Angela joining us today?"
 3 FinaLibre employees out of the group of 6 turn and stare at him in amazement. Only Carol walks on.
 
 - (Ben) "WHAT?"
 
 The group recommences it's walk toward the lunch buffet.
-- (John): "socially retarded" [shaking his head]
+- (John) "socially retarded" [shaking his head]
 
 ...
 
@@ -57,7 +57,7 @@ The group recommences it's walk toward the lunch buffet.
 - (Karl) "I don't think 'gas-lighting' means what you think it means my friend! But he does have a point Susan, you really need to re-evaluate your choice in life-partner before the mating ritual gets serious... I mean: you can do a lot better than a damn carpenter!"
 - (Carol) "And by 'a lot better' you mean a nice guy, right?"
   "...for instance one employed in Finance? Maybe one of her acquaintances here at FinaLibre?"
-- (Ben & Karl [looking at each other]): "That's a great idea!" 
+- (Ben and Karl): "That's a great idea!" [looking at each other]
 - (Carol) "And how would your girlfriend like that setup Karl?"
 - (Karl) "It would take some persuasion I concede... She's got a point Susan, you should hang on to him until I make 'Chief'... I can have 2 girlfriends by then... But you would be my main of course" [winking]
 - (Ben) "Why hold out for second best, when the Alpha is available right now?!"

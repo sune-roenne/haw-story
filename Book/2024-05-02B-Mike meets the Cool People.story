@@ -54,7 +54,7 @@ At this, Karl extends a punch to Cecil's chest across the table.
 - (Susan) "..." [shaking head in a grin]
 - (John) "Seriously, hear me out... When it comes right down to it, I don't even think that I would sign with the Devil... When compared to God, he is definitely the weaker of the two.."
 - (Karl) "BUT, strength-stats aside, God doesn't really have a good track-record for dishing out from his stash... Look at what he did to his own son for crying out loud" [purposefully over-dramatic]
-  "Naahah... Devil-dog is my DAWG! He is always down to spread the doh on his friends!"
+  "Naahah... That horned mofo is my DAWG! He is always down to spread the dough on his friends!"
 - (John) "... until you read the fine-line right, and then what the hell is the point of cashing in, if you gotta spend an eternity deciphering lawyer mumbo-jumbo just to make sure he's not screwing you on the deal"
 - (Ben) "I'm with Karl on this one. Team Red Demon +1"
 - (Mike) "Oh Lordy, I don't mind saving my soul and signing with the Almighty"
