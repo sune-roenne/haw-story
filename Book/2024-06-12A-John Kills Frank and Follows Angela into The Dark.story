@@ -51,6 +51,7 @@
   "... take care John ..." [leaving the room]
 - (John) "You too" [looking into the eternity]
 
+...
 
 - (Angela) "You have to admit, there is something poetic about this?"
 - (John) "There is something poetic about it" [smiles]
@@ -61,22 +62,22 @@
 - (John) "We did what we could"
 - (Angela) "Fucking Frank!"
 - (John) "I don't want to talk about Frank... This was never about Frank"
-  "I want you to sing me a song"
+  "Would you sing me a song?"
 - (Angela) "I would love to" [smiling]
 - (John) "Do you know 'I'll follow you into the dark?'"
 - (Angela)  "I know what you know" [smiling]
 
-			"You and me have seen everything to see" [singing]
-			"From Bangkok to Calgary
+- (Angela - singing) "You and me have seen everything to see
+			 From Bangkok to Calgary
 			 And the soles of your shoes are all worn down
 			 The time for sleep is now
 			 But it's nothing to cry about
 			 'Cause we'll hold each other soon
 			 In the blackest of rooms"
 	
-- (both) 	"If Heaven and Hell decide
+- (Both - singing) 	"If Heaven and Hell decide
 			 That they both are satisfied
-			 Illuminate the "No"s on their vacancy signs
+			 Illuminate the "No's on their vacancy signs
 			 If there's no one beside you
 			 When your soul embarks
 			 Then I'll follow you into the dark"
@@ -86,50 +87,37 @@
 - (Angela) "How about some Cindy Lauper?"
 - (John) "..." [smiling]
   "I only know that one line" [smiling]
-- (Angela) "What about 'Should I fall behind'?"
-  
-			"Now there’s a beautiful river in the valley ahead" [singing]
-			"There ‘neath the oak’s bough soon we will be wed
+- (Angela) "How about..."
+
+- (Angela - singing)  "Now there’s a beautiful river in the valley ahead
+			 There 'neath the oak's bough soon we will be wed
  			 Should we lose each other in the shadow of the evening trees
-			 I’ll wait for you
+			 I'll wait for you
 			 And should I fall behind
 			 Wait for me"  
 
 - (John) "..." [smiling]
   "I like Springsteen"
-  "But I think this is more... 'us'"
+  "But I think this is more... 'us'" [begins tapping the floor]
   
-			"Well, we busted out of class" [singing]
-- (Angela) 	"Had to get away from those fools" [singing]
-- (Both) 	"We learned more from a three-minute record, baby" [singing]
+- (John - singing) "Well, we busted out of class"
+
+- (Angela - singing) "Had to get away from those fools" 
+
+- (Both - singing) 	"We learned more from a three-minute record, baby
 			 Than we ever learned in school
 			 Tonight I hear the neighborhood drummer sound
 			 I can feel my heart begin to pound
 			 You say you're tired and you just want to close your eyes
-			 And follow your dreams down"
+			 And follow your dreams down
 			 
-- (Both) 	"Well, we made a promise we swore we'd always remember" [yelling]
+			 Well, we made a promise we swore we'd always remember
 			 No retreat, baby, no surrender
 			 Like soldiers in the winter's night
 			 With a vow to defend
-			 No retreat, baby, no surrender"
-			 
-			"Well, now young faces grow sad and old" [singing]
-			"And hearts of fire grow cold
-			 We swore blood brothers against the wind
-			 Now I'm ready to grow young again
-			 And hear your sister's voice calling us home
-			 Across the open yards
-			 Well maybe we could cut some place of our own
-			 With these drums and these guitars
-
-			"'Cause we made a promise we swore we'd always remember" [yelling]
- 			 No retreat, baby, no surrender
-			 Blood brothers in the stormy night
-			 With a vow to defend
 			 No retreat, baby, no surrender
 
-			"Now on the streets tonight the lights are growing dim" [calmly, heads leaning against each others]
+			 Now on the streets tonight the lights are growing dim
 			 The walls in my room are closing in
 			 But it's good to see your smiling face
 			 And to hear your voice again
@@ -145,7 +133,7 @@
 			 No retreat, baby, no surrender
 			 No retreat, baby, no surrender"  
 
-John and Angela now sit, heads still leaning against each others, looking into the great void in the poorly-lit corner of that 2nd floor bathroom. Some hours later, they hear the sound of footsteps in the hall outside.
+John and Angela now sit, heads leaning against each others, looking into the great void in the poorly-lit corner of that 2nd floor bathroom. Some hours later, they hear the sound of footsteps in the hall outside.
 
 - (Angela) "You're up honey" [whispering into his ear, kisses him on the cheek]
 
