@@ -52,9 +52,9 @@ This is no time to pause or slow down, but DAMN that hurts! When he is safely wi
 - (Voice) "What the fuck do you mean you don't feel right about this?!"
 - (Another voice) "You can't tell me you like these kind of jobs!"
 
-There is something about the how hoarse and angry especially the first voice sounded, that terrifies Cecil, and for the time being, he opts to remain on the side of the door he is currently on.
+There is something about how hoarse and angry especially the first voice sounded that terrifies Cecil, and for the time being, he opts to remain on his side of door.
 
-- (Voice) "Like has nothing to do with it! You're paid handsomely to do a goddamn job soldier... A job that let's you sit around and watch TV most days, as long as you perform when the firm needs you, and now it needs you, so quit your fucking whining and load up"
+- (Voice) "Like has nothing to do with it! You're paid handsomely to do a goddamn job soldier... A job that lets you sit around and watch TV most days, as long as you perform when the firm needs you, and now it needs you, so quit your fucking whining and load up"
 - (Other voice) "Christ! What is it this time? Liver, lung?"
 - (Voice) "Nope! It's the big one: a heart" 
 
@@ -64,7 +64,7 @@ Even-though Cecil cannot see the two men, he is absolutely certain that the last
 - (Other voice) "At least stop sugar-coating it and call it what it is: torture! You're going to torture the pure guy until the doctors are ready to transfer his heart to some fat Chinese bastard with a fuckton of embezzled money, so he may be able to live 5 years longer when we - assuming these dicks haven't thrown US into the feeding pit - get to hunt down the next poor soul, dumb enough to seek their destiny in this sham of an operation"
 - (Voice) "Just be glad you're on this side of the hunt holding the assault rifle! Wouldn't want to be this Cecil-guy now would you...?"
 
-At the mention of his name, Cecil's mind suddenly regains it's grip on reality, and finds the hidden message in the dark and twisted imagery: RUN! It must have somehow forgotten about one very important condition of the current scenario: more than 2 meters away from the flickering lights, the hallway is completely dark. What his mind has forgotten, Cecil's body reminds it of as it first crashes into what might be a desk, then looses it's balance on impact with something that may be the same damn chair he hit going the other way, and as a result hereof, does a nose-dive against the floor. Pretty much every part of Cecil's body has a message for Cecil's brain, but the latter is in no mood to argue and merely insists that the body fulfills it's duty, gets off the floor and goes back to that running bit it failed so horribly at just a moment ago. 
+At the mention of his name, Cecil's mind suddenly regains it's grip on reality, and finds the hidden message in the dark and twisted imagery: RUN! It must have somehow forgotten about one very important condition of the current scenario though: more than 2 meters away from the flickering lights, the hallway is completely dark. What his mind has forgotten, Cecil's body reminds it of as it first crashes into what might be a desk, then looses it's balance on impact with something that may be the same damn chair he hit going the other way, and as a result hereof, does a nose-dive against the floor. Pretty much every part of Cecil's body has a message for Cecil's brain, but the latter is in no mood to argue and merely insists that the body fulfills it's duty, gets off the floor and goes back to that running bit it failed so horribly at just a moment ago. 
 Cecil is thus hurdling his body towards the exit into the stairway, when he hears a loud shout:
 
 - (Voice) "THAT'S HIM... GET HIM!"
