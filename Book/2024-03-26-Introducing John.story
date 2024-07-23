@@ -3,15 +3,15 @@
    "StoryLineKey": "john",
    "Aliases" : {
       "Young man": "john"
-   }
+   },
+   "RevisedOn" : "2024-07-23"
 }
 
 Jacob enters the locker room of his local Gliders Society - a community of hobby glider pilots and enthusiasts - and immediately notices the young man sitting on the bench in front of the entrance. Jacob is about to ask the young man if he is lost - at 37 Jacob is the youngest member of the community that primarily consists of men over 50 with considerable liquidity to splurge on their hobby - but then notices the insistent and gloomy stare in the young mans eyes, and realizes what this is about.
 
 - (Jacob) "My tow-pilot could be here any minute"
-- (Young man) "The T61F is motor-powered"
+- (Young man) "Your T61F is motor-powered"
   "There is no one within a 5 kilometer radius"
-  "Like always"
   "Phone!"
 
 Jacob reaches into his pocket, pulls out his latest-edition iPhone, takes out the battery and smashes the phone on the floor.
@@ -25,7 +25,7 @@ Jacob reaches into his pocket, pulls out his latest-edition iPhone, takes out th
   "No"
   "Trier Lundager"
 
-Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign of inexperience, a sign that the young man might show willingness to engage in conversation and if not that: a sign that he who would be wound-up tight enough to try and play the silent killer type. Jacob just needs a little leverage, a small advantage he can use to turn the situation around, but so far no outs have presented themselves.
+Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign of inexperience, a sign that the young man might show willingness to engage in conversation and if not that: a sign that he who would be wound-up tight enough to try and play the silent killer type. Jacob just needs a little leverage, a small advantage he can use to turn the situation around, but so far nothing has presented itself.
 
 - (Jacob) "Yeah?" [challenging the young man to expand on the matter]
 - (Young man) "..." [considering, still deadpan]
@@ -35,45 +35,48 @@ Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign
 - (Young man) "..." [staring at him in challenge]
 - (Jacob) "Herlevsen is a business-associate. What's the connection?"
 - (Young man) "You were in his recent contacts"
-- (Jacob) "So what?"
+- (Jacob) "Yeah...?!"
 - (Young man) "Had me looking into Trier's heart attack"
   "It wasn't easy"
-  "but if I can make you for Trier, someone may start digging"
+  "but if I can make you for Trier, someone can start digging"
 - (Jacob) "Jesus Christ!"
-  "Have no idea what kind of game you've gotten yourself involved in, do you kid?"
+  "You have no idea what kind of game you've gotten yourself involved in, do you kid?"
   "If anybody 'starts digging' the Banshees will have the investigation shut down immediately"
   "You do know what kind of people are behind this thing, right?"
   "... or do you think you are making the world a better place?"
-  "Did you ever wonder about about the over-representation of wealthy CEO's on the list?"
-- (Young man) "You knew the rules when you signed up" [tired smile that suggests that Jacob should stop trying to talk his way out of this]
+  "Did the over-representation of wealthy CEO's on the list ever make you wonder if there's a money-angle to the whole thing?"
+- (Young man) "You knew the rules when you signed up" [tired smile to suggest that Jacob should stop trying to talk his way out of this]
 
-- (Jacob) "If your could do it all over again, would you join the Banshees?"
+...
+
+- (Jacob) "If you could do it all over again, would you still join?"
 - (Young man) "..." [staring at him]
 - (Jacob) "I've given the subject some thought..."
   "and on one hand, it gives you a whole other outlook on life..."
-  "I mean, you have a deadline in 10 hours, boss is on your back to close another client"
-  "your closest collaborators are ready to stab you in the back at the slightest mistake"
+  "I mean... you have a deadline in 10 hours, boss is on your back to close another client"
+  "your colleagues are ready to stab you in the back at the slightest mistake"
   "but it totally pales in significance when compared to last night..."
   "...when you broke into some guys home, shot him in the head and dumped the body in the harbor"
-  "Who cares what your fucking boss will say?"
-  "Who cares what lies the clients catch you telling, if you slip up in that other operation, you're dead"
-  ".. well, I guess I don't have to tell you that..." [vague smile]
-  "But on the other hand, it gives you a whole other outlook on life..." [repeating in a deeper tone of voice]
+  "Who cares about a dip-shit boss getting upset?"
+  "Who cares about clients catching you in a lie?"
+  "... if you slip up in that other operation, you're dead"
+  "... but I guess I don't have to tell you that..." [vague smile]
+  "On the other hand, it gives you a whole other outlook on life..." [repeating in a deeper tone of voice]
   "Make that deadline and make 'man of the hour'? Can't feel any real sense of achievement..."  
-  "Bang the young intern during lunch hour? Kinda fun while it lasts, but you are too senseless to make it mean anything to you..."
+  "Bang the young intern during lunch hour? Kinda fun while it lasts, but you are too senseless to make it mean anything..."
   "And at some point, killing stops being the same... The thrill is not the same, so you start taking unnecessary risks to get the feeling back"
   ... but I guess I don't have to tell you that"
   "..." [looking at the young man in challenge]
 - (Young man) "..." [meeting Jacob's stare, then apparently relenting, relaxing his composure a little]  
   "I never signed up..."
-  "Someone made me for a drunk driver I did"
+  "Someone made me for a drunk driver I did..."
   "Guy killed a total of 7 people on 2 different occasions"
 - (Jacob) "The Djernes case? That was you?!"
   "The newspapers said he looked like he had run into a bear or a pack of hungry wolves"
   "What did you use? A bat? A lead pipe? I'm curious!"
 - (Young man) "I didn't use anything" [deadpan]
 - (Jacob) "Holy Christ! You did that with your bare hands?"
-- (Young man) "When I got home, someone was waiting in my bedroom, and gave me the Banshee-spiel"
+- (Young man) "When I got home, someone was waiting for me and gave me the Banshee-spiel"
   "..."
 - (Jacob) "Wait a minute, so you were doing this BEFORE Banshee? Freelance?"
 - (Young man) "I guess it was more of a hobby-thing"
@@ -101,12 +104,14 @@ Jacob pulls up the bottom of his shirt and lowers his pants a little to reveal a
 - (Young man) "That you killed someone who had one"
 - (Jacob) "In a bare-knuckles fight. No weapons!" [proud grin]
 
-'Alright' Jacob thinks 'Test his striking game, and take it to the ground if you don't have striking superiority within the first 30 seconds'.
+'Alright' Jacob thinks 'Test his striking game, and take it to the ground if you don't have superiority within the first 30 seconds'.
 Jacob sends a kick to the young man's thigh with his left leg, then follows up with two quick jabs, does a slight cross-fake and goes for a hook, when he feels the man's knife go through his throat.
+
 - (Jacob - thinking) "So, he lied... How did I not see that coming?" 
+
 Jacob may be able to send off a few more strikes, but at this point, what's the point? 
 
-At least the young man makes it quick: when Jacob stops resisting, the young man sweeps his leg's and drives him to the floor on his stomach, and pulls the knife across Jacob's throat in one smooth movement, pulling hard on the knife to make it go as deep into Jacob's throat as possible, and maintains a hold of Jacob's hair pulling the throat apart across the seam to allow for maximum spillage, and waits for Jacob to bleed out. He then pulls up Jacob's shirt to expose his lower back, carves '¤BB02651' and covers the back by the shirt again. 
-The young man then leaves the knife on the floor, looks around the locker room to make sure he hasn't forgotten anything, turns off the light, and leaves. 
+At least the young man makes it quick: when Jacob stops resisting, the young man sweeps his leg's and drives him to the floor on his stomach, pulls the knife across Jacob's throat in one smooth movement pulling hard on the knife to make it go as deep into Jacob's throat as possible, maintains a hold of Jacob's hair pulling the throat apart across the seam to allow for maximum spillage, and waits for Jacob to bleed out. He then pulls up Jacob's shirt to expose his lower back, carves '¤BB02651' and covers the back by the shirt again. 
+The young man leaves the knife on the floor, looks around the locker room to make sure he hasn't forgotten anything, turns off the light and leaves. 
   
   
