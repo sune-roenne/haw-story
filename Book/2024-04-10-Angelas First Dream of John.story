@@ -48,11 +48,14 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
   "But... who cares? This is about the science of it"
   "TONIGHT LADIES AND GENTLEMAN, WE WILL ANSWER THE AGE-OLD QUESTION: 'IF YOU EAT AN ENTIRE CHOCOLATE CAKE IN YOUR DREAMS, WILL YOU WAKE UP AND BE FAT?'"
   "AND... TO HELP US ANSWER THAT QUESTION, HERE IS THE LOVELY AAAAANGEEELLAAAAAA" [clapping]
-  "AND NOW... IF THE AUDIENCE WOULD PLEASE SHUT THE FUCK UP AS LOVELY ANGELA ATTEMPTS TO CRAM DOWN THIS WHOLE CAKE IN ONE GO... Drum-roll please" [drum-rolls]
+  "AND NOW... IF THE AUDIENCE WOULD PLEASE SHUT THE FUCK UP AS LOVELY ANGELA ATTEMPTS TO CRAM DOWN THIS WHOLE CAKE IN ONE GO..."
+  "Drum-roll please..." [drum-rolls]
   "AND THERE YOU HAVE IT LADIES AND GENTLEMEN, SHE'S DONE IT! LET'S HEAR FROM THE LOVELY ANGELA HOW SHE'S DOING"
   "ANGELA! HOW DO YOU FEEL RIGHT NOW?"
-  "Well Mike, I feel like I have just swallowed an entire chocolate cake... And I don't even like cake... boo hoo for me... I think I'm going to be sick!"
-  "ISN'T SHE JUST A TREAT LADES AND GENTLEMEN!?"
+  "Well Mike, I feel like I have just swallowed an entire chocolate cake..."
+  "And I don't even like cake... boo hoo for me..."
+  "I think I'm going to be sick!"
+  "ISN'T SHE JUST A TREAT LADES AND GENTLEMEN?!"
   "WELL, THAT'S IT FOR TONIGHT, BE SURE TO CHECK IN AGAIN WHEN WE WAKE UP, TO DISCOVER IF 'LOVELY ANGELA' IS NOW 'FAT ANGELA'. UNTIL NEXT TIME!"
   
 - (Angela) "Alright, with that out of the way, let's see what we have here"
@@ -122,16 +125,18 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
 - (Angela) "Abra cadabra: POPCORN!"
   "And... We'll hit 'play' like so..."
 
-The cell phone starts playing a movie. The camera fades in on a young man and a young woman sitting in the clearing of a forest on a bright Summers day.
+The cell phone starts playing a movie. The camera fades in on a young man and a young woman sitting in the clearing by a forest lake on a bright Summers day.
 - (Angela) "Ooooh... Is that us?"
 - (John) "Not exactly, but then again..."
 - (Angela) "Alright... Do you want to be the boy or the girl?"
 - (John) "I'd prefer to be the young man"
-- (Angela) "Hmmm... Alright... A little boring I suppose... But, 'you shouldn't ask a question if you're not willing to accept the answer'"
+- (Angela) "Hmmm... Alright... A little boring I suppose..."
+  "But 'you shouldn't ask a question if you're not willing to accept the answer'"
   "Ooooh... look... I'm pretty ain't I?"
 - (John) "I think so"
 - (Angela) "You are kinda handsome too!"
-- (John) "On behalf of the young man: thank you. The dialogue is about to start"
+- (John) "On behalf of the young man: thank you"
+  "The dialogue is about to start"
 - (Angela) "Point taken"
 
 - (Young woman) "They want me to marry him"
@@ -142,7 +147,7 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (Young man) "It isn't"
 - (Young woman) "Is there anything we can do?"
 - (Young man) "I think so, but we will have the whole world against us"
-- (Young woman) "Well, if the world is ready to go against us for not getting in line with such a stupid demand, then let the world burn"
+- (Young woman) "Well, if the world is going to go against us for not getting in line with such a stupid demand, then let the world burn"
 - (Young man) "..." [smiling]
   "I love you, and I think I am always going to love you"
 - (Young woman) "I love you more than life itself"
@@ -151,13 +156,17 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 
 - (Angela) "The screenplay feels a little cheesy doesn't it?"
 - (John) "Yeah, but it's supposed to take place in another day and age"
-  "but even so, I'd have to agree with you that it could use a little... spunk"
+  "but even so, I'd have to agree with you that it could use a little..."
+  "spunk"
 - (Angela) "Yes... spunk"
-  "Ooooh, look at them going at it... This isn't PG-13 huh?"
+  "Ooooh, look at them going at it..."
+  "This isn't PG-13 huh?"
 - (John) "You have the phone... You can just press the fast forward"
-- (Angela) "No way! Look at that! Look how clumsy they are!"
+- (Angela) "No way! Look at that!"
+  "Look how clumsy they are!"
 - (John) "I think it's their first time... And this is supposed to be way before porn was a thing"
-- (Angela) "Yeah, but this is like the viking age, isn't it? Didn't they have like massive sex orgies and such?"
+- (Angela) "Yeah, but this is like the viking age, isn't it?"
+  "Didn't they have like massive sex orgies and such?"
 - (John) "I honestly don't know"
 - (Angela) "Ooooh... I just got to thinking... This was before plumbing and regular showers was a thing..."
 - (John) "I know what you're driving at... Let's be grateful for modern day hygiene"
@@ -165,7 +174,8 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
   "Now what do we have here..."
   "Ooooh... there's our young couple again"
   "They look mean! They are up to no good!"
-  "Oh... I think I know what's going to happen here... I'm not sure I want to watch it"
+  "Oh... I think I know what's going to happen here..."
+  "I'm not sure I want to watch it"
 - (John) "..."
 - (Angela) "Alright... Let me at least turn the sound off"
   "Oh, that's horrible! Those people don't stand a chance!"
@@ -181,15 +191,15 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (Angela) "But I bet you didn't come here to show me just that... There's more isn't there"
 - (John) "Yes"
 - (Angela) "Because the world is not going to just sit back and let them get away with happiness, is it?"
-- (John) "And 35 murders + 3 accounts of attempted murders in the first degree, but no, it isn't"
+- (John) "And 35 murders + 3 accounts of attempted murder in the first degree, but no, it isn't"
 - (Angela) "And you want me to watch it, right?"
 - (John) "I'm afraid that's best"
 - (Angela) "Will you hold me while we watch?"
 - (John) "I'd love to"
 
 - (Angela) "NO NO NO NO YOU DUMB BITCH! DON'T GO IN THERE! WHAT'S WRONG WITH YOUR DUMB BRAIN? THERE'S ENOUGH SPEARS FOR AN ENTIRE ARMY LEANED AGAINST THE WALL OUTSIDE, AND YOU ARE WILLING TO BELIEVE THERE'S JUST A SINGLE FAMILY IN THERE!!!?!"
-- (Angela) "I almost don't feel sorry for you when you are that STUPID!"
-- (Angela) "Please tell me that the man has a little brains"
+  "I almost don't feel sorry for you when you are that STUPID!"
+  "Please tell me that the man has a little brains"
   "Yes... that's good... That's right Mr. Big Brain, it IS a trap... Yes, just watch them and figure out a plan... Maybe you should jack the spears, eh?"
   "NO! WHAT ARE YOU DOING???! YOU ALREADY KNEW THEY HAD HER! JESUS CHRIST! ALL YOU HAD GOING FOR YOU WAS THE ELEMENT OF SURPRISE AND NOW YOU DON'T EVEN HAVE THAT... ALL BECAUSE THEY WAVED A LITTLE KNIFE AGAINST YOUR GIRLFRIENDS THROAT!"
 
@@ -202,7 +212,7 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (Angela) "Thank you Mr. Sinister Realism! Let's do a RomCom next time... I want to see how you handle that!"
 - (John) "..." [smiling]
 - (Angela) "Wait a minute! What was that?! In the shadows. Let me just pause it... and enlarge... That looks kind of like a man, doesn't it? A really evil man. Is that a man?"
-- (John) "The jury is hung on that one... some call him the Shadow-Man and think of him as kind of an orchestrator of these kinds of rituals, some say there isn't anything at all"
+- (John) "The jury is still out on that one... some call him the Shadow-Man and think of him as kind of an orchestrator of these kinds of rituals, some say there isn't anything at all"
 - (Angela) "Well, I'm on Team Shadow-Man! There totally IS a very evil man right there"
   "Alright, let me just hit 'play' again"
   "Oh, I forgot what this was"
@@ -236,4 +246,4 @@ Angela closes her eyes and looks concentrated, when a loud scream is heard from 
 
 The entirety of Angela's dream world dissolves into nothing, and Angela is gripped by the feeling of falling through endless darkness.
 Angela wakes up in shock! As it turns out, she does have to take a shower because she is drenched in sweat. 
-She is not fat.
+But she is not fat.
