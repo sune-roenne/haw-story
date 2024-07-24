@@ -1,7 +1,8 @@
 {
    "ChapterTitle": "On Weddings and Psychopaths",
    "StoryLineKey": "lunch",
-   "Aliases" : null
+   "Aliases" : null,
+   "RevisedOn" : "2024-07-24"
 }
 
 
@@ -27,7 +28,7 @@
 - (Carol) "Would one of you guys please show Mike around to the Employee Fountain of Nickles? ... tsk, tsk tsk" 
 - (Ben) "I'll get you set up for FunBox TM Mike" [winking]
 - (John) "Now we just gotta find you a boss psychopath for Mike and he'll be a happy camper" [smiling at Mike]
-- (Susan) "We've got Pissy Frank come Audit-time... does that help?"
+- (Susan) "We've got Pissy Frank come Audit-time... Will that do?"
 - (Karl) "..." [in deep contemplation, apparently brooding over an idea]
   "You guys know what?"
 - (Everyone else) "..." 
@@ -85,23 +86,20 @@
   "One time, some of us from Client Management went out drinking..."
   "And after the strip joint, when it was just me and Jacob having drinks in a last-ditch bar"
   "we get to talking, and he tells me about this super-secret online society he's a part of"
-  "'Banshee something'... The whole Banshee thing derives from some Irish myth about forewarnings of death..."
-  "It's invite only... Someone finds you and tell you that you're in..."
-  "And do you guys know what these people do?"
-  "They KILL people"
+  "... where they KILL people..." [whispering, but still managing to stress the word 'kill']
   "So, if you're a member, you can put up a 'mark' and a reward, that 'I would like to see this or that guy disappear'"
-  "And the reward is in a virtual currency that you can only obtain, by killing people on the list!"
-  "Only requirement is, that you have to prove that the mark has killed people"
-  "So, for instance, say you have a real issue with some dude in your everyday life..."
+  "... say you have a real issue with some dude in your everyday life..."
   "But you can't just kill him, because everyone would know it was you, and then here comes the 5-0..."
   "Then you put him up as a mark on the list, and then you can make sure to be at the amusement park having your picture taken on the Devil of Red Hot Death..."
   "While some guy who doesn't have any connection at all to the mark, will be putting bullets through the back of the man's skull"
-- (Cecil) "Granted that the mark is killer himself, right? That's what you said...?"
-- (Karl) "Right. And of course, you'd have to earn the reward yourself... in blood... before you can post it as a reward"
-  "And Jacob told me, that the site itself... Or, I guess the administrators or owners or whatever..."
-  "Will put up marks of their own for people to earn virtual currency..."
-  "Real inside police-details of actual investigations..."
-  "Often at times, it will be details of cases where someone clearly guilty has walked because of judicial errors"
+- (Cecil) "But why?! What's in it for the guy?" [clearly not believing Karl's tale]
+- (Karl) "He's rewarded in this virtual currency, that he himself can spend on the site..."
+- (Mike) "That sounds a bit... made up..."
+  "I'd like to think that our police force would shut such an operation down..."
+- (Karl) "Yeah well... There's a bit more to it..."
+  "You can't just put anyone up there..."
+  "Submissions are screened and you have to submit evidence that the person deserves to be..." [makes shooting-gesture with his hand]  
+  "... Jacob believed that some pretty top-ranking police officers are in on the deal"
 - (Everyone) "..." [looking at Karl, a little uncomfortably]
 - (John) "So... It's a kinda 'Hobby-Killers Craig's List' combined vigilante forum?"  
 - (Karl) "Yes!"
@@ -113,7 +111,7 @@
   "But if anyone is able to uncover your real identity..."
   "They can kill you!"
 - (Cecil) "Which of course they could do under any circumstance. I mean, you can always decide to be a murderous bastard, right?"
-- (Karl) "Yes AND no... Because the murders that happen under the cloak of the Banshee-society..."
+- (Karl) "Yes AND no... Because the murders that happen under this operation..."
   "They are magically forgotten about!"
   "In the way that 'nobodies seen Jacob but he's probably living the sweet life in a favela in Brazil, when in fact he's buried in an unmarked grave somewhere'"
 - (Everyone) "..." [looking at Karl puzzled and a little worried]
@@ -132,11 +130,11 @@
 - (Ben) "Well, I think psychologists generally agree that psychopathy is the result of a mix of nature and nurture, but..."
 - (Karl) "BUT NOTHING!"
   "Can't you see: this is 'stay-in-your-place'-ism in it's worst form"
-- (John - thinking) "IMMORTAL TECHNIQUE" [giving the props that Karl forgot to give]
-- (Karl) "Because the rich assholes that are presently in power, do not want us to play any game that might jeopardize their superiority..."
+  "Because the rich assholes that are presently in power, do not want us to play any game that might jeopardize their superiority..."
   "... so they make up a whole load of bull shit terms like: 'psychopath' and 'sociopath'..."
   "notice how they can't even agree on whether those two are the same damn thing!"
-  "and every fucking square John happily skip along to the beat of these assholes: 'we must not be psychopaths', because it makes the ASSHOLES in power feel uneasy"
+  "and every fucking square John happily skip along to the beat of these assholes:"
+  "'we must not be psychopaths', because it makes the ASSHOLES in power feel uneasy"
   "..." [now standing, looking around the table, challenging the others to retort]
 - (Cecil) "I'm felling a little uneasy myself... But I've got nothing..." [folding his hand]
 - (Mike) "That was a lot to take in... I can't even..." [folding his hand]
@@ -145,12 +143,12 @@
 - (John) "..." [staring at Karl]
   "Do you know what I really hate about working with you?"
 - (Karl) "..." [looking at John, defiantly]
-- (John) "I get to know really private details about your girlfriend based on when you set off on one of these manic rants"
+- (John) "I get to know really intimate details about your girlfriend based on when you set off on one of these manic rants..."
   "Details that I don't want to know!"
 - (Everyone) "..." [looking puzzled]
 - (Carol) "THAT'S RIGHT!"
-  "What was it, about 3 weeks ago you went off on that mad Winnie The Pooh is a sadistic rapist non-sense"
-- (Karl) "That is besides the point!"
+  "What was it... about 3 weeks ago you went off on that mad Winnie The Pooh is a sadistic rapist non-sense"
+- (Karl) "That's beside the point!"
 - (Susan) "And the day before that, you went off on the Lizard-people theory"
 - (Carol) "I think you need to see someone about your fear of blood, honey" [touching Karl's arm comfortingly]
 - (Karl) "Look! It's not about that!" [frustrated]
