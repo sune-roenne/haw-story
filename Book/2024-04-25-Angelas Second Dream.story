@@ -4,13 +4,13 @@
    "Aliases" : {
       "Angry voice": "john",
       "Subservient voice": "john"
-	  
-   }
+   },
+   "RevisedOn" : "2024-07-24"
 }
 
 
 
-Angela steps into her apartment, tired from a long day at work. She closes the door, takes off her footwear and tosses her keys over her shoulder. When she doesn't hear the expected rattle from the keys hitting whatever is back there, she gets suspicious. She peels the curtains of one window to a the side, in order to look at the traffic on the street below and determine if it is standing still or not, and reaches a conclusion.
+Angela steps into her apartment, tired from a long day at work. She closes the door, takes off her footwear and tosses her keys over her shoulder. When she doesn't hear the expected rattle from the keys hitting whatever is back there, she gets suspicious. She peels the curtains of one window to the side in order to look at the traffic on the street below and determine if it is standing still or not, and reaches a conclusion.
 
 - (Angela) "I think we need to make a little adjustment here" [whispering]
   "Abra cadabra" [snaps her fingers]
@@ -46,6 +46,7 @@ Angela now curls herself forward, resulting in a beautiful hip-throw, sending th
   "YIELD TO THE CREEP!"
 - (Subservient voice) "I YIELD, I YIELD... You are the greatest opponent I have ever fought... I'm so sorry!"
 - (Angela) "NOW PREPARE FOR THE SHOCKER YOU SICK PSYCHOPATH"
+  "..."
   "I'm a girl!"
   "You have just been beat by a girl!"
 - (Subservient voice) "But not just any girl mind you..."
@@ -72,7 +73,7 @@ Angela snaps her fingers, and they are now in a packed drive-in on a warm Summer
 
 Angela snaps her finger, and the buzzing in the air stops, as hundreds of mosquitoes drop dead all around the drive-in. 
 
-- (Angela) "So what macabre special do you have planned for us tonight darling?"
+- (Angela) "So what macabre special do you have planned for us tonight my love?"
 - (John) "It's a romantic drama from high society St. Petersburg in middle 19th century Russia"
 - (Angela) "And let me guess... He is a noble Baron who falls in love with the kitchen maid, but his cruel mother forces him to marry this bitchy Countess..."
   "But he refuses and tells his evil witch of a mother that he would rather live poor on the street with the woman he loves, than do her bidding"
@@ -95,7 +96,7 @@ Angela snaps her finger, and the buzzing in the air stops, as hundreds of mosqui
 - (John) "Of course you are" [smiling]
 
 - (Angela) "Alright... What else is on tonight?"
-- (John) "I have Bonnie & Clyde type drama from the Dust Bowl in 1930's Mid West USA...?"
+- (John) "I have a Bonnie & Clyde type drama from the Dust Bowl in 1930's Mid West USA...?"
 - (Angela) "Young woman supposed to marry big evil conglomerate King Pin, broke farmer being driven from the family farm..."
   "They meet, instantly fall in love..."
   "King Pin is boo hoo so sad and swears to take brutal revenge on the girl who has irreversibly broken his heart and the filthy young farmer..."
@@ -139,7 +140,7 @@ Some time later, Angela and John are lying on their backs, looking up at the sta
   "I think the John who is out there, is kind of like you..."
   "And you are just what I think of when I think of him"
   "Yet, I KNOW he is kind of like you"
-  "... I haven't figures it out yet"
+  "... I haven't figured it out yet"
 - (John) "..." [thinking hard on what to say]
 - (Angela) "I've been looking for you... or him..."
   "I think I'll designate him YOU... for now at least"
@@ -147,7 +148,7 @@ Some time later, Angela and John are lying on their backs, looking up at the sta
   "Are you in some kind of trouble?"
 - (John) "I'll survive"
 - (Angela) "Yes... That's what you would say"
-  "The kind of guy who would risk death for love right...?"
+  "The kind of guy who would risk death for love, right?"
 - (John) "..." [looking at Angela... smiling]
 - (Angela) "But you KNOW what that leads to... That's what everyone of your movies are about, right?"
 - (John) "I believe they are about more than just that"

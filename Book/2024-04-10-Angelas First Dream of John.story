@@ -171,6 +171,8 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
   "The dialogue is about to start"
 - (Angela) "Point taken"
 
+...
+
 - (Young woman) "They want me to marry him"
 - (Young man) "Do YOU want to marry him?"
 - (Young woman) "No! I want to marry you"

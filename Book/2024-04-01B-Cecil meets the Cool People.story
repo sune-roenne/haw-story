@@ -66,7 +66,7 @@ The group recommences it's walk toward the lunch buffet.
   "I mean: you can do a lot better than a damn carpenter!"
 - (Carol) "And by 'a lot better' you mean a nice guy, right?"
   "...for instance one employed in Finance? Maybe one of her acquaintances here at FinaLibre?"
-- (Ben and Karl): "That's a great idea!" [looking at each other]
+- (Ben and Karl) "That's a great idea!" [looking at each other]
 - (Carol) "And how would your girlfriend like that setup Karl?"
 - (Karl) "It would take some persuasion I concede..."
   "She's got a point Susan, you should hang on to him until I make 'Chief'..." 
@@ -110,14 +110,14 @@ Whole table looks at Cecil in waiting.
 - (Ben) "Aawww... Are you coming on to me Karl?..." 
   "Look, you're a nice guy and all, but I just can't see you as anything more than a friend"
 - (Cecil) "So who do I have to look out for?"
-- (Karl, Ben and John): "Angela!"
+- (All three) "Angela!"
 - (Cecil) "She skanky?"
-- (Ben) "No, I wouldn't say 'skanky'..." [pensive]
+- (Ben) "I wouldn't say 'skanky'..." [pensive]
   "though she may have been around the block a time or two, but I don't really know...."
   "I guess you could say she's a different kind of fish"
 - (Karl) "She's a damn shark!"
 - (Cecil) "How so?"
-- (Ben) "That's a story for another day..." 
+- (John) "That's a story for another day..." 
   "and I'm not sure I'm really the right person to tell it..."  
   "you definitely don't want to mention Angela around Carol just now" [getting up]
 - (Ben) "What happened?"
@@ -125,8 +125,10 @@ Whole table looks at Cecil in waiting.
 - (Ben) "Well yeah, but maybe I was in the bathroom just then"
 - (John) "Blowing your nose, right? 'Cause it was RUNNY on Friday"
 - (Cecil) "You guys have a local hook-up in this country-side haven?"
-- (Karl) "Man, they need to put 'FunBox TM' on the intro brochure! Come with me to the supply room, and I'll show you... 
-  "but you are going to need to download an app. Do you have an XMR wallet?"
+- (Karl) "Man, they need to put 'FunBox TM' on the intro brochure!" 
+  "Come with me to the supply room, and I'll show you..." 
+  "but you are going to need to download an app" 
+  "Do you have an XMR wallet?"
 - (Cecil) "No... why?"
 - (Karl) "Aww hell, if you wire me a 100, I'll get you set up, and then Ben can hook you up with an XMR wallet later"
 - (Ben) "Yessir Boss man... Anything else I can do for you fine gentlemen while we are at it?"
