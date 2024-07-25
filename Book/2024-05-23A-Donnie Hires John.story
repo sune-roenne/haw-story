@@ -1,26 +1,27 @@
 {
    "ChapterTitle": "John is Hired",
    "StoryLineKey": "john",
-   "Aliases" : null
+   "Aliases" : null,
+   "RevisedOn" : "2024-07-25"
 }
 
 
 - (John) "I'm here to see Donald"
-- (Receptionist) "It's not an abbreviation... He is actually named 'Donnie'. 
-   He is waiting for you in his office. Follow me" [courteous, smiling]
-
-(Knock, knock, knock)
-- (Receptionist) "..." [opens door]
-  "Donnie, John is here to see you" [leaning head inside office]
+- (Receptionist) "It's not an abbreviation..."
+  "He is actually named 'Donnie'" 
+  "He is waiting for you in his office. Follow me" [courteous, smiling]
+  "..." [knocking on the door to Donnie's office and opens door]
+  "Donnie... John is here to see you" [leaning head inside office]
   
 - (Donnie) "Please show him in Janet"
 - (Janet) "He'll see you now" [to John]
 
-The large office is about what John had imagened the office of the CEO of the countries largest fund administration company would look like, complete with giant windows with a view of the forest and a whole bunch of furniture that looks old and expensive; the type of furniture that can cause John's back to become sore by just looking at them (thanks to that Summer he spent as hired hand for a moving company). Behind the desk of his very large desk, what John assumes to be the CEO is all suited up and ready for a game of Corporate Hardball.
+The large office is about what John had imagined the office of the CEO of the countries largest fund administration company would look like, complete with giant windows with a view of the forest and a whole bunch of furniture that looks old and expensive. 
+Behind the desk of his very large desk, what John assumes to be the CEO is all suited up and ready for a game of Corporate Hardball.
 
 - (Donnie) "Have a seat, please"
 - (John) "Thank you sir"
-- (Donnie) "To start off with, I have two questions for you John"
+- (Donnie) "To start with, I have two questions for you John"
 - (John) "..." [nods in approval]
 - (Donnie) "During your interview yesterday, you mentioned 4 services typically provided by a fund administration company"
 - (John) "Yes, sir"
@@ -36,52 +37,82 @@ The large office is about what John had imagened the office of the CEO of the co
   "And 100% wrong. But I guess the odds for this one were also a lot worse than 1:4" [smiling]
   "Can you tell me what my name is John?"
 - (John) "I think we both know that indeed I cannot... sir"
-- (Donnie) "Yes. Please do me a favor John: when Frank asks you about our conversation - which I am pretty sure that he will - please don't tell him about those 2 questions...?"
-- (John) "Mums the word... sir"
-- (Donnie) "Now for something a little more serious.
-  I need you to have a look at these 4 photographs, and tell me if you know the young lady in them"
-- (John) "" [leans forward and studies the photographs intensely for 15 seconds]
+ 
+- (Donnie) "That's what I thought! [smiling]
+  "Now for something a little more serious"
+  "I need you to have a look at these 4 photographs, and tell me if you know the young lady - Angela - in them" [lays out 4 photos of Angela]
+- (John) "..." [leans forward and studies the photographs intensely for 15 seconds]
    "I don't believe that I do, sir"
-- (Donnie) "That is an unusual answer. Most people would have responded with a simple yes or no"
-- (John) "If you put a gun to my head and told me to gamble my life on whether I had ever seen her before, I would put the chips on: no, I have never seen her before"
+- (Donnie) "Most people would have responded with a simple yes or no...?"
+- (John) "I certainly down know her personally..."
 - (Donnie) "but..."
-- (John) "... if you then allowed me to add a comment to my decision, I would say that I may have seen her once in a train"
+- (John) "... I don't know..."
+  "She looks familiar..." [pensive]
+  "Like maybe I have seen her somewhere..."
+  "But I don't recall where that might have been"
 
-For less than half a second, John's face betrays him, as he recalls what he was doing on that train the day he may have seen her.
-
-- (Donnie) "..." [looking questioningly at John]
-- (John) "I don't think I am able to do better than that, sir" [shakes is head from side-to-side, as if letting go of a straining thought-process]
 - (Donnie) "That's alright John" [leans forward in his chair, looking John sternly in the eye]
-  "This is that same woman, as she looked when she found on the bathroom floor in this building, yesterday a little after 14:30"
-- (John) "..." [nods slightly in aknowledgement, otherwise no reaction]
-- (Donnie) "You don't seem the least bit shaken nor surprised from seeing a woman who has been stabbed more than 30 times and then left to die on a bathroom floor. Why is that John?"
-- (John) "I think it is mainly from having a pretty strong stomache when it comes to gore.   
-  I got the clear impression yesterday, that something very grave had happened, and cozy as this conversation is, I didn't think you asked me to show up here at 8:00 to discuss my kognitive shortcomings.
-  When you leaned forward in your chair I assumed you were about to show me something bad and wanted to study my reaction to it" [becoming more consumed by the murder scene photos while speaking]
+  "This is Angela again..."
+  "as she looked when she was found on the bathroom floor in this building yesterday a little after 14:30..." [showing John the image of Angela's corpse]
+- (John) "..." [nods slightly in acknowledgment, otherwise no reaction]
+- (Donnie) "You don't seem the least bit shaken nor surprised from seeing a woman who has been stabbed more than 30 times"
+  "Why is that John?"
+- (John) "I have a pretty strong stomach when it comes to gore..."
+  "..."   
+  "I got the clear impression yesterday, that something very grave had happened"
+  "and cozy as this conversation is..."
+  "I didn't think you asked me to come here at 8:00 to discuss my cognitive shortcomings"
+  "When you leaned forward in your chair I assumed you were about to show me something bad and wanted to study my reaction to it" [becoming more consumed by the murder scene photos while speaking]
 - (Donnie) "..." [pensive]
 - (John) "I'm guessing there is no reason to say that I didn't do it, as I'm sure you know that I was engaged in a job-interview at the time in question." 
-  "Also, I can say with fair certainty that the crime was not commited by... ehm... the people that interviewed me" [becoming ever more consumed by the photos]
 - (Donnie) "Mmmmm"
-- (John) "So I assume you want to know if I may know anything that can help determining the identity of the perpetrator... Or perpetrators?" [now lifting his eyes to meet Donnies]
+  "Well, actually..."
+  "The police believe that the murder occurred somewhere between 14:10 and 14:35..."
+  "The part of the building where Angela was found, is mostly used for meetings..."
+  "..."
+  "At 14:03 yesterday, every employee at FinaLibre received a fraudulent email, that had people centered around their desks at the other end of the building..."
+  "The police hasn't ruled out that the two events were connected..."
+  "But they have very few leads to go on, in terms of discovering the actual sender of the email"
+  "..." [pausing, looking at John]
+  
+- (John) "So I assume you want to know if I may know anything about the email and the murder...?" [now lifting his eyes to meet Donnies]
 - (Donnie) "Hmmmm..." [pensive]
-  "No. I won't ask you that. I can't see why you would to be frank."
-  "Yesterday during the interview, you categorically refused to reveal any details about the message you received, urging you to come in for a job interview"
-  "In light of what we now know, has your position on the topic changed?"
+  "No. I can't see why you would to be frank..."
+  "and our receptionist has informed me that you were in the lobby from around 14:10, which pretty much rules you out as the killer"
+  "..."
+  "No. I want to ask you..."
+  "During the interview yesterday"
+  "You were unable to say who had asked you to apply for the job..."
+  "In light of what you now know, has your position on the topic changed?"
 - (John) "No. I am sorry, sir. I would love to help finding whoever did this, but I can't..."
-- (Donnie) "..." [waving dismissingly with his hands]
-  "I didn't think that it had, but I wan't you to please consider the following question very carefully before answering..."
+- (Donnie) "..." [waving dismissively with his hands]
+  "I didn't think that it had, but I want you to please consider the following question very carefully before answering..."
 - (John) "Of course..."  
-- (Donnie) "The young woman in the photos is named Angela... WAS named Angela, and she was 27 years old when she was murdered yesterday. 
-  She worked in the Fund Accounting Team here at FinaLibre and she was brilliant. Considered by many - myself included - to be the brightest person that has ever worked in the company, she was however also a controversial person, and there was a tendency for some people to consider her to be... hostile... bordering on anti-social. I'm not aware that anyone in the company would want her dead, but then again..." [spreads his fingers in a gesturing movement aimed at the photos]
-  I have a theory, that Angela was the person responsible for summoning you to the interview yesterday for reasons known probably only to herself. Neither Ann nor Frank remember scheduling the interview, though it was indeed scheduled in both their calendars, and if I were to name three people within the company as most likely to be responsible for something like that, I would say Angela 3 times. No hestitation.
-  I want you to answer this question: based on the message you received the other day and what I have now told you about Angela, can you say with any certainty that she was NOT the person behind the message?"
+- (Donnie) "As I said, the young woman in the photos is..."
+  "WAS named Angela, and she was 27 years old when she was murdered yesterday"
+  "She worked in the Fund Accounting Team here at FinaLibre and she was brilliant"
+  "Whe was by many - myself included - considered to be the brightest person who has ever worked in the company..."
+  "but she was also a controversial person, and there was a tendency for some people to consider her to be..."
+  "hostile... bordering on anti-social"
+  "I'm not aware that anyone in the company would want her dead, but then again..." [spreads his fingers in a gesturing movement aimed at the photos]
+  "I have a theory, that Angela was the person responsible for summoning you to the interview yesterday"
+  "for reasons probably only she knew"
+  "Neither Carol nor Frank remember scheduling the interview..."
+  "If I were to name three people within the company as most likely to be responsible for something like that"
+  "I would say Angela 3 times. Without hesitation!"
+  "Now for the question:"
+  "based on the message you received the other day and what I have now told you about Angela, can you say with any certainty that she was NOT the person behind the message?"
 
 - (John) "..." [nodding slightly, pensive]
-  "I certainly cannot. Based on what you have told me about Angela, I think it is very likely that she was the person behind said message, though I haven't the faintest idea WHY she would send the message, nor what motivation she may have stood to gain from me working here... which she most certainly must have known was a long-shot at best, based on my qualifications"
+  "I certainly cannot"
+  "Based on what you have told me about Angela, I think it is very likely that she was the person behind the message"
+  "...though I haven't the faintest idea WHY she would send the message, nor what she may have stood to gain from me working here..."
+  "She must have known that the chances of me actually getting a job based on my qualifications were slim"
 - (Donnie) "Thank you John!" [seemingly honestly grateful]
-- (John) "... Is there anything else I can do to help out in this situation? As I said - aside from previously mentioned restrictions, which are self-imposed but not exactly to my own liking - I'll contribute in whatever manner I can, but I don't see how..."
-- (Donnie) "I am glad you feel that way John" [cutting John off]
-  "I am going to offer you a job, similar to the one you were interviewing for yesterday, which means that you will enter the company in an entrance-level position, and will be expected to acquire knowledge about topics within Finance and Computer Science; you don't have to ace the exams, but you will have to keep up well enough as to not arouse suspicion in your colleagues as to the actual purpose of your employment which will be to uncover the truth about the events of yesterday. Both Ann and Frank will be let in on the conditions of your employment since frankly: they weren't fooled."
+- (John) "... Is there anything else I can do to help out in this situation sir?"
+  "As I have said: I really don't know anything other than I received a message and decided to show up, but I'll help out if I at all can..."
+- (Donnie) "I am glad you feel that way John..." [smiling] 
+  "Because I am going to offer you a job, similar to the one you were interviewing for yesterday, which means that you will enter the company in an entrance-level position, and will be expected to acquire knowledge about topics within Finance and Computer Science; you don't have to ace the exams, but you will have to keep up well enough as to not arouse suspicion in your colleagues as to the actual purpose of your employment which will be to uncover the truth about the events of yesterday. Both Ann and Frank will be let in on the conditions of your employment since frankly: they weren't fooled."
   "...and..." [takes out a sunflower-lanyard from the drawer of his desk and tosses it to John]
   "you will be the first hire of our new Sunflower-program: "Bringing FinaLibre into the neuro-divergent age of 2024", which should buy you some leeway with especially the people coming from a financial background - who tend to believe that 'programmer' is it's own sub-category of behaviourel disorders - but you will still have to tread somewhat carefully as to not reveal your objectives. You will of course make up your own mind about the company and it's employees, but I honestly value very dearly the people that work here, and I would like not to upset them any more than yesterdays tragic event already has. 
 
