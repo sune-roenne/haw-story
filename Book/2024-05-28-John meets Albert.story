@@ -99,7 +99,8 @@ As Albert says round 4 and 5, the man's... "John's"... facade visibly cracks for
   "Alright..." [smiling]
   "You can go... and thanks..."
   "And sorry about the ribs, but they should be alright in a couple of months, and I have a feeling that at least some of your customers are going to dig it" [smiling, apologetically]
-  
+
+...  
   
 - (Donnie) "Is he clean?"
 - (John) "Clean enough, sir"

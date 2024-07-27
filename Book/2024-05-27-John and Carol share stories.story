@@ -41,7 +41,7 @@ Carol doesn't give John a chance to respond to this, before she pulls her shirt 
 - (John) "I really only have three stories worth telling"
 - (Carol) "Not quite 1001 night, but let's worry about that some other day"
 
-#storystart(John's Story: Childhood|john)
+#storystart(John's Story Part I: Childhood|john)
 My mother died when I was 4 as she was hit by a drunk driver at 15:30 on a Wednesday afternoon in May, walking the 300 meters from the bus-stop to our house. 
 It's hard to say HOW it affected me, but it definitely had an impact. In terms of everyday tangibles for one: my mother had worked part-time, so my father could put in more hours at work, and now he was left alone in charge of raising me while also having to make ends meet. It was a good thing my mother had been financially responsible enough to insist on life-insurances for the both of them, since it allowed us to keep the house and let my dad work less, so he could dedicate himself to what he now considered his only important responsibility: making sure I got through to adulthood. I guess I'm the only person that can really evaluate his performance, and it may be said that he was competing in a field for which he didn't have much natural talent, but in terms of effort he broke the scale!
 
