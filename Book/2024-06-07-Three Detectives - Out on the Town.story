@@ -71,7 +71,7 @@ Albert and John are waiting at the train stop.
 - (Albert) "..." [looking at John]
 - (John) "I look like someone who just got released from prison..."
 - (Albert) "But that's how you always look..."
-- (John) "I know!
+- (John) "I know!"
   "But with you tagging along..."
   "I look like someone who's just been released from prison..."
   "being accompanied by his parole officer..."
@@ -94,7 +94,7 @@ At the stop just before the downtown central station, Sune gets up from his seat
 - (John) "Let's go to that fast food joint across the street..."
   "It looks like we'll have a pretty good view of what goes on in the bar from there"
 
-About half an hour goes by, and to no great surprise of neither John nor Albert, Sune is indeed not joined by a large group of friends, nor a female companion nor just a single school-friend who is unlucky enough to run into him. He just sits alone at a table in the back of the bar, seemingly staring at nothing.
+About half an hour goes by, and to no great surprise to neither John nor Albert, Sune is indeed not joined by a large group of friends, nor a female companion nor just a single school-friend who is unlucky enough to run into him. He just sits alone at a table in the back of the bar, seemingly staring at nothing.
 
 - (Albert) "Wow, what a social guy!" [in a sarcastic tone that isn't really needed to get the point across]
 - (John) "I know!"

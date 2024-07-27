@@ -53,8 +53,8 @@ is about the only remarks to the sub-par conditions of the beverage situation Jo
   "no: QUEST MATES..."
   "would we be, if we just sent him flying off alone..."
   "Not the type of people your mother would have wanted you to associate with, that's for darn sure"
-- (John) "Dude, just let it go" [tired, motioning to Albert that arguing with the man is only going to make it worse]]
-  "BUT WOULD YOU AT LEAST TURN DOWN THE DAMN HEAT" [as he drops off his chair to lay down on the much cooler basement floor]
+- (John) "Dude, just let it go" [tired, motioning to Albert that arguing with the man is only going to make it worse]
+  "BUT WOULD YOU AT LEAST TURN DOWN THE DAMN HEAT?!" [as he drops off his chair to lay down on the much cooler basement floor]
 - (Albert) "And maybe most importantly:"
   "WHY DO YOU HAVE A GUN?"
 - (Sune) "That man's a damn psychopath..." [whispering while pointing at John]
@@ -84,19 +84,18 @@ John lets out an indecipherable protest as the remote control lands on his face,
 It's pretty telling of the mental temperature in the room, that Albert is at this point laying on his stomach looking directly into the floor. John hasn't moved from his position on the floor, laying on his back, staring up into a colorful array of lights, while Sune has re-conquered his office chair, and is now fiddling with the gun, apparently trying to figure out where the handle is. 
 
 - (Sune)  "STORY TIME AZZHOLES" [pointing the gun around the room]
-  "Do you guys know Blender?  
+  "Do you guys know Blender?"
 - (Albert) "Yeah... My dad had one of those"
 - (John) "HookerBoy knows all about Blendah Old Man"  
-
-- (Sune) [struggling a little with pronunciation throughout]
+- (Sune) "..." [struggling a little with pronunciation throughout]
   "Blender is a three dee animatronix software"
   "And it is soooooo good"
   "but I wouldn't know nothing about that, because I get dizzy..."
-  "Because you can move around in the computer..."
+  "because you can move around in the computer..."
   "but then, you get lost on the Z-axis and you can't come down to the plane again..."
   "you displace..."
   "Did you guys know that I was a normal guy once?"
-- (John) "BULL SHIT"
+- (John) "BULL SHIT!"
 - (Albert) "Aaarrkwaaard siiilence" [actually articulating the words]
 - (Sune) "I had a family once" [unphased]
   "Before i displaced"
@@ -109,7 +108,7 @@ It's pretty telling of the mental temperature in the room, that Albert is at thi
 - (Sune) "A cloud came by" [in a whisper]
   "and shifted the man"
 - (Albert) "The man was you, right?"
-- (Sune) "It was"
+- (Sune) "It was!"
   "The cloud drifted in at night, and shifted my v-coordinate..."
   "And then the daughter said something like: 'Where is dad?'"
   "And the wife said something like: 'Goddammit, where have you gone off to now you miserable psycho?'"

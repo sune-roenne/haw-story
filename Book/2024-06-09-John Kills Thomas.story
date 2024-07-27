@@ -47,7 +47,7 @@ John sits back in the chair, and starts a timer. A minute goes by.
 - (Robotic voice) "Minute is up!" 
   "In a moment, I will remove the sock from your mouth so you can provide me with your answer"
   "Say 'YES' if you choose to accept our offer and cooperate with our demands"
-  "say 'NO' if you choose to decline our offer. 
+  "say 'NO' if you choose to decline our offer. "
 
 John removes the sock. 
 
@@ -64,8 +64,9 @@ The sock is stuffed back in Thomas's mouth, and he hears tapping from a keyboard
 
 When Thomas's personal profile is done loading, John browses through Thomas's sent-box to get a feel for the man's style of writing, and then sends the following email to Thomas's boss:
 
-Title: Im sick
-Content: I think its corona. Im throwing up. Ill let you know when Im better.
+- Title: Im sick
+- Content: I think its corona. Im throwing up. Ill let you know when Im better.
+
 
 John then turns off the computer.
 
