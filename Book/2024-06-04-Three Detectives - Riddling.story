@@ -1,7 +1,8 @@
 {
    "ChapterTitle": "The 3 Detectives: Riddling",
    "StoryLineKey": "detectives",
-   "Aliases" : null
+   "Aliases" : null,
+   "RevisedOn" : "2024-07-27"
 }
 
 
@@ -190,7 +191,7 @@ John stares at the explanation in deep contemplation.
   "Do you mean to tell me that I would be unable to find a dumb-as-a-door would-be terrorist?"
   "If I knew where to look, that is..."
 - (Sune) "FOLD!" [gesturing an imaginary throw of his hand]  
-- (Albert) but I think I know what you mean..."
+- (Albert) "but I think I know what you mean..."
   "It does take some mental awareness to dig into a cause or model of understanding..."
   "getting to grips with the lingo..."
   "researching how to make bombs, or gain access to unregistered firearms..."
@@ -301,6 +302,7 @@ Sune's phone gives out a 'DING'.
 
 John knows better than to try for a win when trailing by 10 and in a way, there is something beautiful - no, that's the wrong word for something so evil - 'awe-inspiring' about watching the guy do change-of-direction-drills up and down the mental illness spectrum. John let's the two last comments hang there as the final words and mental images to summarize the result of the day, and walks out. 
 
+
 ...
 
 - (Donnie) "Did he do it?"
@@ -327,7 +329,7 @@ John knows better than to try for a win when trailing by 10 and in a way, there 
   "I just have a bad feeling about him..."
 - (Donnie) "I'm sure there is a reasonable explanation for that, but let me start from the beginning"
 
-#storystart(Frank, The Prince of FinaLibre|donnie)
+#storystart(Frank: The Crown Prince of FinaLibre|donnie)
 FinaLibre was formed 9 years ago, and consisted of just myself and 5 other breakouts from some of the big Financial players in the country. The first couple of years were sort of a struggle just to stay alive, but around 7 years ago we had managed to secure a solid foundation in terms of loyal clients and we slowly began hiring more people. Almost 6 years ago, one of those people was named Frank. 
 He had taken the long road before ending up with us: after high school, he first served his mandatory conscription and then joined the Special Forces and did 2 tours to Afghanistan. He then did some kind of voluntary work related to the conflicts in Syria and Iraq around the year of 2015, but he has always been very reluctant to talk about that... don't get me wrong: I'm sure he was on the 'right side' - if ever there is a such in war - but I've always gotten the feeling that he experienced some pretty gruesome stuff down there, and I haven't pushed the issue.
 
@@ -352,6 +354,44 @@ And it's been that way for the past 4 years, give or take.
 - (Donnie) "Well, he was a professional soldier..."
   "So I'm sure he COULD have..."
   "but I can't see why he WOULD have..."
+  "I think he always really liked Angela"
+ 
+- (John) "One last thing sir"
+- (Donnie) "Yes...?"
+- (John) "You saw Angela outside of work?"
+- (Donnie) "I did... Or well, WE did..."
+  "There was a period about two years ago where she came by our house a lot"
+  "It lasted for a couple of months..."
+- (John) "Why did she come?"
+- (Donnie) "I'm not sure..."
+  "Sometimes we talked about work, but most of the time she would stop by and have dinner with us"
+  "then stick around for a couple of hours talking about... life..."
+  "and go home"
+- (John) "Sir..."
+  "did you ever have sex with her?"
+- (Donnie) "..." [shaking his head]
+  "I suppose you have to ask..."
+  "No... There was never anything sexual between us..."
+  "In fact, since I met my wife 25 years ago, I've only been intimate with her..."
+  "I've always hated when people have said something like what I am about to say..."
+  "but she was more of like a daughter to me..."
+  "and that is of course totally off the mark, because I only ever saw her at work"
+  "and then during those couple of months..."
+  "but the DYNAMICS were more like a grown-up daughter coming home to visit her retired parents..."
+  "than a middle-aged couple looking for fresh young meat for sexual depravity" [looking accusingly at John] 
+- (John) "..." [putting his hands up in a defensive 'your-said-it-yourself-I-had-to-ask' gesture]
+- (Donnie) "Maybe with the exception, that she asked a lot about us as a couple..."
+  "Again... nothing intimate, but questions like: 'how do we solve conflicts?' and 'how do we decide where to go on vacation?'"
+- (John) "What made her stop coming?"
+- (Donnie) "Hmmm... It's hard to be sure, since we never talked about that..."
+  "But I got the feeling that she had found the answers she needed"
+  "or at least the ones we could provide her with"
+- (John) "How did your wife feel about Angela?"
+- (Donnie) "I think she liked her..."
+  "My wife is also a somewhat special woman..."
+  "I think she saw a part of herself in her..."
+  "and Angela was always very polite when she came by, so it was usually very cozy" [smiling]
+- (John) "Thank you sir"  
   
   
   

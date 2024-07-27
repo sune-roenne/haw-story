@@ -45,7 +45,7 @@ It is at this point during the meeting, that all of the lights in the room cut o
 
 - (Carol) "We're terribly sorry about that. It's not something I've ever experienced before... here at work at least" [sounding a little off-balance and worried]
 - (John) "That's alright ma'am. I have a flashlight in my cell phone that we can use as light source. Should I turn it on?"
-- (Frank) "That's alright John, I've got it" [sounding considerably more in control of himself, now again becoming visible in the light streaming up from his smart phone, which he places on the table in-front of them"
+- (Frank) "That's alright John, I've got it" [sounding considerably more in control of himself, now again becoming visible in the light streaming up from his smart phone, which he places on the table in-front of them]
 - (John) "... Some of aforementioned regulations, requirements and restrictions are formalized into laws, while others are formulated in the official document - the so-called prospectus - that FinaLibre publishes to allow potential investors to see just what type of product they are looking at. Examples of guidelines include: .." 
 
 - (Carol) "I'm going to go check what is going on with the power" [stands up and proceeds towards the door]
