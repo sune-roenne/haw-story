@@ -9,10 +9,11 @@ John senses someone watching him, and turns around to see Carol sitting on an of
 - (John) "Hi Carol"
 - (Carol) "Hi John"
   "I'm sorry..." [pausing]
-  "Your story is probably the most revolting personal story I have ever heard"
-  "... maybe if I hadn't been so caught off guard..." [shrugs shoulders]
-  "... and I'm still not sure why you told me..."
-  "That's not true. I know! Because I asked you to share your story..."
+  "Your story is probably the most revolting personal story I have ever heard..."
+  "maybe if I hadn't been so caught off guard..." [shrugs shoulders]
+  "and I'm still not sure why you told me..."
+  "That's not true"
+  "I know! Because I asked you to share your story..."
   "But I wasn't expecting it to be like THAT!"
   "And don't worry, I'm not going to say it out loud" [in a low voice, leaning forward]
 - (John) "Thank you"  
@@ -24,22 +25,30 @@ John senses someone watching him, and turns around to see Carol sitting on an of
   "Because I felt sick from hearing... that"
   "I was shaking!"
   "But I have been kind of avoiding you since then, and for that I AM sorry..."
-  "And for what it's worth: I believe you when you say you won't hurt me, and it DOES make a difference" [looking him in the eyes]
+  "And for what it's worth:"
+  "I believe you when you say you won't hurt me, and it DOES make a difference" [looking him in the eyes]
 - (John) "I'm glad you feel that way" [looking serious]
-- (Carol) "The thing is... I still like you John, as troubling as I think that is..."
+- (Carol) "The thing is..."
+  "I still like you John, as troubling as I think that is..."
   "And I want to hear the final part of the Trilogy of John..." [pausing]
-  "... I want you to come over tonight and lay down on my couch and tell doctor Carol your story..."
-  "... except I'm not a doctor and I don't have a couch..."
+  "I want you to come over tonight and lay down on my couch and tell doctor Carol your story..."
+  "except I'm not a doctor and I don't have a couch..."
 - (John) "I know" [faint smile]
 - (Carol) "I don't have anything on Angela, so I can't give you any tat, but if your story is good, i do have..." [faint smile]
 - (John) "..." [faint smile]
-- (Carol) "And if I'm not deeply disturbed by your story, you can stay the night on the couch... except I don't have a couch..." [smiling]
-  "And then in the morning, maybe we can enjoy a breakfast where we talk about music or movies or the weather, or even work or ANYTHING SFW or even NSFW but at least SFL...?"
-- (John) "I'd love to come over, but ... What about I come over a couple of hours earlier than last time, so in case you don't like my story I can still catch a train home, and I won't have incentive to try and shine up my story to avoid walking home..."
-  "because I like telling you my story, and I want it to be MY story, and not a lie I made up for housing and shelter" [smiling]
-  "... and as for... 'examinations on the doctor's couch'... even-though she doesn't have a couch..." [smiling]
-  "... let's do that if we feel like it... I don't want it to be an elephant, if you know what I mean..." [questioningly]
+- (Carol) "And if I'm not deeply disturbed by your story, you can stay the night on the couch..."
+  "except I don't have a couch..." [smiling]
+  "and then in the morning, maybe we can enjoy a breakfast where we talk about music or movies or the weather..."
+  "or even work or ANYTHING SFW or even NSFW but at least SFL...?"
+- (John) "I'd love to come over, but..."
+  "What about I come over a couple of hours earlier than last time, so in case you don't like my story I can still catch a train home, and I won't have incentive to try and shine up my story to avoid walking home?..."
+  "because I like telling you my story, and I want it to be MY story, and not a lie I made up for housing and shelter..." [smiling]
+  "and as for... 'GP-exams on the doctor's couch'..."
+  "even-though she doesn't have a couch..." [smiling]
+  "let's do that if we feel like it..."
+  "I don't want it to be an elephant, if you know what I mean..." [questioningly]
 - (Carol) "I do... And let's..." [smiling]
+- (John) "..."
   "I'll see you tonight at 20 John" [smiling]
 - (John) "I'll see you tonight at 20 Carol" [smiling]
 
