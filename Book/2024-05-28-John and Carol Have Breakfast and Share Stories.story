@@ -61,8 +61,7 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
 - (Carol) "What would you say?"
 - (John) "I thought about that while in the shower"
   "And... it would be hard to explain..."
-  "..."
-  "I would say something like: 'Why do YOU think I was riding naked with Carol to work?'"
+  "I would say something like: 'Why do YOU think I am riding naked with Carol to work?'"
   "'Is there something I'm not getting here?'
   "'I'm not trying to be a smart-ass or anything, I just hadn't thought for a minute that there could be more than one reason for it...'"
   "'But from that smirk of yours, I'm guessing there's something I'm not seeing here'"
@@ -166,7 +165,7 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
   "On the 1st day, you are greeted with 'Only good freshman is a dead freshman' and so on"
   "But you know about this beforehand so you know to just keep your head down and let them throw sunflower seeds at you or whatever"
   "And for 97% of high schoolers, that's that..."
-  "And then you have the upper class man losers who experience a little taste of power or worth for the first time, and just cannot let it go..."
+  "And then you have the upperclassman losers who experience a little taste of power or worth for the first time, and just cannot let it go..."
 - (Carol) "Sure, they must be in every school..."
   "And workplace for that matter..."
   "But you can usually ignore those people, because as you say: they are losers..."
