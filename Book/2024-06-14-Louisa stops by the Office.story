@@ -99,7 +99,7 @@ Carol notices a young woman standing outside the main entrance to FinaLibre. The
   "Do you know what he told me?"
 - (Carol) "No idea..."
 - (Louisa) "He had a dream!"
-  "That's what he said!"...
+  "That's what he said!"
   "or at least, that's what it all boiled down to:"
   "he had a dream, and now he knew that he wasn't going to have kids"
   "At first I thought he was joking, but he got all serious and like:"
@@ -433,11 +433,11 @@ Walking home to Louisa's place after a couple of hours of dancing.
   "I would even ask you up for a drink, but I fear that might start you on your 'Hollywood-killed-spontaneous-interaction'-ramblings..."
   "but on the other hand...." [pensive]
   "I feel uneasy about having the end to this conversation determined by how long it takes us to walk to my place..."
-  Alright..."
-  "I won't ask you to come up to my apartment"
+  "Alright..."
+  "I won't ask you to come up to my apartment..."
   "but I'm commanding you to follow me home and escort me to my apartment"
   "come into the kitchen and sit down and converse with me..."
-  "until I throw my hands in the air and exclaim: 'Good Golly' I think we've reached the end of this exciting evening"
+  "at some point I will throw my hands in the air and exclaim: 'Good Golly, I think we've reached the end of this exciting evening'"
   "at which point I will walk you to the entrance and you will give me an awkward last-minute hug..."
   "you know: scratch that... "
   "You strike me as the kind of person who would put way too much thought into what is appropriate social etiquette"
@@ -446,40 +446,40 @@ Walking home to Louisa's place after a couple of hours of dancing.
   "you'll jump ship and go in for a hug to not seem rude"
   "but by then it'll be too late, and what will always come first to mind from this otherwise really cozy evening, will be that horribly awkward ending..."
   "No... I'll walk you to the entrance and when I say:'hug'"
-  "you'll give me a 10 second hug like we'd known each other for a long time and had just shared a really tough time"
+  "you'll give me a 10 second hug like we'd known each other for a long time and had just shared a really tough time..."
   "because even though we have only just met, that's exactly how it is"
 - (Sune) "..." [smiles]
 
 They walk for about 2 minutes in silence.
 
-- (Louisa) "I got you there, didn't I" [smiling, victoriously]
+- (Louisa) "I got you there, didn't I?" [smiling, victoriously]
 - (Sune) "Oh yes" [smiling, conceding]
 
-- (Sune - thinking) "Would you be ready to do it all again?"
+- (Sune - thinking) "Would you be ready to do it all over again?"
   "Would you feel this way if she didn't remind you so much of her?"
   
 - (Louisa - thinking) "He's not 'John'..."
   "John's dead!"
-  "And you have a date with Alex tomorrow night"
+  "And you have a date with Alex tomorrow night!"
 
 As they reach the door to the stairway of her apartment building:
 
 - (Louisa) "What are you thinking about?"
 - (Sune) "Those poor bastards who drift off from shore in blowup rubber-rafts at the beach every Summer"
-- (Louisa) "..." [trying to suppress an 'are your kidding me'-expression]
+- (Louisa) "..." [trying to suppress an 'are your kidding me?'-expression]
 
-On the 2nd floor, Louisa gets out her key-chain and unlocks the entry-door to her apartment, and gestures for him to go in... Both of them are trying to hide the fact that the short climb up the stairs have left them short-winded.
+On the 2nd floor, Louisa gets out her key-chain and unlocks the entry-door to her apartment and gestures for him to go in... Both of them are trying to hide the fact that the short climb up the stairs have left them short-winded.
 
-- (Louisa) "Were you really thinking about poor bastards on rubber-rafts just now?"
+- (Louisa) "Were you really thinking about poor bastards in rubber-rafts just now?"
 - (Sune) "Well, yeah, figuratively speaking"
 - (Louisa) "You should expand on that..."
 - (Sune) "Well, you know..."
-  "the coast guard makes a fuss about telling people to respect the damn current"
-  "and every time some sucker floats out to sea and they have to launch the choppers to save their ass, it makes the national news headlines"
-  "but well... it happens every year" [he looks at her and they lock eyes]
+  "the coast guard makes a fuss about telling people to respect the damn current every year..."
+  "and every time some sucker floats out to sea and they have to launch the choppers to save their ass, it makes the national news headlines..."
+  "but well... it happens again and again" [he looks at her and they lock eyes]
   "It just seems ingrained in us..."
   "we know we should stay close to shore, but it doesn't seem that dangerous..."
-  "like what's all the fuss about, I got this..."
+  "like: 'what's all the fuss about, I got this'..."
   "and we don't really think about it before we are a long way from shore..."
 - (Louisa) "... and then we realize that our fate is in the hands of the current..."
   "and by then it's too late..."
