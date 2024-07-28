@@ -62,7 +62,7 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
 - (John) "I thought about that while in the shower"
   "And... it would be hard to explain..."
   "I would say something like: 'Why do YOU think I am riding naked with Carol to work?'"
-  "'Is there something I'm not getting here?'
+  "'Is there something I'm not getting here?'"
   "'I'm not trying to be a smart-ass or anything, I just hadn't thought for a minute that there could be more than one reason for it...'"
   "'But from that smirk of yours, I'm guessing there's something I'm not seeing here'"
   "Then look them straight in the eyes"

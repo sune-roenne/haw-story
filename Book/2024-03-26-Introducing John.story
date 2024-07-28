@@ -65,7 +65,7 @@ Jacob doesn't like the outcome of the previous exchange. He had hoped for a sign
   "Make that deadline and make 'man of the hour'? Can't feel any real sense of achievement..."  
   "Bang the young intern during lunch hour? Kinda fun while it lasts, but you are too senseless to make it mean anything..."
   "And at some point, killing stops being the same... The thrill is not the same, so you start taking unnecessary risks to get the feeling back"
-  ... but I guess I don't have to tell you that"
+  "... but I guess I don't have to tell you that"
   "..." [looking at the young man in challenge]
 - (Young man) "..." [meeting Jacob's stare, then apparently relenting, relaxing his composure a little]  
   "I never signed up..."

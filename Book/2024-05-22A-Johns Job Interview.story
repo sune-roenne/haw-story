@@ -49,12 +49,13 @@ It is at this point during the meeting, that all of the lights in the room cut o
 - (John) "... Some of aforementioned regulations, requirements and restrictions are formalized into laws, while others are formulated in the official document - the so-called prospectus - that FinaLibre publishes to allow potential investors to see just what type of product they are looking at. Examples of guidelines include: .." 
 
 - (Carol) "I'm going to go check what is going on with the power" [stands up and proceeds towards the door]
-- (John) "... is the 5-10-40 rule that stipulates that no investment in any single asset may exceed 10% of the total portfolio - when comparing the size of the investment to the total value of...
-- (Frank) "Alright, you've made your point! Now please stop talking!" [visibly tired, rubbing his temples]
+- (John) "... is the 5-10-40 rule that stipulates that no investment in any single asset may exceed 10% of the total portfolio - when comparing the size of the investment to the total value of..."
+- (Frank) "Alright, you've made your point!"
+  "Now please stop talking!" [visibly tired, rubbing his temples]
   "What the hell are you doing here John?"
 - (John) "I am applying for a job sir"
   "..."
-  "...3 days ago, I received a message that strongly suggested I show up at FinaLibre at 14:15 today and interview for a job."
+  "3 days ago, I received a message that strongly suggested I show up at FinaLibre at 14:15 today and interview for a job."
 
 At this point, the light in the room turns back on.
 

@@ -70,7 +70,7 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
   "There was something about what he was doing... and what he was doing was...?"
   "He was watching that guy over there"
   "Uff! That guy looks like a complete sleazebag. Yuck!"
-  "He's got like a sex-offender vibe to him
+  "He's got like a sex-offender vibe to him"
   "I don't want him in my dream"
   "EXCUSE ME, CREEP"
 - (Creep) "Who me?"
@@ -251,7 +251,7 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (John) "I know! But look, it's not just the men"
 - (Angela) "Aw hell! I take back what I said about the slaughter in the village!" 
   "They should have killed ALL OF THEM!" 
-  "Well, not the children... even though they're probably going to grow up to be the same kind of bastards!
+  "Well, not the children... even though they're probably going to grow up to be the same kind of bastards!"
 - (John) "Without surviving adults, the children would have been as good as dead come Winter"
 - (Angela) "Thank you Mr. Sinister Realism! Let's do a RomCom next time... I want to see how you handle that!"
 - (John) "..." [smiling]

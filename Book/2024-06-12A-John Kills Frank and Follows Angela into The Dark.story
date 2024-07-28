@@ -53,7 +53,7 @@
   "details are in the file 'John.txt'"
 - (Sune) "OK" [gets up from his chair]
   "..." [putting on sweater]
-  take care John ..." [leaving the room]
+  "take care John ..." [leaving the room]
 - (John) "You too" [looking into the eternity]
 
 ...

@@ -89,7 +89,7 @@ Mike opens the door at the bottom of the staircase and immediately notices that 
   "all while the greedy, no-good board of directors get rich off military subsidies and YOUR death!?"
 - (Mike) "I DON'T WANT ANY OF THAT!"  [in a scream that clearly expresses that he doesn't think it's fair he should even have to make that choice]
 - (Hunter) "Alright... Then we have to act fast..."
-  "We don't have time for me to explain the details...
+  "We don't have time for me to explain the details..."
   "We have to warn the people upstairs..." 
   "Even if it ends up being the death of us. Are you with me?"
 - (Mike) "I guess, but... I don't want to die!"
@@ -121,7 +121,7 @@ Hunter jumps into the hallway and aims his gun at whatever is waiting out there 
 - (Hunter) "Aaaaaarrrrgggghhhh! What the fuck are you doing son! RUN FOR FUCKS SAKE! COMPLETE THE MISSION!"
   "Oh God that hurts!"
   "Oh fuck... THE SPIDERS ARE OUT! DON'T LET THEM GET INTO YOUR EARS..." 
-   WHATEVER YOU DO SON, DON'T LET THE SPIDERS GET IN YOUR EARS"
+   "WHATEVER YOU DO SON, DON'T LET THE SPIDERS GET IN YOUR EARS"
   "Aaaaarggghhhhh...." [screaming, fading to a rattle]
 
 Mike is an enlightened person, and though his main interests lay within the realm of Computer Science & Technology, he doesn't shy away from also consuming highlights from a variety of other domains, like for instance Psychology. Mike therefore knows quite a bit about the complex relation between the human body and mind, and knows that you can't talk about one without the other. It for instance, makes no sense to imagine a mind producing conscious thought without a body to power the operation, yet were you to ask Mike at this specific moment, he would have sworn - against better judgment - that his mind and body had gone two separate ways when the screaming began. One part of Mike - his mind - knew that he should help the poor guy... if for no other reason, than it was the RIGHT thing to do. His body however, had no intention at all of sticking around to see just how genetically engineered bats actually go about the business of killing with their fangs, and seeing as it was Mike's body who was in charge of charting out the course at that moment, Mike's mind had to content itself with fleeing the scene at high pace. Luckily for Mike's mind, it got something else to worry about instead of diving into the bottomless pits of guilt it might otherwise have thrown itself into: 'did he say spiders? Oh God... I HATE SPIDERS... What was that... Did I just feel something in my hair?'.

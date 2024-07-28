@@ -16,7 +16,7 @@
 - Our quarterly earnings are looking good as ever
 - We will not be downsizing in the near future; on the contrary
 
-  "We don't know why the email was sent, but we are looking at measures to tighten security around our mailing setup as we speak"
+- (Donnie)"We don't know why the email was sent, but we are looking at measures to tighten security around our mailing setup as we speak"
   "..."
   "And now for the horrible news..." [looking grave]
   "..." 
