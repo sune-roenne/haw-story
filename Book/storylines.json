@@ -3,32 +3,68 @@
 	{
 		"StoryLine": "dreams",
 		"StoryLineName" : "Dreams",
-		"Image" : "storyline-dreams"
+		"Image" : "storyline-dreams",
+		"Video" : "floating-clouds.gif",
+		"Attribution" : {
+			"Text" : "Floating Clouds Stock Videos by Vecteezy",
+			"Link" : "https://www.vecteezy.com/free-videos/floating-clouds"
+		},
+		"SiteFont": "Shadows Into Light"
 	},
 	{
 		"StoryLine": "john",
 		"StoryLineName" : "John's Story",
-		"Image" : "storyline-john"
+		"Image" : "storyline-john",
+		"Video" : "deep-sea.gif",
+		"Attribution" : {
+			"Text" : "Dark underwater ocean waves ripple and flow with light rays by Vecteezy",
+			"Link" : "https://www.vecteezy.com/video/5314132-dark-underwater-ocean-waves-ripple-and-flow-with-light-rays-loop"
+		},
+		"SiteFont": "Trade Winds"
 	},
 	{
 		"StoryLine": "keyevents",
 		"StoryLineName" : "Key Events",
-		"Image" : "storyline-keyevents"
+		"Image" : "storyline-keyevents",
+		"Video" : "work-meeting.gif",
+		"Attribution" : {
+			"Text" : "Video by Tiger Lily from Pexels",
+			"Link" : "https://www.pexels.com/video/team-meeting-7147921/"
+		},
+		"SiteFont": "Old Standard TT"
 	},
 	{
 		"StoryLine": "lunch",
 		"StoryLineName" : "Overheard in the FinaLibre Cafeteria",
-		"Image" : "storyline-lunch"
+		"Image" : "storyline-lunch",
+		"Video" : "lunch.gif",
+		"Attribution" : {
+			"Text" : "Lunch Stock Videos by Vecteezy",
+			"Link" : "https://www.vecteezy.com/free-videos/lunch"
+		},
+		"SiteFont": "Gloria Halleluja"
 	},
 	{
 		"StoryLine": "detectives",
 		"StoryLineName" : "The 3 Detectives",
-		"Image" : "storyline-detectives"
+		"Image" : "storyline-detectives",
+		"Video" : "blood.gif",
+		"Attribution" : {
+			"Text" : "Murder Stock Videos by Vecteezy",
+			"Link" : "https://www.vecteezy.com/free-videos/murder"
+		},
+		"SiteFont": "Trade Winds"
 	},
 	{
 		"StoryLine": "aftermath",
 		"StoryLineName" : "The Aftermath",
-		"Image" : "storyline-aftermath"
+		"Image" : "storyline-aftermath",
+		"Video" : "orange-sky.gif",
+		"Attribution" : {
+			"Text" : "Red Sun Stock Videos by Vecteezy",
+			"Link" : "https://www.vecteezy.com/free-videos/red-sun"
+		},
+		"SiteFont": "Gloria Halleluja"
 	}	
 	]
 	

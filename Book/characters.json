@@ -3,14 +3,30 @@
 	{
 		"Character":"angela",
 		"ShowName": "Angela",
-		"Color": "rgb(122,40,117)",
-		"Font": "Gabriola"
+		"Color": "rgb(224,45,75)",
+		"Font": "Gabriola",
+		"SiteFont": "Shadows Into Light"
 	},
 	{
 		"Character":"john",
 		"ShowName": "John",
-		"Color": "rgb(27,24,26)",
-		"Font": "Chiller"
+		"Color": "rgb(42,42,87)",
+		"Font": "Chiller",
+		"SiteFont": "Trade Winds"
+	},
+	{
+		"Character":"sune",
+		"ShowName": "Sune",
+		"Color": "rgb(62,0,179)",
+		"Font": "Chiller",
+		"SiteFont": "Ink Free Web"
+	},
+	{
+		"Character":"carol",
+		"ShowName": "Carol",
+		"Color": "rgb(176,7,134)",
+		"Font": "Chiller",
+		"SiteFont": "Gloria Halleluja"
 	}
     ]
 	
