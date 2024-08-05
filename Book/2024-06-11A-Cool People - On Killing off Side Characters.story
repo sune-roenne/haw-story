@@ -1,7 +1,9 @@
 {
    "ChapterTitle": "On Killing Side Characters",
    "StoryLineKey": "lunch",
-   "Aliases" : null,
+   "Aliases" : {
+      "john": "notjohn"
+   },
    "RevisedOn" : "2024-07-27"
 }
 

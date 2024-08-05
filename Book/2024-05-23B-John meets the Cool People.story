@@ -29,7 +29,7 @@ As they are walking in silence towards the cafeteria, Carol - without any appare
 
 Without moving, John does a bottom-to-top scan of... John, then looks at him and shrugs his shoulder in the universal 'You wanna go?'-gesture.
 
-- (John) "You know what, why don't you be New John and I'll be Old John..."
+- (Other John) "You know what, why don't you be New John and I'll be Old John..."
   "That works for you?"
 - (New John) "..." [shrugs shoulders in the universal 'works for me'-gesture]
 - (Karl) "Dude, that guy looked like he was ready to go a 5-rounder with John... and for 'John'" [whispering at Ben]

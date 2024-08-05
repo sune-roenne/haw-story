@@ -1,7 +1,9 @@
 {
    "ChapterTitle": "After the Rain, Comes the Storm",
    "StoryLineKey": "aftermath",
-   "Aliases" : null,
+   "Aliases" : {
+      "john": "notjohn"
+   },
    "RevisedOn" : "2024-07-28"
 }
 

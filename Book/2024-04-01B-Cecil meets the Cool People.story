@@ -2,7 +2,8 @@
    "ChapterTitle": null,
    "StoryLineKey": "lunch",
    "Aliases" : {
-      "Woman": "Carol"
+      "Woman": "Carol",
+	  "John": "NotJohn"
    },
    "RevisedOn" : "2024-07-23"
 }

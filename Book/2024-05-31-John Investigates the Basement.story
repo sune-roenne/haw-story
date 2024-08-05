@@ -1,7 +1,12 @@
 {
    "ChapterTitle": "John Explores the Basement",
    "StoryLineKey": "detectives",
-   "Aliases" : null,
+   "Aliases" : {
+      "Shrill female voice" : "sune",
+      "Soon to be dead man" : "sune",
+	  "joker": "sune",
+	  "Suicidal joker": "sune"
+   },
    "RevisedOn" : "2024-07-27"
 }
 

@@ -1,7 +1,9 @@
 {
    "ChapterTitle": "On Weddings and Psychopaths",
    "StoryLineKey": "lunch",
-   "Aliases" : null,
+   "Aliases" : {
+      "john": "notjohn"
+   },
    "RevisedOn" : "2024-07-24"
 }
 

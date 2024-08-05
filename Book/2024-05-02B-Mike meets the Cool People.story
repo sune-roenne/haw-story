@@ -1,7 +1,9 @@
 {
    "ChapterTitle": "Mike Meets the Cool People",
    "StoryLineKey": "lunch",
-   "Aliases" : null,
+   "Aliases" : {
+      "john": "notjohn"
+   },
    "RevisedOn" : "2024-07-24"
 }
 
@@ -86,7 +88,7 @@ At this, Karl extends a punch to Cecil's chest across the table.
   "And as for signing with Old Thundering Voice In The Cloud..."
   "...with the whole Prodigal Son fuck-up, he made it absolutely clear that he isn't handing out early-sign-on-bonuses"
 - (Karl) "Wooooow, wow, wow... wait a minute, I see what you are trying to do here, and even though it was not explicitly agreed upon at the onset of this discussion, it was implicitly understood by all parties, that the discussion was strictly on the topic of the Christian alternatives... if you start throwing in Zen or Ahmed or whatever, you are clearly in violation of the rules"
-- (Mike) "But that is not where I'm going!"
+- (John) "But that is not where I'm going!"
   "What I'm saying is, that you should play those fuckers for all you can!"
   "Keep a close contact with Team White and check in frequently, but make sure that you're seen chilling with your Horn-Dawg once in a while"
   "Drive the price as high as you can, and only cash in on the best offer at the very last minute"

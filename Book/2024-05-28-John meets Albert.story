@@ -1,7 +1,10 @@
 {
    "ChapterTitle": "John Talks to Albert",
    "StoryLineKey": "detectives",
-   "Aliases" : null,
+   "Aliases" : {
+      "Angry voice": "john",
+      "Angry man from office": "john"
+   },
    "RevisedOn" : "2024-07-27"
 }
 

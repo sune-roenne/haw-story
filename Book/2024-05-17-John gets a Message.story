@@ -1,7 +1,9 @@
 {
    "ChapterTitle": "Young Man Lost and Found",
    "StoryLineKey": "john",
-   "Aliases" : null,
+   "Aliases" : {
+      "young man": "john"
+   },
    "RevisedOn" : "2024-07-24"
 }
 

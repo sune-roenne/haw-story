@@ -3,7 +3,8 @@
    "StoryLineKey": "detectives",
    "Aliases" : {
       "Hunter" : "sune",
-	  "Angry man": "sune"
+	  "Angry man": "sune",
+	  "john": "notjohn"
    },
    "RevisedOn" : "2024-07-24"
 }

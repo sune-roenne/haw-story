@@ -1,7 +1,11 @@
 {
    "ChapterTitle": "Cecil Goes Spelunking in the Basement",
    "StoryLineKey": "detectives",
-   "Aliases" : null,
+   "Aliases" : {
+      "voice" : "sune",
+	  "other voice": "sune",
+	  "john": "notjohn"
+   },
    "RevisedOn" : "2024-07-24"
 }
 
