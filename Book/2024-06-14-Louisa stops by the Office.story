@@ -38,11 +38,11 @@ Carol notices a young woman standing outside the main entrance to FinaLibre. The
   "Did you know him well?"
 - (Carol) "..." [making sure to select her words carefully]
   "I think I knew a side of him..."
-  "Julie, this is Louisa..."
+  "Janet, this is Louisa..."
   "one of John's friends..."
   "I'm just going to show her around the place..."
   "Does she need an access card?" 
-- (Julie) "..." [waving dismissively with her one hand, while only taking her eyes of the cell phone to send Louisa a quick smile]
+- (Janet) "..." [waving dismissively with her one hand, while only taking her eyes of the cell phone to send Louisa a quick smile]
 
 - (Carol) "John had kind of a dark side, that I never really understood..."
   "or maybe I understood it, but just had a really hard time accepting it"

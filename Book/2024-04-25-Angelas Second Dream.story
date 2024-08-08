@@ -123,7 +123,7 @@ John snaps his fingers, producing an assault rifle. Angela catches his drift, an
 John starts firing into the air.
 
 - (John) "DEATH TO ALL YOU INFIDEL PIGS AND YOUR DIRTY MOTHERS"
-- (Angels) "..." [sending a grenade off, blasting the screen to pieces]
+- (Angela) "..." [sending a grenade off, blasting the screen to pieces]
   "I AM A SEX CREEP AND WOMEN DON'T LIKE ME SO I'M GOING TO RAPE EVERYONE HERE!!! MUAHAHAHAHA" [in her deep sex-offender voice, shooting her 6 shooter in the air]
 - (John) "I'M A VIKING WHO HAS COME FROM THE PAST TO PILLAGE AND KILL!!!" [also making a deep voice]
 - (both) "..." [walking towards their madras as cars flee the drive-in in panic]
