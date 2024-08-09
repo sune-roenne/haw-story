@@ -96,7 +96,7 @@ Angela snaps her finger, and the buzzing in the air stops, as hundreds of mosqui
 - (John) "Of course you are" [smiling]
 
 - (Angela) "Alright... What else is on tonight?"
-- (John) "I have a Bonnie & Clyde type drama from the Dust Bowl in 1930's Mid West USA...?"
+- (John) "I have a Bonnie and Clyde type drama from the Dust Bowl in 1930's Mid West USA...?"
 - (Angela) "Young woman supposed to marry big evil conglomerate King Pin, broke farmer being driven from the family farm..."
   "They meet, instantly fall in love..."
   "King Pin is boo hoo so sad and swears to take brutal revenge on the girl who has irreversibly broken his heart and the filthy young farmer..."

@@ -34,14 +34,14 @@ Buying common stock - or equities - in successful businesses has historically pr
 
 - Accounting: Legislation requires at least 1 annual audit of all investment funds, to ensure that all valuables are accounted for
 - Invesment Compliance: We offer a lot of different shared investment products, that differentiate themselves from each other and the rest of the market, by having different investment strategies, guidelines and restrictions.  Some funds invest in Asian companies, some funds invest in debt certificates issued by large European banks and our Investment Compliance unit makes sure that the people actually responsible for making the investments, follow these guidelines and restrictions along with any relevant legislation
-- Reporting & API: We service shared investment vehicles for both small private investors as well as huge pension funds, and especially the latter has a tendency to want very frequent updates on the status of their investments
-- Settlement & Reconciliation: So I mentioned that we don't actually are the ones to decide WHAT to invest in, but even with the actual decision being made by an outside party, we still need to make sure that the transactions execute as expected, such that if the Investment Advisor or Portfolio Manager has decided to buy 10.000 shares of some common stock, paying 102,76 EUR per share, that we actually receive the 10.000 shares in our custody, and that no more than 10.276.000 EUR is withdrawn from out bank accounts
+- Reporting and APIs: We service shared investment vehicles for both small private investors as well as huge pension funds, and especially the latter has a tendency to want very frequent updates on the status of their investments
+- Settlement and Reconciliation: So I mentioned that we don't actually are the ones to decide WHAT to invest in, but even with the actual decision being made by an outside party, we still need to make sure that the transactions execute as expected, such that if the Investment Advisor or Portfolio Manager has decided to buy 10.000 shares of some common stock, paying 102,76 EUR per share, that we actually receive the 10.000 shares in our custody, and that no more than 10.276.000 EUR is withdrawn from out bank accounts
 - Then there's also all the legal stuff, and publishing Net Asset Value per fund throughout the day, but I think we'll save that for another day. Are you with me so far?
 
 - (Mike) "Weeelll.... I think I kinda understand, but I wouldn't like to be quizzed on this tomorrow"
 - (Frank) "Don't worry... We won't quiz you for another 2 weeks" [smiling]
   "But I advise you to read and understand the intro material..."
-  "When push comes to shove, there's really no way around the necessity of having a solid understanding of the domain of Finance if you want to be effective & productive in this field.."
+  "When push comes to shove, there's really no way around the necessity of having a solid understanding of the domain of Finance if you want to be effective and productive in this field.."
 - (Mike) "Thank you" [displaying the broad smile of a man about to sign a contract with absolutely no understanding of its content]  
  
  

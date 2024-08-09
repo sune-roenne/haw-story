@@ -32,7 +32,7 @@
 - (Carol) "... What?" [looking puzzled]
 - (John) "Never-mind..."
   "The thing is..."
-  "I've been thinking ever since this John & Angela deal..."
+  "I've been thinking ever since this John and Angela deal..."
   "This is going to be a bumpy ride, but hang in there..." [smiling reassuringly]
   "You know I like you right?"
   "I mean, as in:"
@@ -57,8 +57,8 @@
   "'Carol is cool, but she has a high body count'!"
   "And these last few weeks I've been thinking"
   "You see..."
-  "John & Angela were wrong about a lot of things"
-  "They were ultimately selfish people who would sacrifice anyone around them in the name of John & Angela"
+  "John and Angela were wrong about a lot of things"
+  "They were ultimately selfish people who would sacrifice anyone around them in the name of John and Angela"
   "They were the types to take the dance floor and expect everyone else to just step aside and give them room to dance however they wanted"
   "Great intense love story, but if just 1% of couples went about their relationship like they did, the world would be a burning chaos"
   "They would fight and kill for their right to love each other in exactly the way they wanted"

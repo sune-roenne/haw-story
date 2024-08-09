@@ -137,7 +137,7 @@ Without moving, John does a bottom-to-top scan of... John, then looks at him and
   "the person they are tomorrow"
   "We say: sleep on it, and it will all seem better tomorrow, but usually, it's not the world that changes, it's us:"
   "we become someone different, but then how can we issue any types of guarantees about how we will feel in the future?"
-- (Carol) "So what does that leave us with in terms of love & romance, if you can't make any plans for things to do together...?"
+- (Carol) "So what does that leave us with in terms of love and romance, if you can't make any plans for things to do together...?"
 - (New John) "Just the here and now... Which is all we are really ever guaranteed anyway" [smiling]
 - (Susan) "Alright, of course what you say is all fine in theory and I'm sure Buddha is sitting somewhere nodding along..."
   "I know my yoga-teacher would love it anyways..."
@@ -161,7 +161,7 @@ Without moving, John does a bottom-to-top scan of... John, then looks at him and
 - (Karl) "Now why do you have to go and make this discussion about gender all of a sudden?!"
   "I thought we were better than that"
 - (Carol) "Alright, I'm man enough to admit when I'm outnumbered..."
-  "John & John: I concede to your fine points, whatever they may have been" [getting up from her seat]
+  "John and John: I concede to your fine points, whatever they may have been" [getting up from her seat]
 - (Susan) "This was not your best show guys..."
   "Do better next time, alright?" [also getting up to follow Carol]
 - (Karl) "So would you really be OK with your girlfriend deciding to up and leave you tomorrow for another man?"
@@ -191,13 +191,13 @@ When everyone else have left:
   "horribly, and the guy even said as much to me before he practically kicked me out"
   "Then late last night I get a call from the CEO, asking me to be here at 8:00"
   "so I was here at 8:00"
-  "All in all, it think he was on the up & up with me:"
+  "All in all, it think he was on the up and up with me:"
   "he thinks Angela sent me the message about the interview..."
   "and then he offered me a job to do some snooping around about Angela and who might have killed her"
   "He asked me not stir up any panic, and to keep my assignment to myself"
    "so I will in turn ask you to keep this talk between the two of us"
 - (Old John) "I'm no rat... I'll keep it tight"
-  "If at all possible, see if you can avoid Karl & Ben finding out about anything, because if they start to sense that something is up, the rumors are going to spread like a wild fire"
+  "If at all possible, see if you can avoid Karl and Ben finding out about anything, because if they start to sense that something is up, the rumors are going to spread like a wild fire"
 - (New John) "That's good advice. Thank you"
   "Did you know Angela well?"
 - (Old John) "I can't say that I did"
@@ -238,7 +238,7 @@ When everyone else have left:
   "I've never known her to actually live up to it"
 - (New John) "..." [smiles]
   "Anyone else might know something important about Angela?"
-- (Old John) "Well, I think you were on the money with your assessment of our CEO, Donnie: I also mostly think he's on the up & up with people"
+- (Old John) "Well, I think you were on the money with your assessment of our CEO, Donnie: I also mostly think he's on the up and up with people"
   "Did he tell you about his own personal dealings with Angela?"
 - (New John) "No"
 - (Old John) "You may want to ask him at some point"

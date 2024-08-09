@@ -29,7 +29,7 @@
 - (Mike) "...or it could be bees...?" [starts snapping fingers]
 - (Cecil) "...and I guess..." [singing, picking up on Mike's lead as on queue]
    "... you say..." 
-- (Mike, Cecil, Susan & Carol) "WHAT can make me feel this waaaayy"
+- (Mike, Cecil, Susan and Carol) "WHAT can make me feel this waaaayy"
   "MY GIRL" [singing/yelling]
   "MY GIRL"
   "Talking about my girl"
