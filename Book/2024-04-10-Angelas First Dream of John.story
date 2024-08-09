@@ -7,15 +7,15 @@
 	  "Young man": "previousjohn",
 	  "Young woman": "previousangela"
    },
-   "RevisedOn" : "2024-07-23"
+   "RevisedOn" : "2024-08-09"
 }
 
 
-Angela is sitting in the train, commuting to work, when suddenly the world freezes... Not in the sense of getting cold, but in the sense that the train's movement is completely halted from one instant to the next. At the same time, every passenger in the train becomes inanimate. It's as if someone clicked the pause button, but the world forgot to include Angela in the pause-command.
+Angela is sitting on the train, commuting to work, when suddenly the world freezes... Not in the sense of getting cold, but in the sense that the train's movement is completely halted from one instant to the next. At the same time, every passenger in the train becomes inanimate. It's as if someone clicked the pause button, but the world forgot to include Angela in the pause command.
 
 - (Angela) "I'm dreaming!"
   "Wait... I said that out loud, didn't I?"
-  "And I'm allowed to say things out loud, because it's my dream!"
+  "And I'm allowed to say things out loud because it's my dream!"
   "I like this... Maybe I should begin thinking out loud more often"
   "Alright, so this is my morning commute, I recognize that"
   "And, I can see from the progress bars, that we are 5 minutes off Thousand Acre Forest (East), so I have a pretty good idea of the 'where' of this dream"
@@ -35,11 +35,11 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
   "..."
   "Alright, just remember that you asked for it..."
   "DOES A TREE MAKE A SOUND IF IT FALLS IN THE FOREST AND NO ONE IS AROUND TO HEAR IT?" [shouting]
-  "AND WHAT IF IT DOESN'T SO MUCH FALL AS GENTLY LAND ON IT'S BUTT?"
+  "AND WHAT IF IT DOESN'T SO MUCH FALL AS GENTLY LAND ON ITS BUTT?"
   "DO TREES EVEN HAVE BUTTS? I KNOW THEY HAVE BUDS, BUT DO THEY HAVE BUTTS?"
   "AND WHAT IF THERE IS INDEED SOMEONE AROUND TO HEAR IT, BUT THE PERSON IS DEAF AND..."
 - (Brain) "Oh my God, what the hell is wrong with you?"
-- (Angela) "Well, if Doctor Petersson couldn't figure that out over the course of 5 years, do you really think we're going to figure it out during this dream?"
+- (Angela) "Well, if Doctor Petersson couldn't figure that out over the course of 5 years, do you think we're going to figure it out during this dream?"
 - (Brain) "What do you want from me?"
 - (Angela) "A simple answer would be nice: Have you brought me here to figure out what I missed?"
 - (Brain) "YES!"
@@ -51,7 +51,7 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
   "I will close my eyes, and think about a chocolate cake with chocolate frosting..."
   "It worked! But look at that thing, not even in my dreams could I win a baking show, huh?" [dismayed]
   "But... who cares? This is about the science of it..."
-  "TONIGHT LADIES AND GENTLEMAN, WE WILL ANSWER THE AGE-OLD QUESTION:" [game show presenter voice]
+  "TONIGHT LADIES AND GENTLEMEN, WE WILL ANSWER THE AGE-OLD QUESTION:" [game show presenter voice]
   "'IF YOU EAT AN ENTIRE CHOCOLATE CAKE IN YOUR DREAMS, WILL YOU WAKE UP AND BE FAT?'"
   "AND... TO HELP US ANSWER THAT QUESTION, HERE IS THE LOVELY AAAAANGEEELLAAAAAA" [clapping]
   "AND NOW... IF THE AUDIENCE WOULD PLEASE SHUT THE FUCK UP AS LOVELY ANGELA ATTEMPTS TO CRAM DOWN THIS WHOLE CAKE IN ONE GO..."
@@ -82,11 +82,11 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
 - (Angela) "That's enough FILTH out of your FILTHY mouth! Go stand in the other end of the train where I can't see you"
 - (Creep) "Or what?"
 - (Angela) "Ooooh... magic time again"
-  "Now, we say 'abra cadabra', and look what started crawling on your arms... Bull ants!"
+  "Now, we say 'abracadabra', and look what started crawling on your arms... Bull ants!"
 - (Creep) "Eeeew... That's disgusting!"
 - (Angela) "Oh yes... very, but wait until you feel their bite!" [sadistic smile]
 - (Creep) "AAAAAAAAARRRRRGHHHH! THAT HURTS SO BAD!"
-- (Angela) "Yes... That's what I have heard. Now go stand in the other end of the train, and if you leave now, I'll make sure there is someone waiting for you with a strong painkiller to take the top off"
+- (Angela) "Yes... That's what I have heard. Now go stand in the other end of the train, and if you leave now, I'll make sure someone is waiting for you with a strong painkiller to take the top off"
 - (Creep) "ARRRRGGGGGGHHH" [running out of the train car]
 - (Angela) "No rest for the wicked! The guy will be waiting for you with a nice shot of FENTANYL... Let's hope you get the dose right... Muahaha"
   "Alright... Back to the guy. He was watching the creep, but why?"
@@ -94,14 +94,14 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
   "Oh my, that's a splendid idea! Seeing as this is my dream, and I'm supreme ruler"
   "- queen of the bull ants - "
   "I could step a little closer and have a better look at the guy"
-  "Hmmm... Those are sinister eyes. Pretty color of blue, but they cover some nasty secrets don't they. Intriguing!"
+  "Hmmm... Those are sinister eyes. Pretty color of blue, but they cover some nasty secrets, don't they? Intriguing!"
   "Now... You were watching the creep. You weren't in love with the creep, and you don't look like you are about to burst out in a birthday tune for the loser, so why were you watching him?"
   "Let me think..."
   "Back in the real world..."
   "The boring world..." 
   "The place where I cannot command bull ants... YET (!)"
   "... you got off at the same stop as he did... because you were following him, but wait a minute..."
-  "You went for the exit before he did! Which means, that you must have known where he was going, and when you got off the train..."
+  "You went for the exit before he did! Which means that you must have known where he was going, and when you got off the train..."
   "...you were going to follow him and... kill him!"
   "That's it, isn't it?! You were following him, and you were following him in order to kill him, and the reason you wanted to kill the creep was... that he's a creep!"
   "... or that is at least what you tell yourself, but maybe that's just an excuse..."
@@ -117,7 +117,7 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
   "How long have you been... sentient?"
 - (Angry man) "It's kinda hard for me to say, but I think the whole time"
   "I was there for the terrorist negotiation with Brain"
-- (Angela) "Oh no... Then you also saw the cake-eating-contest?" [embarrassed]  
+- (Angela) "Oh no... Then you also saw the cake-eating contest?" [embarrassed]  
 - (Angry man) "Yes, I found that bit especially..."
 - (Angela) "embarrassing?"
 - (Angry man) "charming" [smiles]
@@ -125,7 +125,7 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
   "And forget all the stuff I said about me not being attracted to you" 
   "- I'm not saying I am or anything -"
   "but I was just checking to see if you were awake that's all"
-- (Angry man) "Hey, this is your show... Feel free to change my looks in whatever whatever way you want" [smiling]
+- (Angry man) "Hey, this is your show... Feel free to change my looks in whatever way you want" [smiling]
 - (Angela) "Hmm... I think we'll stick with it for now..."
   "Your look does have kind of a rough quality to it"
   "It's probably just an acquired taste"
@@ -157,10 +157,10 @@ Angela takes out her cell phone and checks the date on the display: Wednesday - 
   "Alright, no time to waste on that now, but let me at least fix the cracks in the screen like...so"
   "Do you want popcorn?"
 - (John) "Sure, I could go for popcorn"
-- (Angela) "Abra cadabra: POPCORN!"
+- (Angela) "Abracadabra: POPCORN!"
   "And... We'll hit 'play' like so..."
 
-The cell phone starts playing a movie. The camera fades in on a young man and a young woman sitting in the clearing by a forest lake on a bright Summers day.
+The cell phone starts playing a movie. The camera fades in on a young man and a young woman sitting in the clearing by a forest lake on a bright Summer's day.
 - (Angela) "Ooooh... Is that us?"
 - (John) "Not exactly, but then again..."
 - (Angela) "Alright... Do you want to be the boy or the girl?"
@@ -192,8 +192,8 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (Young man) "I will"
 
 - (Angela) "The screenplay feels a little cheesy doesn't it?"
-- (John) "Yeah, but it's supposed to take place in another day and age"
-  "... but even so, I'd have to agree with you that it could use a little..."
+- (John) "Yeah, but it's supposed to take place in another day and age..."
+  "but even so, I'd have to agree with you that it could use a little..."
   "spunk"
 - (Angela) "Yes... spunk"
   "Ooooh, look at them going at it..."
@@ -202,13 +202,13 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (Angela) "No way! Look at that!"
   "Look how clumsy they are!"
 - (John) "I think it's their first time... And this is supposed to be way before porn was a thing"
-- (Angela) "Yeah, but this is like the viking age, isn't it?"
+- (Angela) "Yeah, but this is like the Viking age, isn't it?"
   "Didn't they have like massive sex orgies and such?"
 - (John) "I honestly don't know"
 - (Angela) "Ooooh... I just got to thinking..."
-  "This was before plumbing and regular showers was a thing..."
+  "This was before plumbing and regular showers were a thing..."
 - (John) "I know what you're driving at..."
-  "Let's be grateful for modern day hygiene"
+  "Let's be grateful for modern-day hygiene"
 - (Angela) "Amen! Alright... I'm just going to fast forward a bit..."
   "Now what do we have here..."
   "Ooooh... there's our young couple again"
@@ -218,7 +218,7 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (John) "..."
 - (Angela) "Alright... Let me at least turn the sound off"
   "Oh, that's horrible! Those people don't stand a chance!"
-  "NO! If you touch that child, I'm not going to watch anymore of this!"
+  "NO! If you touch that child, I'm not going to watch any more of this!"
 - (John) "They don't touch the children. There are a couple of the grown-ups that get spared as well"
 - (Angela) "That's good!"
   "How many do they kill?"
@@ -281,8 +281,8 @@ The cell phone starts playing a movie. The camera fades in on a young man and a 
 - (Angela) "I have a feeling I'm barking up the wrong tree here..."
   "There is a riddle in this dream... right here... for me. Right?"
 - (John) "I don't know"
-- (Angela) "That's right... you are completely oblivious. I mean, not you as you're sitting right here in-front of me... But as it played out on the train..."
-  "You were sitting in the train... Closing in on the prey... And your entire focus was on that!"
+- (Angela) "That's right... you are completely oblivious. I mean, not you as you're sitting right here in front of me... But as it played out on the train..."
+  "You were sitting on the train... Closing in on the prey... And your entire focus was on that!"
   "And it wasn't supposed to be"
   "You were supposed to notice me!"
 - (John) "I'm not sure there is any 'supposed' here... that would imply predetermination"

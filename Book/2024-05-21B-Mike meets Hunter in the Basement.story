@@ -49,7 +49,7 @@
 - (Karl) "Thanks... I owe you one"
 - (Mike) "So where do I find this wizard?"
 - (Karl) "..." [face expresses 'seriously?']
-  "You know the stairway by the NAV-team...?"
+  "You know the stairway by the Fund Accounting team...?"
   "Well, go down the stairs to the basement and then when you are almost at the end of the hallway down there, there's a sign that says 'Sune'... That's the place!"
 - (Mike) "Well, there's no time like the present..." 
   "I'll get on it right away" [shoots dual-yielded finger guns at Karl]
@@ -127,7 +127,7 @@ Hunter jumps into the hallway and aims his gun at whatever is waiting out there 
 
 Mike is an enlightened person, and though his main interests lay within the realm of Computer Science & Technology, he doesn't shy away from also consuming highlights from a variety of other domains, like for instance Psychology. Mike therefore knows quite a bit about the complex relation between the human body and mind, and knows that you can't talk about one without the other. It for instance, makes no sense to imagine a mind producing conscious thought without a body to power the operation, yet were you to ask Mike at this specific moment, he would have sworn - against better judgment - that his mind and body had gone two separate ways when the screaming began. One part of Mike - his mind - knew that he should help the poor guy... if for no other reason, than it was the RIGHT thing to do. His body however, had no intention at all of sticking around to see just how genetically engineered bats actually go about the business of killing with their fangs, and seeing as it was Mike's body who was in charge of charting out the course at that moment, Mike's mind had to content itself with fleeing the scene at high pace. Luckily for Mike's mind, it got something else to worry about instead of diving into the bottomless pits of guilt it might otherwise have thrown itself into: 'did he say spiders? Oh God... I HATE SPIDERS... What was that... Did I just feel something in my hair?'.
 
-As the door next to the NAV-team is swung open and a young man comes screaming out of it, John is talking to Carol.
+As the door next to the Fund Accounting team is swung open and a young man comes screaming out of it, John is talking to Carol.
 
 - (Mike) "Oh fuck... Oh God... Is there anything in my hair?"
 - (Carol) "..." [looks skeptical at John]
