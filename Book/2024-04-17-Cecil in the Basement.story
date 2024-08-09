@@ -4,7 +4,7 @@
    "Aliases" : {
       "voice" : "sune",
 	  "other voice": "sune",
-	  "john": "notjohn"
+	  "john": "oldjohn"
    },
    "RevisedOn" : "2024-07-24"
 }

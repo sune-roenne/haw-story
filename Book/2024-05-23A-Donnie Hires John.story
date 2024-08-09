@@ -1,7 +1,9 @@
 {
    "ChapterTitle": "John is Hired",
    "StoryLineKey": "john",
-   "Aliases" : null,
+   "Aliases" : {
+      "Receptionist": "janet"
+   },
    "RevisedOn" : "2024-07-25"
 }
 

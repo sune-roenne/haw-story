@@ -2,7 +2,7 @@
    "ChapterTitle": "On Killing Side Characters",
    "StoryLineKey": "lunch",
    "Aliases" : {
-      "john": "notjohn"
+      "john": "oldjohn"
    },
    "RevisedOn" : "2024-07-27"
 }
@@ -24,7 +24,7 @@
   "like BAM!" [almost yelling]
   "have a piano on the head 'slightly-unattractive-but-somehow-incredibly-all-knowing-and-fun-side-character'!"
 
-- (Everybody else) "..." [watching Ben]  
+- (Everyone else) "..." [watching Ben]  
 
 - (Mike) "...or it could be bees...?" [starts snapping fingers]
 - (Cecil) "...and I guess..." [singing, picking up on Mike's lead as on queue]
@@ -110,7 +110,7 @@
   "by almost 300%..."
   "THE ELECTRONIC ENTERTAINMENT INDUSTRY"
   "..."  [bowing]
-- (Everyone else) "..." [staring in amazement]
+- (Everyone) "..." [staring in amazement]
 - (Karl) "..." [shaking his head, folding]
 - (Old John) "..." [gesturing throwing his card in a fold, almost absolutely certain that every figure Cecil has just cited is complete bull shit, but not invested enough in today's pot to go for it]
 - (Everyone) "..." [looking at Mike]

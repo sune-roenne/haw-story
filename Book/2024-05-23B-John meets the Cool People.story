@@ -2,7 +2,8 @@
    "ChapterTitle": "John (and John) and the Cool People",
    "StoryLineKey": "lunch",
    "Aliases" : {
-      "New John": "john"
+      "New John": "john",
+	  "Other John": "oldjohn"
    },
    "RevisedOn" : "2024-07-26"
 }

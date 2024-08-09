@@ -1,7 +1,9 @@
 {
    "ChapterTitle": "John Misses the Train Again",
    "StoryLineKey": "dreams",
-   "Aliases" : null,
+   "Aliases" : {
+      "Arrogant voice": "frank"
+   },
    "RevisedOn" : "2024-07-27"
 }
 

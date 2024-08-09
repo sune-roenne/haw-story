@@ -4,7 +4,7 @@
    "Aliases" : {
       "Hunter" : "sune",
 	  "Angry man": "sune",
-	  "john": "notjohn"
+	  "john": "oldjohn"
    },
    "RevisedOn" : "2024-07-24"
 }

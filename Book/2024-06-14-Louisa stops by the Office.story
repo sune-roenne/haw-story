@@ -1,7 +1,9 @@
 {
    "ChapterTitle": "Louisa Drops by",
    "StoryLineKey": "aftermath",
-   "Aliases" : null,
+   "Aliases" : {
+      "Woman": "louisa"
+   },
    "RevisedOn" : "2024-07-28"
 }
 

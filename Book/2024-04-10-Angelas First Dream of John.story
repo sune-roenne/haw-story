@@ -2,7 +2,10 @@
    "ChapterTitle": "Angela's First Dream",
    "StoryLineKey": "dreams",
    "Aliases" : {
-      "Angry man": "john"
+      "Angry man": "john",
+	  "Unnamed man": "john",
+	  "Young man": "previousjohn",
+	  "Young woman": "previousangela"
    },
    "RevisedOn" : "2024-07-23"
 }

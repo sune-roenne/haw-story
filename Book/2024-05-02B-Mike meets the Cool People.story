@@ -2,7 +2,7 @@
    "ChapterTitle": "Mike Meets the Cool People",
    "StoryLineKey": "lunch",
    "Aliases" : {
-      "john": "notjohn"
+      "john": "oldjohn"
    },
    "RevisedOn" : "2024-07-24"
 }

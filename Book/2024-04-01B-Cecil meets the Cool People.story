@@ -3,7 +3,9 @@
    "StoryLineKey": "lunch",
    "Aliases" : {
       "Woman": "Carol",
-	  "John": "NotJohn"
+	  "John": "oldjohn",
+	  "Man" : "karl",
+	  "Other man": "ben"
    },
    "RevisedOn" : "2024-07-23"
 }
@@ -36,7 +38,7 @@
 - (Man) "Hey Carol, who's the shit-bird?"
 - (Carol) "Cool people, this is Cecil... Cecil, these are the cool people"
   "Specifically, in ascending order of length..."
-- (Man) "AND GIRTH!"
+- (Other man) "AND GIRTH!"
 - (Carol) "... this is Karl, John and Ben... Karl and John work in Client Management..."
 - (Ben) "THE PHONE LADIES!"
 - (Carol) ".. and Ben works in Reporting & APIs"

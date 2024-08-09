@@ -2,7 +2,7 @@
    "ChapterTitle": "On Weddings and Psychopaths",
    "StoryLineKey": "lunch",
    "Aliases" : {
-      "john": "notjohn"
+      "john": "oldjohn"
    },
    "RevisedOn" : "2024-07-24"
 }

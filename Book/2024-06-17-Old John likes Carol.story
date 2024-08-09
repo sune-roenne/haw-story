@@ -2,7 +2,7 @@
    "ChapterTitle": "Another John and Carol",
    "StoryLineKey": "aftermath",
    "Aliases" : {
-      "john": "notjohn"
+      "john": "oldjohn"
    },
    "RevisedOn" : "2024-07-28"
 }
