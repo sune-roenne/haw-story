@@ -41,7 +41,7 @@
 - (Other man) "AND GIRTH!"
 - (Carol) "... this is Karl, John, and Ben... Karl and John work in Client Management..."
 - (Ben) "THE PHONE LADIES!"
-- (Carol) ".. and Ben works in Reporting & APIs"
+- (Carol) ".. and Ben works in Reporting and APIs"
 - (Karl) "Ben is still waiting for his Sunflower Ribbon to arrive in the mail... He isn't actually retarded... there's just something wrong with his brain"
 - (Ben) "HEY! You can't spell 'Social Retardation' without 'Retarded'"
   "... wait a minute"
@@ -51,7 +51,7 @@
 - (Cecil) "Pleasure is all mine"
 
 - (Ben) "So, is Angela joining us today?"
-3 FinaLibre employees out of the group of 6 turns and stare at him in amazement. Only Carol walks on.
+3 FinaLibre employees out of the group of 6 turn and stare at him in amazement. Only Carol walks on.
 
 - (Ben) "WHAT?"
 
