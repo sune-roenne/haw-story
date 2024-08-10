@@ -2,17 +2,17 @@
    "ChapterTitle": "John Follows Angela Into the Dark",
    "StoryLineKey": "john",
    "Aliases" : null,
-   "RevisedOn" : "2024-07-28"
+   "RevisedOn" : "2024-08-10"
 }
 
 
 - (John) "What are you doing?"
 - (Sune) "God's work..."
-- (John) "r/RelationshipAdvice???"
+- (John) "r/RelationshipAdvice?!"
 - (Sune) "If you want to help people, you need to go to where people need help"
 - (John) "..." [reading]
   "... 'Life is short and when you look back on a life, very few things really matter...'"
-  "... 'When you have washed away all of the impurities, the only thing that remains is the pure morphine-extract called LOVE'..."
+  "... 'When you have washed away all of the impurities, the only thing that remains is the pure morphine extract called LOVE'..."
   "... 'Trust your heart and believe in love my friend, it's supposed to be through thick and thin'..."
 - (Sune) "You can't possibly disagree with that?"
 - (John) "To a dude who's caught his wife cheating for the 5th time?"
@@ -20,21 +20,21 @@
   "and I'm not forcing him to follow it, am I?"
   "You know, people need to learn to maintain a critical mind about 'online' and if it takes this guy sitting through 5 more affairs to learn that..." [gesturing 'then that's a sacrifice I am willing to make']
 - (John) "..." [shrugs]
-- (Sune) "What can I do for you John?"
+- (Sune) "What can I do for you, John?"
 - (John) "A couple of things..." [handing Sune an envelope]
 - (Sune) "Is this you and Angela's 'naughty photo memory stash'?"
   "... oh... No..."
   "what would be kinda wrong, wouldn't it?"
   "Forget I said that" [shaking his head]
-- (John) "There are two Banshee access-sticks in there:"
+- (John) "There are two Banshee access sticks in there:"
   "one is mine, one belonged to Thomas..."
 - (Sune) "Belonged?"
 - (John) "Yes, but to the best of my knowledge, nobody knows yet"
   "I need you to post the image in 'Persistent' to the forum, along with the text in the .txt file from Thomas's account"
-  "It essentially discloses my identity, and suggests that I've fled the country"
+  "It essentially discloses my identity and suggests that I've fled the country"
 - (Sune) "Sure"
 - (John) "But before you do that, I need you to make a claim on 42834 as Martin from my account"
-  "using the photo on my access-stick"
+  "using the photo on my access stick"
 - (Sune) "Is he dead?"
 - (John) "Yes, and Lonnie as well..."
   "You can claim Lonnie from my account or your own, it doesn't matter. Details are in 'Lonnie.txt'"
@@ -61,7 +61,7 @@
 - (Angela) "You have to admit, there is something poetic about this?"
 - (John) "There is something poetic about it" [smiles]
 - (Angela) "You know, you could stay...?"
-- (John) "I'm not loosing sight of you again!"
+- (John) "I'm not losing sight of you again!"
 - (Angela) "Oh John!" [smiling]
   "They need you!"
   "A hard rain's a-gonna fall!"
@@ -141,24 +141,24 @@
 			 No retreat, baby, no surrender
 			 No retreat, baby, no surrender"  
 
-John and Angela now sit, heads leaning against each others, looking into the great void in the poorly-lit corner of that 2nd floor bathroom. Some hours later, they hear the sound of footsteps in the hall outside.
+John and Angela now sit, heads leaning against each other, looking into the great void in the poorly-lit corner of that 2nd-floor bathroom. Some hours later, they hear the sound of footsteps in the hall outside.
 
 - (Angela) "You're up honey" [whispering into his ear, kisses him on the cheek]
 
-The door opens and Frank steps in wielding a foot long hunting knife in his right hand. As John had suspected, Frank's attention is focused on the dead body of Martin laying in front of him, and as he walks towards it, John walks in on Frank from behind, reaches his right arm around Franks throat, locks the choke-hold in with his left arm and squeezes tight. Frank shows signs of initial shock, but then jerks the knife around his own stomach, stabbing John in the left side 5 or 6 times.
+The door opens and Frank steps in wielding a foot-long hunting knife in his right hand. As John had suspected, Frank's attention is focused on the dead body of Martin lying in front of him, and as he walks towards it, John walks in on Frank from behind, reaches his right arm around Frank's throat, locks the choke-hold in with his left arm and squeezes tight. Frank shows signs of initial shock, but then jerks the knife around his own stomach, stabbing John in the left side 5 or 6 times.
 
 - (John - thinking) "Just hold on! 10...9....8..."
 
-Frank tries stabbing the knife over his left shoulder 2 times, only missing John by a few centimeters on the first stab as John catches on in the last second. Frank then goes back to stabbing around his stomach, hitting John 3 or 4 times more, before dropping the knife and losing conscience. John let's him and Frank drop to the floor.
+Frank tries stabbing the knife over his left shoulder 2 times, only missing John by a few centimeters on the first stab as John catches on in the last second. Frank then goes back to stabbing around his stomach, hitting John 3 or 4 times more, before dropping the knife and losing conscience. John lets him and Frank drop to the floor.
 
 - (John) "Jesus Christ that hurts!" 
 - (Angela) "I know honey" [smiling]
 - (John) "..." [smiling]
   "..." [gesturing 'one second']
   
-John reaches for the knife and props himself up on one elbow, rests the tip of the knife against Frank's right eyelid and thrusts the knife in as far as he can. He repeats this for the left eye. John then stabs Frank 5 times through the neck and drops the knife. He takes out a permanent marker and writes '¤BB01165 killed the Shadow-Man' on his left leg. He then lays down on the floor.
+John reaches for the knife and props himself up on one elbow, rests the tip of the knife against Frank's right eyelid, and thrusts the knife in as far as he can. He repeats this for the left eye. John then stabs Frank 5 times through the neck and drops the knife. He takes out a permanent marker and writes '¤BB01165 killed the Shadow-Man' on his left leg. He then lies down on the floor.
 
 - (John) "Will you lay with me for a while?" [smiling]
 - (Angela) "I'd love to" [smiling]
 
-Some time later, John dies.
+Sometime later, John dies.

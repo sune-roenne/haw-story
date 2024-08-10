@@ -4,7 +4,7 @@
    "Aliases" : {
       "Woman": "louisa"
    },
-   "RevisedOn" : "2024-07-28"
+   "RevisedOn" : "2024-08-10"
 }
 
 
@@ -22,7 +22,7 @@ Carol notices a young woman standing outside the main entrance to FinaLibre. The
 - (Carol) "On a few occasions" [smiling]
 - (Louisa) "I don't know why I'm here..."
 - (Carol) "That's how I feel every morning walking through that entrance" [smiles]
-  "I'm no expert on these kind of things, but it seems perfectly reasonable to want to see where he spent his last days"
+  "I'm no expert on these kinds of things, but it seems perfectly reasonable to want to see where he spent his last days"
   "..."
   "What do you say I give you a tour around the place?"
 - (Louisa) "Are you even allowed to do that?"
@@ -78,7 +78,7 @@ Carol notices a young woman standing outside the main entrance to FinaLibre. The
 - (Louisa) "But I had put that behind me, and I honestly think John had too"
   "We weren't perfect, but what couple is?"
   "We had fights, sometimes really loud fights, but we always found a way, you know"
-  "And I think we were moving forwards towards a better life for the both of us"
+  "And I think we were moving towards a better life for the both of us"
   "I finished my studies and got full-time..."
   "we both laid off drugs and partying..."
   "We had a small apartment together, and we had found a way to live life, that wasn't destructive..."
@@ -87,7 +87,7 @@ Carol notices a young woman standing outside the main entrance to FinaLibre. The
   "'could you imagine this or that'..."
   "joking about baby names and such..."
   "and it seemed to me like John was on board"
-  "And then one day, he wasn't at all onboard..."
+  "And then one day, he wasn't at all on board..."
   "he didn't want to start a family"
   "he cheated on me and then just broke it off"
   "And do you know what the weird thing is?"
@@ -104,7 +104,7 @@ Carol notices a young woman standing outside the main entrance to FinaLibre. The
   "That's what he said!"
   "or at least, that's what it all boiled down to:"
   "he had a dream, and now he knew that he wasn't going to have kids"
-  "At first I thought he was joking, but he got all serious and like:"
+  "At first, I thought he was joking, but he got all serious and like:"
   "'I really need you to understand this one thing'..."
   "and then he tells me about this dream he had..."
   "He met himself as older, only it wasn't him as such, but then again:"
@@ -120,15 +120,15 @@ Carol notices a young woman standing outside the main entrance to FinaLibre. The
   "They can't grieve in that same way"
   "I try to tell it like I remember it..."
   "Seriously... what do you say to something like that?"
-  "well, it sounded to me like the type of second-thoughts any young 'dude' might have"
+  "well, it sounded to me like the type of second thoughts any young 'dude' might have"
   "but his expression was dead serious, like he was telling me he had just been diagnosed with cancer and had a week left to live"
   "And I just couldn't... have it!"
-  "We got in a huge argument, and I ended up telling him that this whole thing with the dream was STUPID"
-  "and that it was just like him to come up with something stupid like that, and why didn't he just own up to being scared of being a parent, and he got really quiet after that"
+  "We got into a huge argument, and I ended up telling him that the whole thing with the dream was STUPID"
+  "and that it was just like him to come up with something stupid like that, and why didn't he just own up to being scared of being a parent and he got really quiet after that"
   "Like if I had really hurt his feelings"
-  "I really don't understand why that remark hit him like it did... but it did"
-  "I've realized later, that a lot of my own anger came from wanting to start a family more then I had been consciously aware and I know why I said the things I did, but if there was just one thing I could change about me and John..."
-  "If I could go back in time for just 10 minutes, I would want to try harder to understand what that dream was about..."
+  "I really don't understand why that remark got to him like that... but it did"
+  "I realized later, that a lot of my own anger came from wanting to start a family more than I had been consciously aware and I know why I said the things I did, but if there was just one thing I could change about me and John..."
+  "If I could go back in time for just 10 minutes, I would try harder to understand what that dream was about..."
   "because it feels like it was pretty central to understanding... him"
   "Well, look at me taking up your time like you were my shrink..."
 - (Carol) "No, it's totally alright..."
@@ -142,10 +142,10 @@ Carol notices a young woman standing outside the main entrance to FinaLibre. The
   "I think that was one of the things I liked about him from the start..."
   "he was really chill..."
   "about that, I mean..."
-  "he had this whole 'wound-up-crazy-tight-violent-murderer'-deal going for him, but he was really chill when it came to our relation..."
+  "he had this whole 'wound-up-crazy-tight-violent-murderer'-deal going for him, but he was really chill when it came to our relationship..."
   "I have a very active... social life..."
   "which scares off most men I meet..."
-  "even when they say they are cool with it, somehow it always end up being the elephant in the room..."
+  "even when they say they are cool with it, somehow it always ends up being the elephant in the room..."
   "but it was never like that with John..."
   "I have sort of a... reputation in the company..."
   "and to begin with, I thought maybe he hadn't heard about it, and that made me feel kinda worried that he thought we had something exclusive going and that he would then find out from our colleagues about..."
@@ -185,8 +185,8 @@ Carol notices a young woman standing outside the main entrance to FinaLibre. The
   "as he got deeper into the investigation, he became more and more consumed by it..."
   "obsessed..."
   "it was like he fell in love with Angela..."
-  "Angela was the dead girls name."
-  "I knew Angela for five years, and our relation was strained for the most part, and it really hit a nerve..."
+  "Angela was the dead girl's name."
+  "I knew Angela for five years, and our relationship was strained for the most part and it really hit a nerve..."
   "You see:"
   "it was kind of a theme with me and Angela, that I would fall in love with a guy, and then he would choose Angela over me..."
   "and here we were, after her death, and the same damn thing was happening again!"
@@ -211,7 +211,7 @@ Carol notices a young woman standing outside the main entrance to FinaLibre. The
   "Do you have any place you have to be?"
 - (Louisa) "Not at all" [smiling]
 - (Carol) "Alright, then I'll cut the tour short"
-  "- it's just more of these momma's boys in suit and tie anyways -"
+  "- it's just more of these momma's boys in suit and tie anyway -"
   "and we'll head for the basement"
 
 ... 
@@ -228,7 +228,7 @@ Carol knocks on the door to Sune's office in the basement, and when there is no 
 
 - (Carol) "Alright you old freak!"
   "Sune, allow me to introduce Louisa"
-  " - a person that was very dear to John"
+  " - a person who was very dear to John"
   "And Louisa, allow me to introduce Sune"
   "who undoubtedly has a lot of titles for his work here at FinaLibre..."
   "all of which boil down to being the village idiot"
@@ -241,7 +241,7 @@ The sound of Louisa's voice, makes Sune look up immediately.
   "..." [kind of staring]
   
 - (Carol) "Well, you know I always love hanging around you Sune..."
- "There's nothing quite like it for making one question ones own sanity..."
+ "There's nothing quite like it for making one question one's own sanity..."
   "but I have a really interesting appointment with re-counting our stock of paper clips so..."
 - (Sune) "Sure sure" [taking his eyes off Louisa only briefly, to look distantly at Carol]
 - (Carol) "Will you be alright with me leaving you here?"
@@ -255,10 +255,10 @@ The sound of Louisa's voice, makes Sune look up immediately.
   "that wasn't his name, but I'm no good with names..."
   "mind if we call him John?"
 - (Louisa) "That's fine... And thank you" [smiling]
-- (Sune) "Would you feel better if we talked outside in the sun-light?"
+- (Sune) "Would you feel better if we talked outside in the sunlight?"
 - (Louisa) "Here or there doesn't make any difference to me"
   "Why do you ask?"
-- (Sune) "Well, it's just that you are a totally normally sized woman, and I'm this super-masculine and over-powered man..."
+- (Sune) "Well, it's just that you are a totally normally sized woman, and I'm this super-masculine and overpowered man..."
   "Don't get me wrong:"
   "Carol is right about me being harmless and all, but how would you know that?"
   "I wouldn't blame you if you wanted to be out where people could see us and all..."
@@ -293,36 +293,36 @@ The sound of Louisa's voice, makes Sune look up immediately.
   "I'll pick one of them, and then we'll take it from there" 
 - (Sune) "Alright..."
   "Let me think..."
-  "Otherwise I'll just pick whatever I was thinking about, and that might be uninteresting..."
+  "Otherwise, I'll just pick whatever I was thinking about, and that might be uninteresting..."
 
 - (Sune) "OK. I've got it. In front of you are three doors:"
 
-- Surviving in the aftermath of nuclear war in the nuclear family: a personal tragedy from modern day family life
-- My theories on how Hollywood budget cuts has ultimately caused the death of the exploratory conversation and eroded social coherence
-- My experiences with childhood trauma brought on by extreme asthma attacks and how they have cast a long shadow on my workout-routine well into my early middle-age
+- Surviving in the aftermath of nuclear war in the nuclear family: a personal tragedy from modern-day family life
+- My theories on how Hollywood budget cuts have ultimately caused the death of the exploratory conversation and eroded social coherence
+- Childhood trauma brought on by extreme asthma attacks and how they have cast a long shadow on my workout routine well into my early middle-age
 
 - (Louisa) "Wow, those are quite the options..."
-  "Well, I don't care about your asthma attacks to be honest, and although we could probably have an intense debate about subject #2..."
-  "Alex, I choose door #1 and a tale about a broken marriage..."
+  "Well, I don't care about your asthma attacks to be honest, and although we could probably have an intense debate about subject number 2..."
+  "Alex, I choose door number 1 and a tale about a broken marriage..."
 - (Sune) "Excellent choice!"
   "OK, so have you ever noticed how limited our range of conversation has become?"
-  "On most topics there is a very limited set of responses/reactions that people expect you to choose from..."
+  "On most topics, there is a very limited set of responses/reactions that people expect you to choose from..."
   "and when the conversation is between a man and a woman..." [throws hands up in a 'don't-get-me-started'-gesture]
-  "almost any interactions is expected to be along the line of some light banter with an undertone of..."
+  "almost any interaction is expected to be along the lines of some light banter with an undertone of..."
   "Wait a minute...!"
   "..."
   "Why would you choose the one with the divorce?!"
   "What's wrong with you?!"
   "I just threw that one in there to make three!"
   "I was sure you would go for 2, and to be honest:"
-  "I'm glad you didn't go for 3, because that is still hella traumatic to me..."
+  "I'm glad you didn't choose 3 because that is still hella traumatic to me..."
   "Nobody ever chooses the first option!"
 - (Louisa) "Well funny man..."
   "It's my show, and I chose door number 1"
-  "now get on with the tale!" [taking a seat, leaning back in the chair and gesturing with her hands for him to get on with the show]
+  "now get on with the tale!" [taking a seat, leaning back in the chair, and gesturing with her hands for him to get on with the show]
 - (Sune) "Well alright then..."
   "Let me just rewind my head..."
-  "I sort of had the first 5 minutes of conversation-theory all lined up..."
+  "I sort of had the first 5 minutes of conversation theory all lined up..."
   "OK..."
   "I met my X-wife when we were 22..." 
   "About a year after I met her, she gave birth to our daughter"
@@ -338,21 +338,21 @@ The sound of Louisa's voice, makes Sune look up immediately.
   "She would only sleep when she was being driven in her carriage because her stomach ached..."
   "So I would take these long walks of up to 2 hours, so my girlfriend"
   "- we weren't married then -"
-  "I'm a Buddhist-Viking so I am allowed to have children outside of wed-lock" [whispering conspiratorially]
+  "I'm a Buddhist Viking so I am allowed to have children outside of wed-lock" [whispering conspiratorially]
   "... so my girlfriend could sleep"
   "And I had dreams... for her!"
   "My daughter, that is"
   "I wanted her to be happy and have a good life..."
   "Which doesn't really express what I'm trying to say..."
-  "I wanted her to be whole, if that makes any sense..."
+  "I wanted her to be whole... if that makes any sense..."
   "I've always felt empty in some way..."
   "not entirely soulless, but not entirely 'not soulless' either..."
-  "and in some inarticulate way, I thought I could hug, and dance and sing her whole..."
+  "and in some inarticulate way, I thought I could hug, dance and, sing her whole..."
   "..."
 - (Louisa) "..." [now taking on a serious look]
   "Go on... I think this is what I came here for"
 - (Sune) "If we just take a snapshot of that instant..."
-  "of me singing to our daughter in the living-room of 'then' and hang it on the mental blackboard..."
+  "of me singing to our daughter in the living room of 'then' and hang it on the mental blackboard..."
   "and let's flash forward a couple of years to when my son was born, and I would take the same kinds of walks with him in the baby carriage..."
   "It was at the beginning of Fall and he was sleeping..."
   "and it had gotten dark and I walked by this villa"
@@ -361,37 +361,37 @@ The sound of Louisa's voice, makes Sune look up immediately.
   "all sitting around the family table having dinner..."
   "and it seemed to me like what family bliss must be like..."
   "house and car of your own..."
-  "not living crammed into a small apartment with other people living on top, bottom and all around you..."
+  "not living crammed into a small apartment with other people living on top, bottom, and all around you..."
   "and I believed, that if I worked hard for it..."
-  "that's what we would have some day..."
+  "that's what we would have someday..."
   "Let's put a picture of that scene... here..." [hanging yet another photo up on the mental blackboard] 
   "And then let's just speed up this showing a bit..."
   "so we can actually see my behavior getting more and more erratic"
   "- and incompatible with family life -"
   "as 30+ years of living with an undiagnosed behavioral disorder becomes ever more noticeable in my behavior..."
-  "getting up at 3:30 to hit the gym and go to work.."
+  "getting up at 3:30 to hit the gym and go to work..."
   "or coming home from work when everyone else is asleep..."
   "and generally failing horribly at being a dad and a husband..."  
   "And now, looking back, I have a blackboard full of photographs and broken promises, and I know that I am totally the one who hung up those photos and broke those promises, but it feels like I'm living in a world that has gone under..."
   "like I passed out drunk before the party got started and wake up now that everybody's left, and I have this constant impulse that I should make it right..."
   "fix what I have broken..."
   "but there is nothing I can do to fix anything, and I can't make that impulse go away..."
-  "for what it's worth, it seems like both my children and X-wife are doing really good now..."
+  "for what it's worth, it seems like both my children and X-wife are doing really well now..."
   "and I'm glad they are..." [smiling]
-  "and things being as they, I'm glad I'm the only person stuck in the here..."
+  "and things being as they are, I'm glad I'm the only person stuck in the here..."
   "in the world that went under with the mental blackboard and all..."
   "but I sure would like to get out of here..." [smiling]
   "But..." [pensive]
   "If some sick omnipotent being with Napoleon issues offered me the choice between getting out of here on the one hand..."
   "and my children growing up to become whole human beings..." 
-  "well..." [gesturing 'I guess it's no so bad in here...']
+  "well..." [gesturing 'I guess it's not so bad in here...']
 
-Throughout the most of his trip down memory lane Sune had been staring into the desk in-front of him. Only now, when he feels like his story has been told, does he look up at Louisa, and realizes that she is sitting as if frozen in place. 
+Throughout most of his trip down memory lane Sune had been staring into the desk in front of him. Only now, when he feels like his story has been told, does he look up at Louisa, and realize that she is sitting as if frozen in place. 
 
 - (Sune) "Are you alright?"
   "You know, the story is over now..."
-  "I know I am a really great story teller, and you are probably preparing for a gut-punching twist..."
-  "like in a Hollywood sob-story..."
+  "I know I am a really great storyteller, and you are probably preparing for a gut-punching twist..."
+  "like in a Hollywood sob story..."
   "but there's no death or anything..."
   "no darn bees..."
   "both my kids are alive and doing better than they have in years..."
@@ -402,9 +402,9 @@ Throughout the most of his trip down memory lane Sune had been staring into the 
   "I'm not sure yet why I needed to hear that story, but I did..."
   "and..."
   "I know what you need!"
-- (Sune) "Don't tell me you sell farming supplies whole-sale..." [looking skeptical]   
+- (Sune) "Don't tell me you sell farming supplies wholesale..." [looking skeptical]   
 - (Louisa) "..." [expressing: 'WHAT?']
-  "You need for somebody to take you out into the world, and show you that it's still there..."
+  "You need somebody to take you out into the world, and show you that it's still there..."
   "And that's exactly what I am going to do!"
   "Do you dance?"
 - (Sune) "I only know salsa"
@@ -434,21 +434,21 @@ Walking home to Louisa's place after a couple of hours of dancing.
   "I'm almost sorry, but I can't really see the danger here" [starts walking again]
   "I would even ask you up for a drink, but I fear that might start you on your 'Hollywood-killed-spontaneous-interaction'-ramblings..."
   "but on the other hand...." [pensive]
-  "I feel uneasy about having the end to this conversation determined by how long it takes us to walk to my place..."
+  "I feel uneasy about having the end of this conversation determined by how long it takes us to walk to my place..."
   "Alright..."
   "I won't ask you to come up to my apartment..."
   "but I'm commanding you to follow me home and escort me to my apartment"
-  "come into the kitchen and sit down and converse with me..."
-  "at some point I will throw my hands in the air and exclaim: 'Good Golly, I think we've reached the end of this exciting evening'"
+  "come into the kitchen, sit down, and converse with me..."
+  "at some point, I will throw my hands in the air and exclaim: 'Good Golly, I think we've reached the end of this exciting evening'"
   "at which point I will walk you to the entrance and you will give me an awkward last-minute hug..."
   "you know: scratch that... "
   "You strike me as the kind of person who would put way too much thought into what is appropriate social etiquette"
   "decide on a hand-shake to not seem presumptuous"
   "and when I hit you with that 'what-the-fuck-is-wrong-with-you'-look..."
   "you'll jump ship and go in for a hug to not seem rude"
-  "but by then it'll be too late, and what will always come first to mind from this otherwise really cozy evening, will be that horribly awkward ending..."
+  "but by then it'll be too late, and what will always come first to mind from this otherwise really cozy evening will be that horribly awkward ending..."
   "No... I'll walk you to the entrance and when I say:'hug'"
-  "you'll give me a 10 second hug like we'd known each other for a long time and had just shared a really tough time..."
+  "you'll give me a 10-second hug like we've known each other for a long time and have just shared a really tough time..."
   "because even though we have only just met, that's exactly how it is"
 - (Sune) "..." [smiles]
 
@@ -467,16 +467,16 @@ They walk for about 2 minutes in silence.
 As they reach the door to the stairway of her apartment building:
 
 - (Louisa) "What are you thinking about?"
-- (Sune) "Those poor bastards who drift off from shore in blowup rubber-rafts at the beach every Summer"
+- (Sune) "Those poor bastards who drift off from shore in blowup rubber rafts at the beach every Summer"
 - (Louisa) "..." [trying to suppress an 'are your kidding me?'-expression]
 
-On the 2nd floor, Louisa gets out her key-chain and unlocks the entry-door to her apartment and gestures for him to go in... Both of them are trying to hide the fact that the short climb up the stairs have left them short-winded.
+On the 2nd floor, Louisa gets out her keychain, unlocks the entry door to her apartment and gestures for him to go in... Both of them are trying to hide the fact that the short climb up the stairs has left them short-winded.
 
-- (Louisa) "Were you really thinking about poor bastards in rubber-rafts just now?"
+- (Louisa) "Were you really thinking about poor bastards in rubber rafts just now?"
 - (Sune) "Well, yeah, figuratively speaking"
-- (Louisa) "You should expand on that..."
+- (Louisa) "Please expand..."
 - (Sune) "Well, you know..."
-  "the coast guard makes a fuss about telling people to respect the damn current every year..."
+  "the Coast Guard makes a fuss about telling people to respect the damn current every year..."
   "and every time some sucker floats out to sea and they have to launch the choppers to save their ass, it makes the national news headlines..."
   "but well... it happens again and again" [he looks at her and they lock eyes]
   "It just seems ingrained in us..."
@@ -486,8 +486,8 @@ On the 2nd floor, Louisa gets out her key-chain and unlocks the entry-door to he
 - (Louisa) "... and then we realize that our fate is in the hands of the current..."
   "and by then it's too late..."
 
-They maintain eye-contact as their heads near each other and their lips touch for the first kiss, and then their eyes close, and like two people drifting off into to the great void, they both know that they are now in the hands of greater powers and their kiss turns deeper and more passionate and the current is leading them away from shore at an accelerating pace, as their lips part and he leans slightly forward and she leans her head against his neck and shoulders and he lets his left hand slide over her soft hair, and the current leads them slowly back towards the shore. 
+They maintain eye contact as their heads near each other and their lips touch for the first kiss, and then their eyes close, and like two people drifting off into to the great void, they both know that they are now in the hands of greater powers and their kiss turns deeper and more passionate and the current is leading them away from shore at an accelerating pace. Their lips part and he leans slightly forward and she leans her head against his neck and shoulders and he lets his left hand slide over her soft hair, and the current rocks them slowly back towards the shore. 
 For the next 10 minutes, they hold each other. 
-He holds her and tries to let go of a past that once was as she holds him and tries to let go of a future that never will be, and in the end he leaves the apartment without either of them saying another word, because they had already spoken all the words that needed to be spoken. 
+He holds her and tries to let go of a past that once was as she holds him and tries to let go of a future that never will be, and in the end he leaves the apartment without either of them saying another word because they had already spoken all the words that needed to be spoken. 
   
-The last thought that goes through Louisa's mind before she drifts off to sleep that night is: 'I think I forgive you John'
+The last thought that goes through Louisa's mind before she drifts off to sleep that night is: 'I think I forgive you, John'
