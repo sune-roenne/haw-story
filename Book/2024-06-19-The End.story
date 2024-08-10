@@ -4,10 +4,10 @@
    "Aliases" : {
       "john": "oldjohn"
    },
-   "RevisedOn" : "2024-07-28"
+   "RevisedOn" : "2024-08-10"
 }
 
-Susan is looking troubled today. She is wearing sunglasses inside the building, and she hardly says a word unless someone directly addresses her. Most of her colleagues notice, but most of her colleagues feel they don't know her well enough to ask her about it. Ben however, does not consider himself to be in the set of 'most of Susan's colleagues'. In fact: he is more than happy to have a reason to talk to Susan.
+Susan is looking troubled today. She is wearing sunglasses inside the building, and she hardly says a word unless someone directly addresses her. Most of her colleagues notice, but most of her colleagues feel they don't know her well enough to ask her about it. Ben, however, does not consider himself to be in the set of 'most of Susan's colleagues'. In fact: he is more than happy to have a reason to talk to Susan.
 
 - (Ben) "What's wrong Susan?"
 - (Susan) "It's nothing"
@@ -34,7 +34,7 @@ Susan is looking troubled today. She is wearing sunglasses inside the building, 
 - (Donnie) "You can't blame me for taking precautions..."
   "Last time I came down here, 'my wife' was hiring a couple of meth-heads to find and torture me..."
   "very life-like" [compliment]
-- (Sune) "Yeah... That was a good one!" [wipes a small tear from corner of one eye]
+- (Sune) "Yeah... That was a good one!" [wipes a small tear from the corner of one eye]
   "Look, if you're here about my character-development program, you might as well.."
 - (Donnie) "..." [raises hand dismissively]
   "Wouldn't dream of it"
@@ -79,7 +79,7 @@ NO! She knew that this would in some way or other come down to being a leap of f
 
 ...
 
-- (Donnie) "Why did Frank do what he it?"
+- (Donnie) "Why did Frank do the things he did?"
 - (Sune) "It's hard to say"
   "Some of what I am about to say is based on conjectures on my part, while some of it is based on hard facts"
   "At the end of the day, I think Frank was a small, rotten person and I think he knew that better than anyone"
@@ -100,7 +100,7 @@ NO! She knew that this would in some way or other come down to being a leap of f
   "Because he never forgave you for destroying his holy mission"
   "He in fact hated you for it, and if there was one thing that drove him during the last few years, it was his lust for vengeance"
   "on you and FinaLibre"
-- (Donnie) "But why did he kill Angela if he wanted revenge over me?"
+- (Donnie) "But why did he kill Angela if he wanted revenge on me?"
   "Surely he could have found a way to get rid of me..."
   "It's not like I keep any kind of security detail"
 - (Sune) "Most importantly: it wouldn't be enough"
@@ -116,9 +116,9 @@ NO! She knew that this would in some way or other come down to being a leap of f
   "I'm unsure on that part..."
   "she in any case used the access credentials to post an anonymous message on the society web page that John couldn't overlook"
   "prompting him to show up for the job interview on May 22nd"
-  "Frank found out, and promptly killed her"
-- (Donnie) "I'm afraid to ask, because I fear that I already know the answer, but:"
- "this isn't over yet, is it?" [looking worried]
+  "Frank found out and promptly killed her"
+- (Donnie) "I'm afraid to ask because I fear that I already know the answer, but:"
+  "this isn't over yet, is it?" [looking worried]
 - (Sune) "And I don't like telling you..." 
   "or even saying it out loud:"
   "No, it's not over..."
@@ -126,10 +126,11 @@ NO! She knew that this would in some way or other come down to being a leap of f
 
 ...
 
-- (Carol) "What is it John. You are scaring me"
+- (Carol) "What is it, John?"
+  "You are scaring me"
 - (John) "..." [taking out a photo printout, that was tucked into the notepad he was carrying, handing the photo over to Carol]
 - (Carol) "Oh my God! I didn't do this John!"
-- (John) "I believe you Carol!" [looking into her eyes with sincerity and comfort]
+- (John) "I believe you, Carol!" [looking into her eyes with sincerity and comfort]
   "But I'm afraid there's going to be a lot of people that won't believe you, and that puts you in grave danger"
   "But if it's any comfort, I think I am in equally grave danger..." [sad smile]
   "Let me tell you about a fucked up visit I had in my apartment last night"
@@ -142,39 +143,39 @@ NO! She knew that this would in some way or other come down to being a leap of f
   "The one John and Frank were members of"
   "You earn virtual currency by 'clearing marks' posted on the board"
   "Meaning: someone will put up the details of a person and a reward in aforementioned virtual currency to go to the person that kills the mark"
-  "Only people who have directly killed someone may be put up on the board, and the poster needs to supply proof of the marks crimes"
+  "Only people who have directly killed someone may be put up on the board, and the poster needs to supply proof of the mark's crimes"
   "The term 'proof' here, is interpreted a bit more lax than it is in most legal courts, but every submission is reviewed by the administrators of the site before it is made accessible to the users"
   "On some occasions, the administrators will bend the rules a little and publish a reward for someone who has committed a specifically heinous sex crime even if he didn't murder anyone"
-  "The currency you earn, can only be spent on the site to well..."
+  "The currency you earn can only be spent on the site to well..."
   "order other murders"
 - (Donnie) "And people buy into this?"
 - (Sune) "Well, yes..."
-  "my estimate is, that the site has around 1.500 users spread out over Scandinavia, Germany and the Benelux"
+  "my estimate is, that the site has around 1.500 users spread out over Scandinavia, Germany, and the Benelux"
 - (Donnie) "Are people really so stupid that they can't see how this could be massively abused by the wrong kinds of people?"
 - (Sune) "Well, yes:"
   "people are stupid"
   "and of course: a lot of people aren't presented with a choice..."
   "sometimes the people behind the Banshee Bulletin"
   " - known simply as the Banshees - " 
-  "will either catch someone in the act of killing, or will uncover information and present the perpetrator with a choice:"
+  "will either catch someone in the act of killing or will uncover information and present the perpetrator with a choice:"
   "join or die..."
   "Even the people that join on their own accord, often forget to read the EULA: once you're in, you don't leave"
   "If anyone discovers your identity..."
   "well, you're a killer as well so..."
 - (Donnie) "So every user is automatically a mark?"
 - (Sune) "Yes. Exactly"
-  "And anyone who kills him, will receive all of his virtual currency as a reward, and the crime will be covered up in the same manner that every other kill under the Banshee setup is"
-  "Failure to execute a job at least once every three months, means your contact details automatically gets published"
-- (Donnie) "Leaving the users to cleanup after themselves. Jesus!"
+  "And anyone who kills him will receive all of his virtual currency as a reward, and the crime will be covered up in the same manner that every other kill under the Banshee setup is"
+  "Failure to execute a job at least once every three months means your contact details automatically get published"
+- (Donnie) "Leaving the users to clean up after themselves. Jesus!"
 - (Sune) "I believe that's what happened to Jacob from Client Management"
 - (Donnie) "Who the hell is behind this?"
-  "I take it that international law enforcement must be in on it?"
+  "I take it that international law enforcement must be in on it...?"
 - (Sune) "I can't see how it could work without at least some law enforcement personnel in on it..."
   "but I don't think it takes that many..."
 - (Donnie) "And I bet there's someone working a money angle as well, right?"
 - (Sune) "Oh, most certainly"
   "A lot of the people on the list are very influential people"
-  "CEO's, government officials and so on"
+  "CEOs, government officials, and so on"
   "If I for instance was a big swinging CEO of some multinational company, and I wanted to acquire another company..."
   "and I happened to find out that the CEO and some of his staff were on the list...?"
   "I'm sure there are more creative ways to cash in, but I'm almost certain that someone is making a fuckton of cash somewhere out there"
@@ -183,12 +184,12 @@ NO! She knew that this would in some way or other come down to being a leap of f
   "Do you remember this?"
   "It's a pretty lifelike picture of you killing the fat kid"
 - (Donnie) "But I didn't kill him!"
-  "I opened my door, found him, thought I heard something and picked up the hammer"
+  "I opened my door, found him, thought I heard something, and picked up the hammer"
 - (Sune) "I'm pretty sure that was Frank driving you to pick up the hammer so he could catch that photo of you" [pointing at the photo]
   "And I doubt very much that the photo would hold up in a court of law"
   "But on the Banshee Bulletin, it's undeniable proof of guilt"
   "About an hour ago, twenty new marks were published on the bulletin..."
-  "you were one of them, the 19 others all work at FinaLibre.."
+  "you were one of them, the 19 others all work at FinaLibre..."
   "The so-called 'evidence' is akin to what you are holding in your hand..."
   "some of it may be legit evidence..."
   "I mean, there is probably a couple of real assholes working here, right?"
@@ -203,9 +204,9 @@ NO! She knew that this would in some way or other come down to being a leap of f
   "But if Frank"
   "- and I'm almost 100% certain Frank set this up before his death -"
   "was able to submit 20 people as marks, I'm sure he could have found some way around having 20 people enlisted as users as well..."
-  "If in no other way, then by working the money angle with the Banshees"
+  "If in no other way than by working the money angle with the Banshees"
   "And I'm pretty sure Frank has been doing some recruiting over the past few years..."
-  "I am sure about Jacob, Lonnie, Leo and Martin but there could be others"
+  "I am sure about Jacob, Lonnie, Leo, and Martin but there could be others"
 - (Donnie) "Jesus Christ!"
   "So we may have 20+ employees in this building, all highly motivated to kill 20 other employees, AT THIS MOMENT?!"  
 - (Sune) "That about sums it up" [smiling]
@@ -214,13 +215,13 @@ NO! She knew that this would in some way or other come down to being a leap of f
   "Are you one of the 20 'marks'..."
   "or 20+ assassins in this?"
 - (Sune) "Well, yes and no..."
-  "I signed up about 2 and a half year ago..."
+  "I signed up about 2 and a half years ago..."
   "I didn't know about Frank..."
   "I was almost certain of John's membership, but the time never seemed right to bring it up until the very end" [smiling satisfied]
   "Don't worry..."
   "I just signed up out of FOMO..."
   "You know how I always need to be on the bleeding edge of things..."
-  "Google+, facebook..."
+  "Google+, Facebook..."
   "all those social platforms"
   "And I only ever kill real scumbags..."
   "Child molesters and rapists..."
@@ -231,7 +232,7 @@ NO! She knew that this would in some way or other come down to being a leap of f
   "Plus... I have a date with Valerie the Valkyrie, and I think this may be my ticket" [ecstatic grin]
   "But we need to act fast Donnie..."
   "I've been thinking about our options, and I think we stand a 50/50 chance of making it"
-  "but we need to act fast and bring everyone on-board before anyone does anything... 'irreversible'..."
+  "but we need to act fast and bring everyone on board before anyone does anything... 'irreversible'..."
 
 ...
   
