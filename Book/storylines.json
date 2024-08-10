@@ -9,7 +9,10 @@
 			"Text" : "Floating Clouds Stock Videos by Vecteezy",
 			"Link" : "https://www.vecteezy.com/free-videos/floating-clouds"
 		},
-		"SiteFont": "Shadows Into Light"
+		"SiteFont": "Shadows Into Light",
+		"AudioBook" : {
+			"Intro": "storyline_dreams.mp3"
+		}
 	},
 	{
 		"StoryLine": "john",
@@ -20,7 +23,10 @@
 			"Text" : "Dark underwater ocean waves ripple and flow with light rays by Vecteezy",
 			"Link" : "https://www.vecteezy.com/video/5314132-dark-underwater-ocean-waves-ripple-and-flow-with-light-rays-loop"
 		},
-		"SiteFont": "Trade Winds"
+		"SiteFont": "Trade Winds",
+		"AudioBook" : {
+			"Intro": "storyline_john.mp3"
+		}
 	},
 	{
 		"StoryLine": "keyevents",
@@ -31,7 +37,10 @@
 			"Text" : "Video by Tiger Lily from Pexels",
 			"Link" : "https://www.pexels.com/video/team-meeting-7147921/"
 		},
-		"SiteFont": "Old Standard TT"
+		"SiteFont": "Old Standard TT",
+		"AudioBook" : {
+			"Intro": "storyline_keyevents.mp3"
+		}
 	},
 	{
 		"StoryLine": "lunch",
@@ -42,7 +51,10 @@
 			"Text" : "Lunch Stock Videos by Vecteezy",
 			"Link" : "https://www.vecteezy.com/free-videos/lunch"
 		},
-		"SiteFont": "Gloria Halleluja"
+		"SiteFont": "Gloria Halleluja",
+		"AudioBook" : {
+			"Intro": "storyline_lunch.mp3"
+		}
 	},
 	{
 		"StoryLine": "detectives",
@@ -53,7 +65,10 @@
 			"Text" : "Murder Stock Videos by Vecteezy",
 			"Link" : "https://www.vecteezy.com/free-videos/murder"
 		},
-		"SiteFont": "Trade Winds"
+		"SiteFont": "Trade Winds",
+		"AudioBook" : {
+			"Intro": "storyline_three-detectives.mp3"
+		}
 	},
 	{
 		"StoryLine": "aftermath",
@@ -64,7 +79,10 @@
 			"Text" : "Red Sun Stock Videos by Vecteezy",
 			"Link" : "https://www.vecteezy.com/free-videos/red-sun"
 		},
-		"SiteFont": "Gloria Halleluja"
+		"SiteFont": "Gloria Halleluja",
+		"AudioBook" : {
+			"Intro": "storyline_dreams"
+		}
 	}	
 	]
 	

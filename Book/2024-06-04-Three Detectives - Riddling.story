@@ -24,7 +24,7 @@
   "I only ever wanted perfection!"
   "And as it turns out, the answer was right there all along!"
   "It really isn't about the journey..."
-- (Sune and Albert in chorus) "...It's the friends you make along the way" [Sune, wiping an actual tear off his cheek]
+- (Sune and Albert in chorus) "It's the friends you make along the way" [Sune, wiping an actual tear off his cheek]
 - (John) "I think you may have mispronounced 'ACCOMPLICE'" [making sure to stress that last word, and the fact that he had used the singular form]
 
 'There really is something rotten about this basement!' John thinks to himself, as he hears Sune and Albert lay out their plan to scare the fear of death into some young - most likely undeserving - new hire at FinaLibre, who's only provable crime had been to accept the job offer in what he thought of - and what probably indeed is - a hip new FinTech company in the prime of its existence. It was no more than 5 hours ago, that this little band of amateur detectives assembled in Sune's office in the basement for their first meeting, and John practically had to drag Albert along by the boots. The guy was shaking so hard walking down the stairs as long-since repressed memories of some sick prank came topside in the ocean of Albert's mind. And then look at the 'murderous-little-bastard'-to-be now!
