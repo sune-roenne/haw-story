@@ -6,31 +6,31 @@
       "Service attendant" : "angela",
       "Familiar service attendant" : "angela"
    },
-   "RevisedOn" : "2024-07-27"
+   "RevisedOn" : "2024-08-10"
 }
 
 
-As has now become a daily ritual to John, the first thing he does when waking up in the morning is to check his wrist. 'AWAY' it says... That must mean he is awake. Wait a minute... John checks again and notices that his hands look... off. 'I was wrong' John thinks and gets out of bed. John doesn't bother with any type of morning routine; he just walks out of his main entrance and into the stairway outside in his underwear. Once down on the street, he sets off running towards the train station.
+As has now become a daily ritual for John, the first thing he does when waking up in the morning is to check his wrist. 'AWAY' it says... That must mean he is awake. Wait a minute... John checks again and notices that his hands look... off. 'I was wrong' John thinks and gets out of bed. John doesn't bother with any type of morning routine; he just walks out of his main entrance and into the stairway outside in his underwear. Once down on the street, he sets off running towards the train station.
 
 He is running at a steady pace when he passes his Elementary School teacher Miss Jansen.
 
 - (Miss Jansen) "How about that radical John?" [shouting after him]
 - (John) "It's just Frank Miss Jansen" [without stopping or turning around]
-- (Miss Jansen) "And the lake-girl and the corridor?"
+- (Miss Jansen) "And the Lake Girl and the corridor?"
 - (John) "It's on my ToDo"
 - (Miss Jansen) "Hurry up and apply yourself John"
 
-Once again, he is just in time to see the train pull away from the station. John knows that trying to catch up to it is futile, since it has already gathered up speed to be going faster than he can run, but he does begin to accelerate his run. A well-dressed gentleman is standing some 10 meters away from John, and when he notices that John is closing in on him at high-speed he addresses him.
+Once again, he is just in time to see the train pull away from the station. John knows that trying to catch up to it is futile since it has already gathered up speed to be going faster than he can run, but he does begin to accelerate his run. A well-dressed gentleman is standing some 10 meters away from John, and when he notices that John is closing in on him at high speed he addresses him.
 
 - (Well dressed gentleman) "That's no outfit for going to..."
 
 And that is all the man has a chance to say before John lands a flying knee to his face, and yet another blood-dripping therapy session plays out.
 
-John is looking down at the sad remains of what was once the head of aforementioned well-dressed gentleman, cursing the circumstances of this damn scenario that will not let him catch that train, when he is interrupted by the voice a train station service attendant with a mop and a bucket of water.
+John is looking down at the sad remains of what was once the head of the aforementioned well-dressed gentleman, cursing the circumstances of this damn scenario that will not let him catch that train, when he is interrupted by the voice of a train station service attendant with a mop and a bucket of water.
 
-- (Service attendant) "Do you mind sir?"
+- (Service attendant) "Do you mind, sir?"
 
-John stares in amazement at the young woman in the denim overalls and denim cap, as she begins washing away the blood, splinters of skull and chunks of brain matter off the platform.
+John stares in amazement at the young woman in the denim overalls and denim cap as she begins washing away the blood, splinters of skull, and chunks of brain matter off the platform.
 
 - (Service attendant) "Can I help you sir?"
 - (John) "You look familiar"
