@@ -2,12 +2,11 @@
    "ChapterTitle": "John is Riddled",
    "StoryLineKey": "dreams",
    "Aliases" : null,
-   "RevisedOn" : "2024-07-27"
+   "RevisedOn" : "2024-08-10"
 }
 
-
-John is jogging towards the train station, cursing his poor time management skills. He has a feeling like he had been on time right up until it's was time to actually leave the apartment, and then something had happened, and now he is running late. John believes that he can still make his train, if only he runs the rest of the way. It's still pretty chilly for a Summer morning, but he may have to take a shower and change when he gets into the office, but it beats having to wait 20 minutes for the next train to Thousand Acre Forest. 
-John doesn't immediately recognize the old lady when he runs by her, but when she calls out his name, he knows that there is no getting around it. He's going to have be polite, and stop and have a talk with her. He owes Miss Jansen that much.
+John is jogging towards the train station, cursing his poor time management skills. He has a feeling like he had been on time right up until it was time to actually leave the apartment, and then something had happened, and now he is running late. John believes that he can still make his train if only he runs the rest of the way. It's still pretty chilly for a Summer morning, but he may have to take a shower and change when he gets into the office, but it beats having to wait 20 minutes for the next train to Thousand Acre Forest. 
+John doesn't immediately recognize the old lady when he runs by her, but when she calls out his name, he knows that there is no getting around it. He's going to have to be polite, and stop and have a talk with her. He owes Miss Jansen that much.
 
 - (Miss Jansen) "JOHN! Is that you?"
 - (John) "So it is, Miss Jansen"
@@ -32,23 +31,23 @@ John doesn't doubt it. Miss Jansen had been really good to him in school, and ev
   "I sometimes fear that maybe I smothered you as a child, and didn't let you realize your full potential..."
   "letting you slide through life too easy"
 - (John) "Certainly not!"
-  "Well, you may have made life easier on me, but I'm not sure I would have been a very nice person today if it wasn't for your influence" [smiling]
+  "Well, you may have made life easier for me, but I'm not sure I would have been a very nice person today if it wasn't for your influence" [smiling]
 - (Miss Jansen) "But you are a nice person now?" [looking at him a little eerily]
 - (John) "I'd like to think so..."
-  "Look Miss Jansen, it's great to see you again but I'm running a little late and..."
+  "Look, Miss Jansen, it's great to see you again but I'm running a little late and..."
 - (Miss Jansen) "I've got one for you!"
   "How do you make a square radical?"
-- (John) "Is it a joke or puzzle?"
+- (John) "Is it a joke or a puzzle?"
 - (Miss Jansen) "Does that make any difference John?"
 - (John) "It does narrow down the search a little"
-- (Miss Jansen) "Well, it's a little of both i suppose..."
+- (Miss Jansen) "Well, it's a little of both, I suppose..."
   "Like so many other things in life"
 - (John) "Hmmm... I can't figure it out"
   "How do you make a square radical Miss Jansen?"
 - (Miss Jansen) "No John!"
   "I'm not going to let you take the easy way out this time!"
   "You have to apply yourself!"
-  "Anyways, you don't have to figure it right now"
+  "Anyways, you don't have to figure it out right now"
   "Why don't you think about it a little, and see if maybe it comes to you?"
 
 John is starting to get a bad feeling about the situation. Miss Jansen is definitely not the teacher he remembered from 9 years of elementary school, and there is something about the way she looks at him that makes him feel uneasy.  
@@ -63,13 +62,13 @@ John could kick himself for not having seen it before. There really had been ple
 - (John) "Because she's a murderous bitch who's going to drown me in that lake if I get close enough to let her"
 - (Miss Jansen) "How will you know before you've tried it?"
 
-John DID know, because John HAD tried it, and there were other things wrong with the Lake-Girl-scene that totally justified John's urge to suppress it.
+John DID know, because John HAD tried it, and there were other things wrong with the Lake-Girl scene that totally justified John's urge to suppress it.
 
 - (John) "What do you want Miss Jansen?"
 - (Miss Jansen) "I want you to apply yourself John!"
   "You had so many options available to you, and you flushed them all down the pisser with drugs and anger issues!"
   "Most of your life, you've breezed through, always picking the path of least resistance, and when life gave you lemons..."
-  "you either through them away in anger or beat someone up and mugged them so you had money to buy sodapop"
+  "you either through them away in anger or beat someone up and mugged them so you had money to buy soda pop"
 - (John) "That's not entirely true"
   "But you have made your point, and I have gotten the message"
 - (Miss Jansen) "That's good John!"
@@ -85,7 +84,7 @@ John DID know, because John HAD tried it, and there were other things wrong with
 
 - (John) "What is hiding in the shadows?"
   "There's a man isn't there?"
-- (Miss Jansen) "The shadows are YOUR domain John"
+- (Miss Jansen) "The shadows are YOUR domain, John"
 - (John) "What hallway are you talking about?"
 - (Miss Jansen) "Start with the girl in the lake John..."
   "you'll find out about the hallway later..."
@@ -105,12 +104,12 @@ John enters the loading area of the train station, in time to glimpse the train 
   "I'm letting out emotions, which is something real people do, so they don't explode in fits of screaming rage at the slightest provocation"
 - (Job interview guy) "Well, you are just going to have to find a more civil outlet for your frustration!"
 
-At this point, John has started to dress down, taking of his tie and cuff links. It's not that it really matters, with this being a dream and all and what does he care if he gets his imaginary suit dirty, but he kind of likes the ritual. It's a little like cracking your knuckles and neck.
+At this point, John has started to dress down, taking off his tie and cuff links. It's not that it really matters, with this being a dream and all and what does he care if he gets his imaginary suit dirty, but he kind of likes the ritual. It's a little like cracking your knuckles and neck.
 
-- (Job interview guy) "I don't like that look in your eyes young man!"
+- (Job interview guy) "I don't like that look in your eyes, young man!"
 - (John) "Keep talking"
 
-Job interview guy does keep talking and screaming and crying as long as he remains conscious, but even though John's mind finds excuses to keep the man alive and screaming, he knows that the therapy-session must end at some point. As he walks out of the train station, the cleaning crew comes rushing in to clean up the blood and various other body fluids the bloody corpse has expulsed during the massacre. 
+Job interview guy does keep talking and screaming and crying as long as he remains conscious, but even though John's mind finds excuses to keep the man alive and screaming, he knows that the therapy session must end at some point. As he walks out of the train station, the cleaning crew comes rushing in to clean up the blood and various other body fluids the bloody corpse has expulsed during the massacre. 
 The next thing John is aware of is, that he is passing through that small passageway between dream and awake; the point where you know you are awake, but can still remember your dream. John reaches out for his phone, and sends himself a message that reads:
 
 - GET ON THAT TRAIN
