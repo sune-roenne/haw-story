@@ -5,7 +5,7 @@
       "New John": "john",
 	  "Other John": "oldjohn"
    },
-   "RevisedOn" : "2024-07-26"
+   "RevisedOn" : "2024-08-10"
 }
 
 
@@ -18,15 +18,15 @@ As they are walking in silence towards the cafeteria, Carol - without any appare
 
 - (Carol) "John, you seem like a nice person, but I'm not going to have sex with you"
 - (John) "I'm sorry to hear that, might have been fun" [looks at her while talking, expressionless, never stops walking]
-- (Carol) "...Well..."
-- (John) "..." [looks at hear, raises eyebrow]
+- (Carol) "Well..."
+- (John) "..." [looks at her, raises eyebrow]
 - (Carol) "..." [deciding against a retort]
 
 - (Carol) "Uuuh... There's the gang... I'll introduce you"
   "Hello gang, say hello to John"
 - (The gang) "Hello John"
 - (Carol) "And John, this is Susan, Ben, Mike, Cecil, Karl and... John"
-- (Ben) "Look, I can already tell this isn't going to work out... You guys are going to have to duke it out about who's John and who's not-John"
+- (Ben) "Look, I can already tell this isn't going to work out... You guys are going to have to duke it out about who's John and who's Not-John"
 
 Without moving, John does a bottom-to-top scan of... John, then looks at him and shrugs his shoulder in the universal 'You wanna go?'-gesture.
 
@@ -85,7 +85,7 @@ Without moving, John does a bottom-to-top scan of... John, then looks at him and
 - (Carol) "Oh no! Stop that!"
   "Did we not agree that we wouldn't be having THAT discussion again?"
 - (Susan) "Yes we did!"
-  "Because you guys always end up sounding like a pair of whining bitches whenever we discuss this, like the world is run by evil women who's only pleasure come from killing your fun!"
+  "Because you guys always end up sounding like a pair of whining bitches whenever we discuss this like the world is run by evil women who's only pleasure comes from killing your fun!"
 - (Karl) "That's crossing a line, but since it's coming from you..." [shrugs]
   "But alright, let's de-personalize here:"
   "Do you guys agree or disagree that in general terms, in this society we live in now, it's usually the woman who is in control of what activities the couple participates in?"
@@ -100,7 +100,7 @@ Without moving, John does a bottom-to-top scan of... John, then looks at him and
   "You know, it must have been less than a week since that sentiment was last expressed there"
   "and I always have this kinda 'close-but-no-dice'-feeling about it"
   "It may be right most of the time, but I think the essence is, that it's the one who is willing to risk the relationship who is in charge"
-- (Ben) "Potato, potarto! I don't see the big difference here..."
+- (Ben) "Potato, potarto! I don't see a big difference here..."
   "wouldn't the person least emotionally involved in the relationship also be the person most likely willing to risk it?"
 - (Old John) "Yes, speaking in general terms, that would be the case, but there is a huge difference in the implications"
 - (Ben) "Go on..."
@@ -119,12 +119,12 @@ Without moving, John does a bottom-to-top scan of... John, then looks at him and
 - (New John) "Well, if you don't want to go to your boyfriend's mother's birthday party" [looking at Susan]
   "you should stay home"
   "and if you'd rather stay home and snort cocaine, then that's what you should do" [looking at Karl]
-  "Anybody being dragged to something they don't want to go to, is just going to kill the mood, and that affects more than just the couple"
+  "Anybody being dragged to something they don't want to go to is just going to kill the mood, and that affects more than just the couple"
   "As for being in control in a relationship..."
   "I don't think it really matters to me..."
   "If I'm not happy in a relationship, I should end it..."
   "as I would expect her to do if she wasn't happy"
-- (Carol) "So I don't know if I agree or disagree with you just yet, but allow me - in the spirit of collegiate bonding - to play devils advocate"
+- (Carol) "So I don't know if I agree or disagree with you just yet, but allow me - in the spirit of collegiate bonding - to play devil's advocate"
 - (New John) "Go ahead" [smiling]
 - (Carol) "Not only would you be OK with - but actually have it as a requirement for a relationship - that she might up and leave you tomorrow?"
 - (New John) "I hope she leaves a note, but essentially: yes"
@@ -139,12 +139,12 @@ Without moving, John does a bottom-to-top scan of... John, then looks at him and
   "we become someone different, but then how can we issue any types of guarantees about how we will feel in the future?"
 - (Carol) "So what does that leave us with in terms of love and romance, if you can't make any plans for things to do together...?"
 - (New John) "Just the here and now... Which is all we are really ever guaranteed anyway" [smiling]
-- (Susan) "Alright, of course what you say is all fine in theory and I'm sure Buddha is sitting somewhere nodding along..."
-  "I know my yoga-teacher would love it anyways..."
-  "...but in the real life, where people buy cars together, take up mortgages to buy houses together and start families together, you HAVE to make long-term commitments, and that means making promises that extend a long way into the future"
+- (Susan) "Alright, of course, what you say is all fine in theory and I'm sure Buddha is sitting somewhere nodding along..."
+  "I know my yoga teacher would love it anyways..."
+  "but in real life, where people buy cars together, take up mortgages to buy houses together and start families together, you HAVE to make long-term commitments, and that means making promises that extend a long way into the future"
 - (New John) "Family life is not for me"
 - (Susan) "Alright, and that's good for you I suppose, but if we were to generalize here, and see if we can't find a set of principles that appeal to more than the die-hard romantics..."
-  "how would you reconcile this understanding of love as essentially something that can be here today, gone tomorrow, with having the buying power to acquire the things needed to secure a safe environment for raising children?"
+  "how would you reconcile this understanding of love as something that can be here today, gone tomorrow, with having the buying power to acquire the things needed to secure a safe environment for raising children?"
 - (New John) "I wouldn't"
 - (Susan) "..." [looking expectantly at New John]
 - (New John) "Buying cars and taking up mortgages is not my strong suit, but if we generalize to:"
@@ -153,7 +153,7 @@ Without moving, John does a bottom-to-top scan of... John, then looks at him and
   "Nobody can tell the future, and if you are comfortable with taking up commitments with someone else, then by all means"
   "But I think you would make things a lot easier for yourself if you keep whatever compels you to enter into said commitments separate from love"
 - (Karl) "I think I like this idea..."
-  "Then I could appease the missus and play along with her nesting-thing on more of a contractual basis, while you and I could snort fat ones and go at it like wild animals on Saturday afternoons" [nodding at Susan]
+  "Then I could appease the missus and play along with her nesting thing on more of a contractual basis, while you and I could snort fat ones and go at it like wild animals on Saturday afternoons" [nodding at Susan]
 - (Susan) "Yeah, that would make me quite the winner, wouldn't it?" [eyes expressing ironic intent]
 - (Carol) "Of course you like it, contracting family life while maintaining a buffer for acting retarded..."
   "It's such a 'guys idea' if ever there was one!"
@@ -169,15 +169,15 @@ Without moving, John does a bottom-to-top scan of... John, then looks at him and
 - (Karl) "That's tough man!" [getting up]
 
 Everybody else gets up from their chair as well, but Old John motions for New John to stay seated.
-When everyone else have left:
+When everyone else has left:
 
 - (Old John) "Who are you really?"
 - (New John) "I'm John"
 - (Old John) "Aside from that"
   "I've worked here for 3 years, and during that time, we've only ever hired from the following three categories of people" 
 - The IT-nerds
-- The douche-bag Finance folk (which I unfortunately consider myself to belong to)
-- The crazies ... the people that don't have to fit into one of the above, because they posses some crazy amount of skill that makes it profitable to bare with them and their weird ways 
+- The douche-bag Finance folk (which I, unfortunately, consider myself to belong to)
+- The crazies ... the people that don't have to fit into one of the above, because they possess some crazy amount of skill that makes it profitable to bear with them and their weird ways 
   
 - (Old John) "Your whole personality is way too dark and gloomy to fit into either of the first two categories and... " 
   "no offense..."
@@ -189,36 +189,36 @@ When everyone else have left:
   "I received an anonymous message suggesting that I show up for a job interview here yesterday, which I did"
   "I think I handled the job interview just... "
   "horribly, and the guy even said as much to me before he practically kicked me out"
-  "Then late last night I get a call from the CEO, asking me to be here at 8:00"
+  "Then late last night I got a call from the CEO, asking me to be here at 8:00"
   "so I was here at 8:00"
-  "All in all, it think he was on the up and up with me:"
+  "All in all, I think he was on the up and up with me:"
   "he thinks Angela sent me the message about the interview..."
   "and then he offered me a job to do some snooping around about Angela and who might have killed her"
-  "He asked me not stir up any panic, and to keep my assignment to myself"
+  "He asked me not to stir up any panic, and to keep my assignment to myself"
    "so I will in turn ask you to keep this talk between the two of us"
 - (Old John) "I'm no rat... I'll keep it tight"
-  "If at all possible, see if you can avoid Karl and Ben finding out about anything, because if they start to sense that something is up, the rumors are going to spread like a wild fire"
+  "If at all possible, see if you can avoid Karl and Ben finding out about anything, because if they start to sense that something is up, the rumors are going to spread like a wildfire"
 - (New John) "That's good advice. Thank you"
   "Did you know Angela well?"
 - (Old John) "I can't say that I did"
   "To be honest, she always scared me a little"
   "There was absolutely no doubt that she was brilliant, but she also gave off this vibe of being..."
   "completely unbounded!"
-  "She was the kind of person I would suspect capable of anything, if she found it beneficial"
+  "She was the kind of person I would suspect capable of anything if she found it beneficial"
 - (New John) "Anything... like what? Murder?"
 - (Old John) "If she believed it to be for a good cause: totally"
   "Don't get me wrong, I don't have any reason to suspect that she's murdered anyone..."
   "but do I believe she COULD do it?: absolutely!"
   "Do you remember that one guy from the Bible, where God told him to kill his son to prove his love for God?"
-  "Well, Angela would have sliced the kids throat before God had even finished the sentence"
-- (New John) "Hmmm... From my experience, those type of people have a tendency to attract enemies"
+  "Well, Angela would have sliced the kid's throat before God had even finished the sentence"
+- (New John) "Hmmm... From my experience, those types of people have a tendency to attract enemies"
   "Do you know of anyone who would stand to benefit from her death?"
 - (Old John) "As I said: Angela was brilliant, and a true asset to the company, and given the kind of corporate structure we have here at the company..."
   "I mean, FinaLibre is not perfect, but in my experience, it is almost always the case that what benefits the company also benefits the employees in some tangible way..."
-  "usually through bonuses at year end"
+  "usually through bonuses at year-end"
   "In that sense, everybody stood to lose from her death, and it probably doesn't sound like much, but I actually think it means a little more here, than it would most other places"
   "You may want to have a casual 1-on-1 with Carol"
-  "She and Angela had sort of a love/hate relationship, though there was certainly more cool air between the two than there were warm winds"
+  "She and Angela had sort of a love/hate relationship, though there was certainly more cool air between the two than there was warm winds"
   "I don't think they have spoken much since Angela hooked up with this one guy Carol was low-key in love with a couple of months ago..."
   "And let me just be clear about this: I know Carol, and I know 100% that she is not responsible for Angela's death"
   "She hides behind this tough, promiscuous attitude..."
@@ -228,7 +228,7 @@ When everyone else have left:
   "I don't know if you noticed it, but she was kinda looking at you during lunch today"
   "I think you could probably get her to open up to you during some pillow talk"
 - (New John) "I'm not going to use sex to get her to talk"
-- (Old John) "I get that..."
+- (Old John) "I respect that..."
   "It's mostly just the tone here..."
   "But, there's no reason why you can't get her to talk AND show her a good time"
 - (New John) "I agree..."
@@ -244,7 +244,7 @@ When everyone else have left:
 - (Old John) "You may want to ask him at some point"
   "There were rumors going around at some point, that he was seeing Angela a lot outside of the office, and that she was a very frequent guest at his and his wife's home"
   "There is nothing totally out of the ordinary with that..."
-  "He has been known to go to soccer-matches and other such activities with employees outside of work..." 
+  "He has been known to go to soccer matches and other such activities with employees outside of work..." 
   "but with a pretty young woman like Angela... "
   "Well, the office rumors of course had to turn it into something sexual"
   "Personally, I don't think there was anything to those rumors"
@@ -262,18 +262,18 @@ When everyone else have left:
   "She didn't care much about fancy clothing or any other high-life accessories, and I don't think she had any other expensive hobbies"
   "Her goals were usually altruistic at the core, but in a way that was strange and dangerous to most people"
   "One day during lunch, we had a round-the-table discussion about ethics"
-  "You know, the old problem of: would you rather that a 1.000 people be killed in some far away outskirt of the world, or that a close family member die... "
+  "You know, the old problem of: would you rather that 1.000 people be killed in some far away outskirt of the world, or that a close family member dies... "
   "You know: the type of problem designed to make you realize your own bias, as you unavoidably opt for the death of 1.000 strangers"
-  "Well, that wasn't Angela's take; there was absolutely no grounds for discussion: the lives of 1.000 strangers was more important than even the closest family member, and at one point..."
+  "Well, that wasn't Angela's take; there were absolutely no grounds for discussion: the lives of 1.000 strangers were more important than even the closest family member, and at one point..."
   "I can't remember who said what..."
   "but someone said something along the lines of:"
   "'So if I gave you a gun right now and told you that 1.000 people in Asia would be saved if you shot one of us...'"
   "and a collective chill went down our spines as we realized that she was evaluating the options of who to shoot while we were talking...."
   "..."
   "For what it's worth, I think she might have been the kind of person to shoot herself in the head..." 
-  "I don't want you to get the picture that she was the kind of person who lived in her own spaced out world and only looked out for #1"
+  "I don't want you to get the picture that she was the kind of person who lived in her own spaced-out world and only looked out for #1"
   "In fact, I think she saw the world much clearer than most other people"
-  "but knowing how much shit goes on in the world that the rest of us are able block out in some way..."
+  "but knowing how much shit goes on in the world that the rest of us are able to block out in some way..."
   "the fact that she took it all in..."
   "It seems kinda scary to me in it's own right"
   

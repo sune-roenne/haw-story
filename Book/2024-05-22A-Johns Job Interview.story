@@ -2,7 +2,7 @@
    "ChapterTitle": "John's Job Interview",
    "StoryLineKey": "john",
    "Aliases" : null,
-   "RevisedOn" : "2024-07-24"
+   "RevisedOn" : "2024-08-10"
 }
 
 
@@ -17,7 +17,7 @@
 - Investment compliance
 - Client and regulatory reporting
  
-- (Frank) "Alright, that's enough. John, are you wearing headphones or any other kind of technology that would allow for someone listening in on this meeting to supply you with audio-input?"
+- (Frank) "Alright, that's enough. John, are you wearing headphones or another kind of technology that would allow someone listening in on this meeting to supply you with audio input?"
 - (John) "No sir"
 - (Frank) "Then help me understand how you are able to rapidly respond with a series of very domain-specific terms, in a way that almost convinces me that you have some vague understanding of what they mean?"
 - (John) "..." [thinking]
@@ -37,23 +37,23 @@
 - (John) "I choose Investment Compliance sir"
 
 The young man who had presented himself under the name of John knew perfectly well what the guy was driving at: that no more than 5 minutes ago, he had explicitly stated that he had no formal education or any type of relevant job experience in Finance Services, nor had he ever had any specific interest in it. 
-John also knew, that he could save the man and the woman sitting in-front him time and mental strain by just coming right out and answering the question they were really asking: 'WHAT THE HELL ARE YOU DOING HERE JOHN?', and he didn't actually mind answering that question - with the answer basically boiling down to: 'I don't know; I got a message that suggested that I come, so I came' - and with the exception of a few minor details - such as how he had received the message and it's specific content - he had no intention of keeping any details secret from the two, but for now at least, this approach was a lot more fun.   
+John also knew that he could save the man and the woman sitting in front him time and mental strain by just coming right out and answering the question they were really asking: 'WHAT THE HELL ARE YOU DOING HERE JOHN?', and he didn't actually mind answering that question - with the answer basically boiling down to: 'I don't know; I got a message that suggested that I come, so I came' - and with the exception of a few minor details - such as how he had received the message and its specific content - he had no intention of keeping any details secret from the two, but for now at least, this approach was a lot more fun.   
 
 - (John) "Investment funds - as well as other collective investment undertakings I suppose - are subject to a series of regulations, requirements and restrictions regarding the type and quantity of their investments..."
 
 It is at this point during the meeting, that all of the lights in the room cut out, and they are left in complete darkness. 
 
 - (Carol) "We're terribly sorry about that. It's not something I've ever experienced before... here at work at least" [sounding a little off-balance and worried]
-- (John) "That's alright ma'am. I have a flashlight in my cell phone that we can use as light source. Should I turn it on?"
-- (Frank) "That's alright John, I've got it" [sounding considerably more in control of himself, now again becoming visible in the light streaming up from his smart phone, which he places on the table in-front of them]
-- (John) "... Some of aforementioned regulations, requirements and restrictions are formalized into laws, while others are formulated in the official document - the so-called prospectus - that FinaLibre publishes to allow potential investors to see just what type of product they are looking at. Examples of guidelines include: .." 
+- (John) "That's alright ma'am. I have a flashlight in my cell phone that can be used as light source. Should I turn it on?"
+- (Frank) "That's alright John, I've got it" [sounding considerably more in control of himself, now again becoming visible in the light streaming up from his smart phone, which he places on the table in front of them]
+- (John) "Some of the aforementioned regulations, requirements and restrictions are formalized into laws, while others are formulated in the official document - the so-called prospectus - that FinaLibre publishes to allow potential investors to see just what type of product they are looking at. Examples of guidelines include: ..." 
 
 - (Carol) "I'm going to go check what is going on with the power" [stands up and proceeds towards the door]
 - (John) "... is the 5-10-40 rule that stipulates that no investment in any single asset may exceed 10% of the total portfolio - when comparing the size of the investment to the total value of..."
 - (Frank) "Alright, you've made your point!"
   "Now please stop talking!" [visibly tired, rubbing his temples]
   "What the hell are you doing here John?"
-- (John) "I am applying for a job sir"
+- (John) "I am applying for a job, sir"
   "..."
   "3 days ago, I received a message that strongly suggested I show up at FinaLibre at 14:15 today and interview for a job."
 

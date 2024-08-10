@@ -2,18 +2,18 @@
    "ChapterTitle": "Official Announcement on Email Fraud and Angela",
    "StoryLineKey": "keyevents",
    "Aliases" : null,
-   "RevisedOn" : "2024-07-25"
+   "RevisedOn" : "2024-08-10"
 }
 
 
 - (Donnie) "Thank you all for coming on such short notice!"
   "..."
   "I understand that you have all received an email from Frank at 14:03 today"
-  "stating that FinaLibre is looking at a catastrophic quarterly earnings report, with downsizing measures an unavoidable result"
+  "stating that FinaLibre is looking a catastrophic quarterly earnings, with downsizing measures an unavoidable result"
   "I want to be 100% clear:"
 
 - Frank did not send that email! Our IT service supplier has established the origin of the email to be somewhere in Siberia
-- Our quarterly earnings are looking good as ever
+- Our quarterly earnings are looking as good as ever
 - We will not be downsizing in the near future; on the contrary
 
 - (Donnie)"We don't know why the email was sent, but we are looking at measures to tighten security around our mailing setup as we speak"
