@@ -2,7 +2,7 @@
    "ChapterTitle": "The 3 Detectives: Doing Drugs (Part I)",
    "StoryLineKey": "detectives",
    "Aliases" : null,
-   "RevisedOn" : "2024-07-27"
+   "RevisedOn" : "2024-08-10"
 }
 
 - (Albert) "Seriously, why is it so damn hot in here"
@@ -12,14 +12,14 @@
   "Maybe hit the gym once in a while"
   "But, we forgive you..."
   "It's not your fault the damn Air Condition is broken"
-  "Have some ice cold coca cola..."
+  "Have some ice-cold Coca-Cola..."
   "It'll do you wonders"
 
-Sune starts pouring from the - not even refrigerator-cold - bottle of cola into the 3 glasses on the table while laying it on John and Albert with his usual "compliment, weird-ramble, unbelievable insult, quasi-wise mysticism"-kombo, that John has come to think of as the man's standard MO, and they therefore don't object too much to the weird Eastern European Coke offbrand the guy was offering as a repairs for an unbelievably poor work environment.
+Sune starts pouring from the - not even refrigerator-cold - bottle of cola into the 3 glasses on the table while laying it on John and Albert with his usual "compliment, weird-ramble, unbelievable insult, quasi-wise mysticism"-kombo, that John has come to think of as the man's standard MO, and they therefore don't object too much to the weird Eastern European Coke off-brand the guy was offering as repairs for an unbelievably poor work environment.
 
 - (John) "Jeesus Christ... Where did you even get this?" [twisting his face as if drinking pure vinegar]
 
-is about the only remarks to the sub-par conditions of the beverage situation John and Albert think to inject into the conversation. Partly because the first glass pretty much kills off whatever taste buds they had going into today's session, but mostly from the usual fight of trying to keep up with the verbal shenanigans of the Basement Prankster, so as to not inadvertently agreeing to something stupid like securing those 100 kg of fertilizer the guy so badly wants (a fate that almost befell Albert and his credit card the day before). After about 15 minutes of introductory rambling - also something John and Albert has pretty much accepted as part of the daily ritual - the room falls quiet and they get back into the analysis of Angela's 'lab-notes'. After about 20 minutes more, the heat finally gets to Albert:
+is about the only remarks to the sub-par conditions of the beverage situation John and Albert think to inject into the conversation. Partly because the first glass pretty much kills off whatever taste buds they had going into today's session, but mostly from the usual fight of trying to keep up with the verbal shenanigans of the Basement Prankster, so as to not inadvertently agree to something stupid like securing that 100 kg of fertilizer the guy so badly wants (a fate that almost befell Albert and his credit card the day before). After about 15 minutes of introductory rambling - also something John and Albert has pretty much accepted as part of the daily ritual - the room falls quiet and they get back into the analysis of Angela's 'lab notes'. After about 20 minutes more, the heat finally gets to Albert:
 
 - (Albert) "Seriously..."
   "We have to get out of this room..."
@@ -54,21 +54,21 @@ is about the only remarks to the sub-par conditions of the beverage situation Jo
   "would we be, if we just sent him flying off alone..."
   "Not the type of people your mother would have wanted you to associate with, that's for darn sure"
 - (John) "Dude, just let it go" [tired, motioning to Albert that arguing with the man is only going to make it worse]
-  "BUT WOULD YOU AT LEAST TURN DOWN THE DAMN HEAT?!" [as he drops off his chair to lay down on the much cooler basement floor]
+  "BUT WOULD YOU AT LEAST TURN DOWN THE DAMN HEAT?!" [as he drops off his chair to lie down on the much cooler basement floor]
 - (Albert) "And maybe most importantly:"
   "WHY DO YOU HAVE A GUN?"
 - (Sune) "That man's a damn psychopath..." [whispering while pointing at John]
   "There's no telling what he might do... As soon as we think we're safe, he'll crawl across the floor with murderous intent in his eyes, to gut you open and eat your intestines"
 - (John) "Quit scaring the guy and turn down the damn heat!" 
-  "What do you think will happen when he runs upstairs and tells everyone who's unlucky to run into him about how his 'Quest Mates' fed him a weeks worth of leftovers from a large-scale chemical drug lab?"
-- (Sune) "If they get a hold of you, you mustn't tell them about the plunger-trick!" [looking dead-serious at Albert]
+  "What do you think will happen when he runs upstairs and tells everyone who's unlucky to run into him about how his 'Quest Mates' fed him a week's worth of leftovers from a large-scale chemical drug lab?"
+- (Sune) "If they get a hold of you, you mustn't tell them about the plunger trick!" [looking dead-serious at Albert]
   "It will only carry so many of us to the other side..."
   "if shit hit's the fan"
 - (John) "THE HEAT!"
 - (Sune) "I'll do it on the next turn..."
   "just gotta land something a liiiitle higher than 'hoovy'" [looking worried at his own legs]
 
-Sune watches his legs intently for the next 15 seconds, then suddenly jumps up and makes the 4 meters to the counter-top where the air condition remote is lying in full sprint and as he runs past the spot where John is lying on the floor, he let's the remote control fall.
+Sune watches his legs intently for the next 15 seconds, then suddenly jumps up and makes the 4 meters to the counter-top where the air condition remote is lying in full sprint and as he runs past the spot where John is lying on the floor, he lets the remote control fall.
 
 - (Sune) "BOMBS AWAY"
 
@@ -81,7 +81,7 @@ John lets out an indecipherable protest as the remote control lands on his face,
   "You tell your story Old Man, but I'm staying up here"
 - (John) "You do you, man!"
 
-It's pretty telling of the mental temperature in the room, that Albert is at this point laying on his stomach looking directly into the floor. John hasn't moved from his position on the floor, laying on his back, staring up into a colorful array of lights, while Sune has re-conquered his office chair, and is now fiddling with the gun, apparently trying to figure out where the handle is. 
+It's pretty telling of the mental temperature in the room, that Albert is at this point lying on his stomach looking directly into the floor. John hasn't moved from his position on the floor, lying on his back, staring up into a colorful array of lights, while Sune has re-conquered his office chair, and is now fiddling with the gun, apparently trying to figure out where the handle is. 
 
 - (Sune)  "STORY TIME AZZHOLES" [pointing the gun around the room]
   "Do you guys know Blender?"
@@ -98,8 +98,8 @@ It's pretty telling of the mental temperature in the room, that Albert is at thi
 - (John) "BULL SHIT!"
 - (Albert) "Aaarrkwaaard siiilence" [actually articulating the words]
 - (Sune) "I had a family once" [unphased]
-  "Before i displaced"
-  "A loving wife, a smart and beautiful daughter and a sweet little boy"
+  "Before I displaced"
+  "A loving wife, a smart and beautiful daughter, and a sweet little boy"
 - (Albert) "The boy wasn't smart?"  
 - (Sune) "Oh yes! A very smart boy!"
   "But then one day, something scary happened"
@@ -109,7 +109,7 @@ It's pretty telling of the mental temperature in the room, that Albert is at thi
   "and shifted the man"
 - (Albert) "The man was you, right?"
 - (Sune) "It was!"
-  "The cloud drifted in at night, and shifted my v-coordinate..."
+  "The cloud drifted in at night and shifted my v-coordinate..."
   "And then the daughter said something like: 'Where is dad?'"
   "And the wife said something like: 'Goddammit, where have you gone off to now you miserable psycho?'"
   "And the poor little boy kept looking for me all throughout the house" [sobbing slightly]
@@ -133,7 +133,7 @@ It's pretty telling of the mental temperature in the room, that Albert is at thi
   "I'm not going in there with her!"
 - (Sune) "I'm sorry buddy"
   "There is no other way"
-  "The quantum-gate is open now, but it won't be for long!"
+  "The quantum gate is open now, but it won't be for long!"
 - (John) "She wants to draaaoowwnn meee"
   "In blood!"
 - (Sune) "Ok, so you close your eyes and think about something nice!"
@@ -142,13 +142,13 @@ It's pretty telling of the mental temperature in the room, that Albert is at thi
 - (Sune) "Just listen to my voice John..."
   "I'll talk you through it"
   "But we need to hurry, the draft from the quantum state is sucking the evil into the room"
-  "And HookerBoy is sitting right up wind..."
+  "And HookerBoy is sitting right upwind..."
   "he won't be HookerBoy for long if you don't hurry up and jump"
-  "I need you to take a deep breath in John"
+  "I need you to take a deep breath in, John"
 - (Albert)  "DO IT FOR CHRIST'S SAKE!"
-- (Sune) "Now blow it out John"
+- (Sune) "Now blow it out, John"
 - (Albert) "RELEASE THE FUCKING AIR JOHN!"
-- (Sune) "Now close your eyes John!"
+- (Sune) "Now close your eyes, John!"
   "I'll count to 6, and while I do that, you breathe air into your lungs"
   "When I count down from 9, you release the air"
   "1...2...3...4...5...6..."
@@ -162,25 +162,25 @@ It's pretty telling of the mental temperature in the room, that Albert is at thi
   "It means... 'So long space'"
 - (Albert) "SAY IT JOHN!"
 - (Sune) "HookerBoy is already starting to turn pale with evil"
-  "That's it John..."
+  "That's it, John..."
   "Now breathe out John... 9...8...7...6...5...4...3...2...1..."
   "That's good John..."
   "Now, I'm not going to count for you anymore, so you have to learn to breathe on your own or die"
   "It's very important that you use your inside eyes for the next bit..."
-  "If you open your OUTSIDE eyes, you are going to cause a rupture in quantum space and kill everyone within a 5 kilometer radius"
+  "If you open your OUTSIDE eyes, you are going to cause a rupture in quantum space and kill everyone within a 5-kilometer radius"
 - (Albert) "OPEN YOUR FUCKING INSIDE EYES JOHN!" [said with a voice that indicates sheer terror, but a huge evil grin]
 - (Sune) "Do as he says John, he only wants what's best for you"
   "Open your inside eyes"
   "Ada boy"
   "Now look around with your inside eyes..."
-  "you are standing on a cloud John..."
+  "you are standing on a cloud, John..."
   "below you is the lake..."
   "she is waiting for you in the lake..."
   "but you have to jump down there John"
   "And when you jump, you have to say 'Gung Ho Fat Jahn'..."
   "It means... 'Adiós Time'..."
-  "You will be V-coordinate free..."
-  "At last John..."
+  "You will be V-coordinate-free..."
+  "At last, John..."
 - (Albert) "I am quantum...?" [mouthing the words in surprise]
 - (Sune)  "On the count of 3, you jump John"
   "3..."
@@ -199,4 +199,4 @@ As Albert yells this last part of what is to become his mantra for the next coup
 
 And just like that, the room goes silent. 
 
-For whatever else can be said about Sune, he certainly is a damn liar, and the only slightly redeeming quality to this fact is that he at least believes his own lies more than anyone else does. This for instance means, that when he had talked John into the clouds and convinced him to jump, he was 100% certain that John would land in his lake. It also meant that he was now fully convinced that the death of his family life had been caused by a shift of position out of the V-axis, and not one very patient woman deciding for the sake of herself and her children that enough was finally enough. If he had been the kind of person that would learn from making a mistake just once, he would surely have reminded himself that filling his own head with that kind of nonsense is a very bad starting point when going for a deep sea swim in the ocean of psychedelic designer drugs... but he isn't and thus, while John takes off to pursue his destiny with Angela and the mysterious girl in the lake and Quantum-Man is having the time of his life causing mayhem to the floors above by means of airborne psychological terror distributed through the air vents, Sune spends most of that time bawling his eyes out, trying to reach across the V-axis-offset to comfort the little boy he can see pacing the empty house calling out for his father. 
+For whatever else can be said about Sune, he certainly is a damn liar, and the only slightly redeeming quality to this fact is that he at least believes his own lies more than anyone else does. This for instance means, that when he had talked John into the clouds and convinced him to jump, he was 100% certain that John would land in his lake. It also meant that he was now fully convinced that the death of his family life had been caused by a shift of position out of the V-axis, and not one very patient woman deciding for the sake of herself and her children that enough was finally enough. If he had been the kind of person who would learn from making a mistake just once, he would surely have reminded himself that filling his own head with that kind of nonsense is a very bad starting point when going for a deep sea swim in the ocean of psychedelic designer drugs... but he isn't and thus, while John takes off to pursue his destiny with Angela and the mysterious girl in the lake and Quantum-Man is having the time of his life causing mayhem to the floors above by means of airborne psychological terror distributed through the air vents, Sune spends most of that time bawling his eyes out, trying to reach across the V-axis-offset to comfort the little boy he can see pacing the empty house calling out for his father. 

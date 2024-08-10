@@ -4,10 +4,10 @@
    "Aliases" : {
       "Robotic voice": "john"
    },
-   "RevisedOn" : "2024-07-27"
+   "RevisedOn" : "2024-08-10"
 }
 
-'What a night!' Thomas thinks, as he begins regaining consciousness. Thomas knows that this is going to be a hard day to get through, but luckily he doesn't have any plans and just thinking about last night dulls the headache a little and brings a smile to his face. And hey, doesn't he still have half a baggy? ... Yes, he thinks so. If only he can conjure up the initiative to get out of the bed, then lining up and getting started will come automatically. Maybe he can even get in a few glasses of gin before the headache can really get a hold of him, and hey: then this day might turn out above descent after all. It's all about standing up, but before that, he has to open his eyes. Hmmm, that's weird! He opens his eyes and it's still dark. And what the fuck ?! Is he tied to the bed. He can't move! Thomas starts pulling the restraints around his ankles and wrists, when he hears a 'whoosh' and feels something hitting him hard in the ribs. He opens his mouth to let out a scream of pain and then feels something being jammed into his mouth. That might be a sock! A used sock! Thomas hears a weird robotic voice coming from somewhere to his right.
+'What a night!' Thomas thinks as he begins regaining consciousness. Thomas knows that this is going to be a hard day to get through, but luckily he doesn't have any plans and just thinking about last night dulls the headache a little and brings a smile to his face. And hey, doesn't he still have half a baggy? ... Yes, he thinks so. If only he can conjure up the initiative to get out of bed, then lining up and getting started will come automatically. Maybe he can even get in a few glasses of gin before the headache can really get a hold of him, and hey: then this day might turn out above descent after all. It's all about standing up, but before that, he has to open his eyes. Hmmm, that's weird! He opens his eyes and it's still dark. And what the fuck?! Is he tied to the bed?! He can't move! Thomas starts pulling the restraints around his ankles and wrists when he hears a 'whoosh' and feels something hitting him hard in the ribs. He opens his mouth to let out a scream of pain and then feels something being jammed into his mouth. That might be a sock! A used sock! Thomas hears a weird robotic voice coming from somewhere to his right.
 
 - (Robotic voice) "I will not lie to you"
  "The next 5 minutes will be painful"
@@ -19,9 +19,9 @@ And then, the beating begins. Thomas isn't sure what he is being beaten with, bu
   "I believe that you will be able to walk from this"
   "- if you so choose -"
   "which is more than you could say about me"
-  "I spent 4 months in recovery, before I could stand on my own feet again"
-  "I came out of recovery to ruination, bankruptcy and federal charges due to information I had released under duress" 
-  "- namely while I was in the position you are in now - "
+  "I spent 4 months in recovery before I could stand on my own feet again"
+  "I came out of recovery to ruination, bankruptcy, and federal charges due to information I had released under duress" 
+  "- namely, while I was in the position you are in now - "
   "and used against me while I was unable to dispute"
   "I am now among the 20 richest men in Northern Europe, with a fortune hidden away in offshore accounts"
   "The reason I am telling you this is, that the time has come for you to make a choice as my time had come to me 3 years ago"
@@ -29,7 +29,7 @@ And then, the beating begins. Thomas isn't sure what he is being beaten with, bu
   "try to survive when I walk out of this door"
   "You will only be given the choice once, so I recommend that you think it through"
   "You need to know what is at stake:"
-  "I will ask you for your personal credentials to your FinaLibre laptop, and we will use your credentials to embezzle 100 million EUR to the Banshees through European and South American tax havens"
+  "I will ask you for your personal credentials for your FinaLibre laptop, and we will use your credentials to embezzle 100 million EUR to the Banshees through European and South American tax havens"
   "You stand a 50% chance of facing indictments, as your credentials will be all over all of the transactions, but..."
   "and this is the important part:"
   "you will not go to prison"
@@ -42,7 +42,7 @@ And then, the beating begins. Thomas isn't sure what he is being beaten with, bu
   "The Banshees will not contact you in this capacity again."
   "I will give you a minute to consider your options... starting now"
 
-John sits back in the chair, and starts a timer. A minute goes by.
+John sits back in the chair and starts a timer. A minute goes by.
 
 - (Robotic voice) "Minute is up!" 
   "In a moment, I will remove the sock from your mouth so you can provide me with your answer"
@@ -76,8 +76,8 @@ John removes the sock from Thomas's mouth.
 
 - (Thomas) "1 1 1 1 1 1... Six one's"
 
-John brings out the phone - tape covering the cameras - from his led-satchel, verifies that he is able to unlock it, places the sock back in Thomas's mouth and puts the phone back in the satchel. 
-He then walks to the kitchen and browses through the SMS-log and the social messaging logs in order to determine if Thomas has loved ones that might stop by one of the next couple of days. It doesn't appear to be the case, but to be on the safe side he sends an SMS to the contact listed as 'Mom - ICE': 'Im staying at Lindas for a couple of days... In case you stop by... Love Tommy'.
-John then turns off the phone and leaves it on the kitchen counter, takes a filet knife from a drawer, goes into the living room and slices Thomas's throat. He double-checks that the blood draining from Thomas and running off the bed stays in the confined area he has wrapped in plastic. He then verifies that he hasn't forgotten anything, and leaves the apartment. 
+John brings out the phone - tape covering the cameras - from a lead-covered box in a satchel, verifies that he is able to unlock it, places the sock back in Thomas's mouth and puts the phone back in the box. 
+He then walks to the kitchen and browses through the SMS log and the social messaging logs in order to determine if Thomas has loved ones who might stop by within the next couple of days. It doesn't appear to be the case, but to be on the safe side he sends an SMS to the contact listed as 'Mom - ICE': 'Im staying at Lindas for a couple of days... In case you stop by... Love Tommy'.
+John then turns off the phone and leaves it on the kitchen counter, takes a filet knife from a drawer, goes into the living room, and slices Thomas's throat. He double-checks that the blood draining from Thomas and running off the bed stays in the confined area he has wrapped in plastic. He then verifies that he hasn't forgotten anything, and leaves the apartment. 
 
 For all the mental anguish his time in the basement of FinaLibre has caused him, he has to hand it to the old weirdo that it has taught him the value of disguising his intent behind insane amounts of emotional misdirection and made-up bullshit.
