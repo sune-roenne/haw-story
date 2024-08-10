@@ -2,7 +2,7 @@
    "ChapterTitle": "John and Carol Have Breakfast",
    "StoryLineKey": "john",
    "Aliases" : null,
-   "RevisedOn" : "2024-07-26"
+   "RevisedOn" : "2024-08-10"
 }
 
 
@@ -13,18 +13,18 @@ When John opens his eyes, Carol is sitting - already dressed - in the bed next t
   "What time is it?"
 - (Carol) "It's 6:55"
 - (John) "Alright"
-- (Carol) "Look John, I don't usually let guys sleep over"
+- (Carol) "Look John, I don't usually let guys sleep over..."
 - (John) "OK"
-- (Carol) "... but you almost passed out yesterday..."
-  "afterwards..." [smiling]
+- (Carol) "but you almost passed out yesterday..."
+  "afterward..." [smiling]
 - (John) "Oh, I'm sorry"
 - (Carol) "It's alright... It looked like you needed it..."
   "But it leaves us with a predicament..."
   "Between now and when we step through the doors of the main entrance of the office, we are going to make the transition from being two people who are naked together to being two colleagues..."
 - (John) "And you are doing good at that I see..." [pointing out her state of being already dressed]
 - (Carol) "and you are still naked"
-- (John) "..." [looking down his own body, then nods in agreement]
-  "Well, on a wild dare I think I could pull a single day like this in the office..."
+- (John) "..." [looking down at his own body, then nods in agreement]
+  "Well, on a wild dare, I think I could pull a single day like this in the office..."
   "In the Summer at least..." [smiling]
 - (Carol) "Well... We could do that..." 
   "It would certainly make for an interesting morning at the office..." 
@@ -41,7 +41,7 @@ When John opens his eyes, Carol is sitting - already dressed - in the bed next t
 - (Carol) "Is there anything you don't eat for breakfast?"
 - (John) "Yes..." [pensive] 
   "Lots of things"
-- (Carol) "Eggs, bacon and bread?"
+- (Carol) "Eggs, bacon, and bread?"
 - (John) "I can eat all of those things for breakfast"
 
 ...
@@ -49,11 +49,11 @@ When John opens his eyes, Carol is sitting - already dressed - in the bed next t
 John walks into Carol's combined kitchen/dining room/living room 25 minutes later.
 
 - (John) "This looks really good" [smiling]
-- (Carol) "Well, thank you John"
+- (Carol) "Well, thank you, John"
   "I would say that you have a crazy ex-girlfriend, and when you came home last night she had been in your apartment and had burned all of your clothes and your bed, and not knowing what to do, you called the only person you thought might be willing to help you in such a vulnerable situation: your compassionate colleague Carol"
 - (John) "And the naked part?"
   "I mean, I must have been wearing clothes when I came home last night, right?"
-- (Carol) "Yeah, but you can't wear the same clothes to the office two days in a row"
+- (Carol) "Yeah, but you can't wear the same clothes to the office for two days in a row"
   "The women in the office would understand" [smiling]
 
 John is about to ask why he couldn't just have borrowed a set of men's clothing from Carol - he had himself been close to picking someone else pant's off the floor looking for his own - but figured this might be a sensitive subject to Carol and let it slide.
@@ -68,7 +68,7 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
   "Then look them straight in the eyes"
   "'Honestly man, what am I missing here?'"
   "If we're lucky, the situation will be awkward enough for them to want to bury the whole thing, or they are going to provide me with an out, like: 'Oh, yeah it must have been because your dog ate your clothes' or whatever, and I'd play off that..."
-  "and if they plow on with some innuendo, I would take both of their hands in mine, look worried at them and say:"
+  "and if they plow on with some innuendo, I would take both of their hands in mine, look worried at them, and say:"
   "'One of us is extremely sick, man'"
   "And if they haven't folded at that point, I'd stay the hell away from them, 'cause any dude that will sit through a naked man grabbing their hand out of worry, probably is crazy..."
 - (Carol) "And what if it's a woman?"
@@ -77,16 +77,16 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
 - (Carol) "And what would that achieve?"
 - (John) "That same level of discomfort I suppose..."
   "I mean, a crying naked man is something that any person would want to rid themselves of as fast as possible..."
-  "But, I could picture a group of dudes in the locker room shooting the shit, and someone is telling the story like:"
-  "'and John and Carol were on the train, and John was naked, and when I asked him about why he was naked, he starts crying'"
+  "But, I could picture a group of dudes in the locker room shooting the shit and someone is telling the story like:"
+  "'and John and Carol were on the train, and John was naked, and when I asked him why he was naked, he started crying'"
   "and someone follows up with: 'what the fuck is wrong with the guy?..."
   "...but anyway, why was he naked with Carol, are they doing it?'..."
   "That is, crying wouldn't disqualify us as a target for slander..."
   "I think it would be harder for a woman to slander without being seen as cold-hearted..."
 - (Carol) "Well, if you knew how many crazies a young woman has to deal with during the course of any normal week, you'd know that a naked crying man more than justifies getting off your seat and going to another cart"
-  "AND slandering him afterwards"
+  "AND slandering him afterward"
 - (John) "..." [pensive, nodding]
-  "I'll buy" [smiling and gesturing forfeit]
+  "I'll buy that" [smiling and gesturing forfeit]
   
 - (Carol) "Alright Mr. Sensible..."
   "before we get started with the sequel to The Life of John..."
@@ -107,8 +107,8 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
 - (Carol) "You've heard about that...?"
   "Well, I guess you would..."
   "A few months ago I had a thing with Martin from Accounting, and then one Friday at a party, Angela comes to our table, sits down next to him... Martin..."
-  "... They talk about History or some such non-sense and next thing I know, they are going at it on the dance-floor..."
-  "All but getting undressed and doing it right there in-front of everyone..."
+  "... They talk about History or some such nonsense and next thing I know, they are going at it on the dance floor..."
+  "All but getting undressed and doing it right there in front of everyone..."
   "They at least had the courtesy to go into the bathroom to do that..."
   "and there I was..."
   "helpless to do anything about it..."
@@ -171,7 +171,7 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
   "But you can usually ignore those people, because as you say: they are losers..."
 - (John) "And that was the general consensus at my high school as well..."
   "But there were these three seniors who would just not let it go..."
-  "And of course they targeted me..."
+  "And of course, they targeted me..."
 - (Carol) "And did you at this point stop to think WHY they targeted you...?"
   "It wasn't exactly the first time..."
 - (John) "I don't know if I at that point was conscious about it, but I might have been"
@@ -201,16 +201,16 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
  
 - You are going to have a lot of people who COULD have seen something, but who were too busy thinking about everything other than flying scrawny kids, and hence don't know shit
 - You'll have the people that will swear, no matter what, that they saw John push the scrawny kid on purpose and then holla like the devil, because they don't like John, and the kid's 2 friends of course belonged to this category on this occasion
-- Then you have the people that saw something that looked like John might have pushed the scrawny kid, but whose memory is easily manipulated by what happens afterwards, like John yelling that someone pushed him or teachers asking them: 'did John really push the scrawny kid?' and they get to thinking, 'no gees, that can't have been what I saw because why would John do such a thing?' and empirical research have shown that a disturbingly large percentage of eye-witnesses belong to this category
-- And finally, you'll have the people that saw John send the kid flying down the stairs, and even-though they don't understand why anybody would do such a thing, they know what they saw. Or maybe they know why somebody might do such a thing, because they have thought about doing the same thing or they've been in the 'people-getting-pushed-down-the-stairs'-scenario a lot - in the same way that bouncers are likely to make better eye-witnesses in describing what happened before, during and after a fight simply because they have a lot of experience - but no matter the flavor, it's my experience that this category is pretty scarce
+- Then you have the people who saw something that looked like John might have pushed the scrawny kid, but whose memory is easily manipulated by what happens afterward, like John yelling that someone pushed him or teachers asking them: 'did John really push the scrawny kid?' and they get to thinking, 'no gees, that can't have been what I saw because why would John do such a thing?' and empirical research has shown that a disturbingly large percentage of eye-witnesses belong to this category
+- And finally, you'll have the people who saw John send the kid flying down the stairs, and even though they don't understand why anybody would do such a thing, they know what they saw. Or maybe they know why somebody might do such a thing because they have thought about doing the same thing or they've been in the 'people-getting-pushed-down-the-stairs'-scenario a lot - in the same way that bouncers are likely to make better eye-witnesses in describing what happened before, during, and after a fight simply because they have a lot of experience - but no matter the flavor, it's my experience that this category is pretty scarce
  
 - (John) "and the thing is, there weren't a whole lot of people at school who believed I had any reason for pushing the kid"
 - (Carol) "But from what you've said, I have an image of these guys as the pretty annoying type..."
 - (John) "Sure, and if I had made a big thing about some of the shit they pulled, I think people would probably have believed me..."
-  "I would say that most of my class mates had at some point or another been harassed by these guys to some degree"
+  "I would say that most of my classmates had at some point or another been harassed by these guys to some degree"
   "but they had avoided being made a permanent target so it would be hard for them to really think of them as a major threat to their everyday lives..."
   "And as they zeroed in on me, I assume they just naturally let off on some of their other 'initiatives'..."
-  "And the thing is, when you are a group of people who elect to target a single individual"
+  "And the thing is when you are a group of people who elect to target a single individual"
   "- whether through verbal agreement or an unspoken consensus - "
   "you cross a line at some point where you know you are in the wrong in the eyes of society at large..."
   "and so you start covering your tracks and instead send off a lot of small jabs that the target will certainly know what to make of, but doesn't really get noticed by everyone else"
@@ -222,23 +222,23 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
   "His 2 friends were really pissed at me, and I knew they were likely to try for some shit if I ran into them after school that day, so I took off from school an hour early"
   "But..."
   "I had a habit of meeting in at school pretty early..."
-  "Even-though classes didn't start until 8:10, school opened at 7:10 and I do my best thinking in the morning so I was usually there at around 7:20, and I was always one of the first students there"
-  "The day after the stairway incident, I was about halfway between the bus-stop and the school, when I heard the sound of a moped running at high speed far away behind me..."
+  "Even though classes didn't start until 8:10, school opened at 7:10 and I do my best thinking in the morning so I was usually there at around 7:20, and I was always one of the first students there"
+  "The day after the stairway incident, I was about halfway between the bus stop and the school, when I heard the sound of a moped running at high speed far away behind me..."
 - (Carol) "Oh no... I think I know where this is going..."
 - (John) "Don't worry..."
   "I don't think it's going where you think it's going..." [smiling comfortingly]
   "But it was of course the two friends of the scrawny kid..."
   "Allan and Mike... zooming in on me"
-  "They had often arrived at school early as well, and on many occasions, they had either spat after me or pushed me or straight up tried to run me down when our paths crossed..."
-  "And the place was perfect for that, because it was damn deserted at that time of day..."
+  "They had often arrived at school early as well and on many occasions, they had either spat after me or pushed me or straight up tried to run me down when our paths crossed..."
+  "And the place was perfect for that because it was damn deserted at that time of day..."
   "So when I hear the sound of their moped I turn around to look at them, and then take off running at full speed, and after about 20 meters of running, the road forks:"
   "right is to the school, and left leads into a tunnel under the highway leading into an industrial area"
-  "and I run left and make it under the tunnel and right after the tunnel the path makes a sharp right turn and the tunnel marks the ending of a stretch of about 20 meters of straight path for these guys to accelerate through" "and they try to maintain a high-speed, leaning into the sharp right turn and just as they clear the tunnel I swing at the driver with a baseball bat that hits him on the side of his helmet and the two guys smashed into the concrete wall that walled in the turn"
+  "and I run left and make it under the tunnel and right after the tunnel the path makes a sharp right turn and the tunnel marks the ending of a stretch of about 20 meters of straight path for these guys to accelerate through" "and they try to maintain a high speed, leaning into the sharp right turn and just as they clear the tunnel I swing at the driver with a baseball bat that hits him on the side of his helmet and the two guys smashed into the concrete wall that walled in the turn"
   "The passenger wasn't wearing a helmet, and he must have been dead on impact..."
   "Without going too much into the gory details, I know for a fact that the impact crushed his skull..."
 - (Carol) "Oh my God!" 
   "That is horrible!" 
-  "I have so many questions right now, and at the same time:" 
+  "I have so many questions right now and at the same time:" 
   "I don't know what to say..."
 - (John) "Well, maybe I can spare you some of the questions and finish the tale" [smiling]
   "Because the driver was pretty obviously alive, although he was not doing well..."
@@ -246,8 +246,8 @@ John is about to ask why he couldn't just have borrowed a set of men's clothing 
   "And he really was a boy at that point, as he lay there crying and moaning in pain"
   "I think he would have survived..."
   "...if I hadn't intervened..." [looking serious]
-  "He was laying in this weird position, with his own body weight and the weight of the moped pressing down on his neck and head..."
-  "And I went over to him and shifted his position slightly to cut off his airways and held him there for about a minute until he stopped breathing and then I held on for a minute or so more, and then placed the moped back on top of him, and called an ambulance and told them how I had been chased by two guys and then there had been a terrible accident, and they dispatched an ambulance and a pair of police officers"
+  "He was lying in this weird position, with his own body weight and the weight of the moped pressing down on his neck and head..."
+  "And I went over to him and shifted his position slightly to cut off his airways and held him there for about a minute until he stopped breathing and then I held on for a minute or so more, then placed the moped back on top of him, and called an ambulance and told them how I had been chased by two guys and then there had been a terrible accident, and they dispatched an ambulance and a pair of police officers"
 
 Carol had been holding John's hands for most of the exciting part of the story, but now withdraws them and looks at John in a combination of horror and disgust as he tells the last part. 
 
@@ -264,7 +264,7 @@ Carol had been holding John's hands for most of the exciting part of the story, 
   "And honestly, I feel disgusted!"
 - (John) "..." [looking at Carol, waiting]
 
-About 5 minutes go by, where Carol goes through various stages of feeling horrified, disgusted and in disbelief. 
+About 5 minutes go by, during which Carol goes through various stages of feeling horrified, disgusted and in disbelief. 
 
 - (Carol) "I need to know some things about what you just told me"
   "How did you happen to have a baseball bat handy?"
@@ -278,7 +278,7 @@ About 5 minutes go by, where Carol goes through various stages of feeling horrif
 - (Carol) "Did you plan for them to die?"
 - (John) "..." [pensive]
   "Yes, I think I did"
-- (Carol) "What did you feel afterwards?"
+- (Carol) "What did you feel afterward?"
   "Did you feel anything?"
 - (John) "I was mostly worried that somebody had seen me..."
   "There were a good 2 minutes that I would have had a hard time explaining if they had been caught on camera"
@@ -313,7 +313,7 @@ About 5 minutes go by, where Carol goes through various stages of feeling horrif
   "Like: I didn't tell the police that I had purposefully pushed the scrawny kid down the stairs..."
   "There had been a terrible accident, and now I suspected these 2 guys who I had a feeling didn't like me to begin with blamed me for that accident..."
   "And I hadn't hit them with a baseball bat that I hid behind the corner in an act of premeditation the week prior..." 
-  "but a stick I conveniently found laying on the ground"
+  "but a stick I conveniently found lying on the ground"
   "...because I had put it there in an act of premeditation the week prior"
   "...which I of course didn't mention neither"
   "I didn't try for an Oscar..."
@@ -321,8 +321,8 @@ About 5 minutes go by, where Carol goes through various stages of feeling horrif
   "'I feel just horrible about what happened to them'..."
   "I told the police that I had been scared because I thought they would beat me to a pulp if they caught me, which I'm sure they would have liked to..."
   "I think there may have been some of the people from the police who might have suspected that there was more to the story than I let on..."
-  "Maybe the autopsy-report showed irregularities, but at the end of the day they had to decide if they thought they could put a convincing story together that would convince a judge or jury" 
-  "I hadn't told them about all the shit these guy had done"
+  "Maybe the autopsy report showed irregularities, but at the end of the day they had to decide if they thought they could put a convincing story together that would convince a judge or jury" 
+  "I hadn't told them about all the shit these guys had done"
   "just the stuff I knew they would pick up on anyway from talking to the teachers and the other students..."
   "not enough to establish a motive for premeditated murder, but certainly enough to justify being afraid of running into these two guys on a deserted path with no one else in sight"
   "...and I guess that the police also have to decide what they want to spend their energy on"
@@ -332,7 +332,7 @@ About 5 minutes go by, where Carol goes through various stages of feeling horrif
 - (John) "I can honestly say, that the thought hadn't even crossed my mind" [smiling]
   "Thinking about it... " [pensive]
   "I might lie..."
-  "But I wouldn't hurt you if that's what you are worried about" [trying to smile comfortingly, without approach or trying to establish physical contact]
+  "But I wouldn't hurt you if that's what you are worried about" [trying to smile comfortingly, without approaching or trying to establish physical contact]
   "I'm not a very good scale of justice, but even if you decide to make it your life's work to put me in jail..."
   "it's still a whole other thing than what those guys were doing"
 - (Carol) "I'm not sure if that is any comfort..."
@@ -340,16 +340,16 @@ About 5 minutes go by, where Carol goes through various stages of feeling horrif
   "Alright, finish the story"
 - (John) "As I said, the police decided not to pursue the case..."
   "The parents of the 2 kids may have been pissed at me, but if so, the school and my father probably shielded me from it..."
-  "The school however decided that it would be good for me to have some regular sessions with the school guidance counselor/psychologist"
-  "... and she was really nice..."
-  "... she was in her mid 40's, and I think she really cared for what she did and the students she talked to..."
-  "Initially, I was a worried that she would drown me in a lot of weird psychologist questions and see right through my spiel"
+  "The school however decided that it would be good for me to have some regular sessions with the school guidance counselor/psychologist..."
+  "and she was really nice..."
+  "she was in her mid 40's, and I think she really cared for what she did and the students she talked to..."
+  "Initially, I was worried that she would drown me in a lot of weird psychologist questions and see right through my spiel"
   "conclude that I was a raving psycho responsible for the death of two students and hand my case off to the police for indeterminate incarceration"
   "but it didn't go at all like that..."
   "We only talked about the accident during the first session, and when she asked me if it was something I still felt troubled by and I said:" 
   "'no'"
   "we didn't talk anymore about it" 
-  "Instead we talked about a lot of other stuff..."
+  "Instead, we talked about a lot of other stuff..."
   "stuff that was happening in my life at that point and old stuff from my childhood"
   "I know she picked up on the fact that I had 'emotional blind spots' - as you put it - pretty much from the start"
   "but I never felt like she condemned me for it, and I think she actually wanted me to have a good life..." [looking far away, maybe back in time]

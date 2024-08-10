@@ -5,12 +5,12 @@
       "Angry voice": "john",
       "Angry man from office": "john"
    },
-   "RevisedOn" : "2024-07-27"
+   "RevisedOn" : "2024-08-10"
 }
 
 
-Albert gets up from his desk at the Investment Compliance unit of FinaLibre every day at exactly 16:12, clears his desk, walks to the wardrobe where he puts on his long coat and walks out of the main entrance between 16:23 and 16:25. He then walks through the eastern part of the Thousand Acre Woods towards the nearest train-station where he boards the train at 16:45. Every day. Wind and rain!
-It's not that this departure carries any specific significance to him... he would be just as happy catching the 17:05, 17:25 or 17:45 departure... hell, for all he cares, his day would be just as fine if he were to catch the 20:05 departure - except of course for the longer working hours this would imply - but he has a reputation to uphold, and THAT is important to him.
+Albert gets up from his desk at the Investment Compliance unit of FinaLibre every day at exactly 16:12, clears his desk, walks to the wardrobe where he puts on his long coat and walks out of the main entrance between 16:23 and 16:25. He then walks through the eastern part of the Thousand Acre Woods towards the nearest train station where he boards the train at 16:45. Every day. Wind and rain!
+It's not that this departure carries any specific significance to him... he would be just as happy catching the 17:05, 17:25, or 17:45 departure... hell, for all he cares, his day would be just as fine if he were to catch the 20:05 departure - except of course for the longer working hours this would imply - but he has a reputation to uphold, and THAT is important to him.
 
 This day is exactly like any other, and Albert is strolling along the narrow part of the dark pine tree patch that precedes the much brighter and broader stretch just before the station, probably thinking about all the nice things that await him tonight - because Albert is a man that works to live, and not the other way around - when he suddenly feels an explosion of pain in the backside of his left leg. Albert hardly registers the pain before he finds himself on his hands and knees on the narrow gravel path. 
 
@@ -24,7 +24,7 @@ The man kicks him in the ribs. Albert suspects that the pain he feels in the lef
   "Do you understand what I have just told you?"
 - (Albert) "Yes"
 
-The man pulls out a little square box from a satchel, and places Albert's phone in it.
+The man pulls out a little square box from a satchel and places Albert's phone in it.
 
 - (Angry voice) "This part of the path to the station is usually somewhat deserted..."
   "most folks prefer the wider and brighter path around the pine trees, even if it is 567 meters longer"
@@ -59,7 +59,7 @@ In all honesty, none of this is making much sense to Albert - who found the man'
 
 The man is staring into Albert's eyes in what Albert considers a 'sunken' stare. He could probably do this all day. What a God-damned sicko!
 
-- (Albert) "Look, I don't mind telling you all about seeing Angela outside of work, but can I at least ask you not to pass any off the information on to anyone else?"
+- (Albert) "Look, I don't mind telling you all about seeing Angela outside of work, but can I at least ask you not to pass any of the information on to anyone else?"
   "It's not that I've done anything wrong per se..."
 - (John) "No" [deadpan]
 - (Albert) "... I saw her once outside of work" [defeated]
@@ -78,7 +78,7 @@ The man is staring into Albert's eyes in what Albert considers a 'sunken' stare.
 
 #section(Albert the Whore)
 
-For the first time during this cozy exchange, the man seems to be taken aback by what Albert has said, and this comes as no surprise to Albert, because with his 172 cm, 89 kg and an almost criminally pathetic muscle-to-body-fat-ratio, Albert doesn't really fit most peoples perception of what a male prostitute looks like. Hell, Albert doesn't fit Albert's perception of what a male prostitute looks like.
+For the first time during this cozy exchange, the man seems to be taken aback by what Albert has said, and this comes as no surprise to Albert, because with his 172 cm, 89 kg and an almost criminally pathetic muscle-to-body-fat-ratio, Albert doesn't really fit most people's perception of what a male prostitute looks like. Hell, Albert doesn't fit Albert's perception of what a male prostitute looks like.
 
 - (John) "Somehow I doubt that"
 
@@ -91,8 +91,8 @@ The man... "John"... is doing a pretty good job of keeping up the tough guy act,
 - (Albert) "There was a party at FinaLibre, and one of the women brought a group of her friends and as the party was nearing the end, I was approached by one of said friends" 
   "- a really beautiful woman - "
   "who basically told me that she and I would be taking a taxi to her place"
-- (John) "..." [looking skeptic]
-- (Albert) "I know what you are thinking, because I was thinking that too"
+- (John) "..." [looking skeptical]
+- (Albert) "I know what you are thinking because I was thinking that too"
   "Well, I guess I kinda found out about that when we got to her place"
 - (John) "She robbed you?"
 - (Albert) "No. We had sex"
@@ -105,21 +105,21 @@ The man... "John"... is doing a pretty good job of keeping up the tough guy act,
   "Does that make sense?"
 - (John) "Ish... but go on"
 - (Albert) "I think it would have worked on some guys..."
-  "hell, most guys with an ounce of self esteem would probably have objected sometime before round 3, but it had been a long time since any woman..."
-  "hell, since ANYONE, had payed me much attention, and I was just too high on being there with her, that not even the assholes that used to steal my lunch money in elementary could have brought me down at that moment"
+  "hell, most guys with an ounce of self-esteem would probably have objected sometime before round 3, but it had been a long time since any woman..."
+  "hell, since ANYONE, had paid me much attention, and I was just too high on being there with her, that not even the assholes that used to steal my lunch money in elementary could have brought me down at that moment"
   "and somehow this just seemed to wind her up even tighter..."
-  "I think an outside observer would have judged round 4 and 5 as outright acts of aggression on her part"
+  "I think an outside observer would have judged rounds 4 and 5 as outright acts of aggression on her part"
 
 As Albert says round 4 and 5 John's facade visibly cracks for a moment.
 
 - (Albert) "I think round 5 closed the show..."
-  "at this point she was practically shouting at me to get out of her apartment, and I think she might even have slapped me at one point, and I yielded..."
+  "at this point, she was practically shouting at me to get out of her apartment, and I think she might even have slapped me at one point, and I yielded..."
   "of course I yielded..."
   "I tell her I just have to make a last trip to the bathroom, and I'll get out of there"
   "Well, when I get back in the bed room to pick up my clothes, she is looking at me with a sadistic grin on her face, and I start to fear that she might do me serious physical harm, when she tells me to hold out my hand"
   "Which I do..." 
   "She picks up her purse from the bedside table, pulls out 200 EUR, put's them in my hand, and tells me to 'get my dirty whore-ass out of her home'"
-  "looking back at it, I guess she thought I would feel degraded by this, and maybe if I had been one of the douche bags from Client Management I would have...."
+  "looking back at it, I guess she thought I would feel degraded by this, and maybe if I had been one of the douchebags from Client Management I would have...."
   "and I wouldn't have minded acting humiliated for her had I known that was what she wanted..."
   "that would have been the least I could do..."
   "but here I am, with this incredibly beautiful woman who I had just gone a 5-rounder with..."
@@ -129,7 +129,7 @@ As Albert says round 4 and 5 John's facade visibly cracks for a moment.
 - (John) "Alright..."
   "Assuming I believe you: how did you convert that one night into a 'career'?"
   "and don't tell me you have been blessed with an abundance of beautiful, man-hating women with fuck-it money to waste for the last year" [vaguely smiling]
-- (Albert) "Well, about a week later there is a knock on my door, and when I open I am greeted by a young woman, who nervously asks me if I'm Albert, and tells me that her friend had suggested that she go see this male prostitute she knows"
+- (Albert) "Well, about a week later there is a knock on my door, and when I open I am greeted by a young woman, who nervously asks me if I'm Albert and tells me that her friend had suggested that she go see this male prostitute she knows"
   "Now, I can kinda guess who that friend might have been"
   "and what her motivation for passing along my contact information" 
   "- not that I remember giving them to her -"
@@ -149,28 +149,28 @@ As Albert says round 4 and 5 John's facade visibly cracks for a moment.
   "And the thing is..."
   "hell, how do I explain this?..."
   "It's 2024, post-#Me2 right?..."
-  "Remember that fad where women were posting their number of sex-partners on their facebook walls?"
+  "Remember that fad where women were posting their number of sex partners on their Facebook walls?"
   "but still... some things linger on..."
-  "I mean... it's no more than a few days ago I heard two young Albert Einsteins of the future agreeing on the old sage-wisdom about the 'Master Key' and the 'useless lock'..."
+  "I mean... it's no more than a few days ago I heard two young Albert Einsteins of the future agree on the old sage wisdom about the 'Master Key' and the 'useless lock'..."
   "and fucking 'coin offers' man..."
 - (John) "Well..." [shrugging in a 'I know what you mean' fashion]
 - (Albert) "Yeah!" [stern]
-  "And I'm sure that most of the women who request my services would prefer a 6 foot 5 poster-boy for the fitness revolution, but I'm..."
+  "And I'm sure that most of the women who request my services would prefer a 6 foot 5 poster boy for the fitness revolution, but I'm..."
   "dependable... I always give it my all..."
   "I have a pretty broad taste..."
-  "I only do women and I adhere religiously to the 'Old Pig'-rule, but other than that..."
-  "I guess I do have obesity- and/or disfigurement-limits, but I haven't hit 'em yet, and as long as the little guy is ready for play, we go in there and give it our absolute all, and best of all:"
+  "I only do women and I adhere religiously to the 'Old Pig'-rule but other than that..."
+  "I guess I do have obesity- and/or disfigurement-limits, but I haven't hit 'em yet, and as long as the little guy is ready for play, we go in there and give it our absolute all and best of all:"
   "I come with a 100% discretion guarantee, because:"
   "who's going to believe a claim that a beautiful young woman would pay me for sex anyway?!"
   "Every Monday, when the 'Alpha Dawgs' stroll into the office and boast about their 'conquests'" 
-  "- and I have pretty good idea that at least half of those are exaggerated, if not downright lies -"
+  "- and I have a pretty good idea that at least half of those are exaggerated, if not downright lies -"
   "NOBODY asks me if any 'fine chicks' have been paying me for sex this weekend"
-  "Most people see me as this weird introverted guy who probably lives in his mom's basement and is yet to experience the magical world of the birds and the bees, and I play into it..."
+  "Most people see me as this weird introverted guy who probably lives in his mom's basement and has yet to experience the magical world of the birds and the bees, and I play into it..."
   "avert eye-contact as much as possible"
   "keep an OCD-like schedule of coming and going.."
   "I could give a fuck less what train I catch, and my mom bailed on my dad and I when I was 2..."
   "I don't give a rats ass about body-counts"
-  "fuck trophy walls..."
+  "Fuck trophy walls!"
   "I JUST ABSOLUTELY LOVE PLAYING THE GAME and I'm going to do all I can to stay on that wave for as long as I can..."
   "and when that 'U BUSY 2NITE?'-text dings"
   "I'm as excited now as I was 2 years ago..."
@@ -184,15 +184,15 @@ As Albert says round 4 and 5 John's facade visibly cracks for a moment.
   "there's not much to tell really"
   "I got a text about 3 months ago..."
   "I didn't recognize her address, but then again, I don't know where anybody lives"
-  "I show up at her apartment at 21:00 on the dot, as she had requested"
-  "It was pretty obvious that she was disappointed in seeing me there, but I'm not sure SHE even knew what she was hoping for"
+  "I showed up at her apartment at 21:00 on the dot, as she had requested"
+  "It was pretty obvious that she was disappointed to see me there, but I'm not sure SHE even knew what she was hoping for"
   "I honestly think it was sort of a spur-of-the-moment-thing for her"
-  "I tell her I had no idea she was the sender of that text..." 
+  "I told her I had no idea she was the sender of that text..." 
   "which was true, because I was as surprised as she was"
   "that I would be more than happy - even honored - to carry out whatever she wanted"
   "- which was also sort of true, I guess -"
   "but that I would fully understand if she wanted to call it off, and that of course, no one would ever know about this misunderstanding"
-  "and I think she was about to take me up on my offer to just forget about the whole ordeal, when I guess she must have changed her mind, and besides from that first time I told you about before, it was the single-most weird experience I have had while 'gigging'"
+  "and I think she was about to take me up on my offer to just forget about the whole ordeal, when I guess she must have changed her mind, and besides from that first time I told you about before, it was the single most weird experience I have had while 'gigging'"
 - (John) "Go on"
 - (Albert) "At the root of it..."
   "I really don't understand what made her change her mind..."
@@ -216,7 +216,7 @@ As Albert says round 4 and 5 John's facade visibly cracks for a moment.
 - (John) "..." [still staring at Albert, but distant]
 - (Albert) "..."
 - (John) "..." [staring, distant]
-- (Albert) "..and then the door to the bath-room springs open and we are joined by a group of leprechauns tossing gold-covered chocolate coins and Angela pulls off her mask, and as it turns out, she was actually my prodigal mother who left me during my infancy and I started feeling guilty, but in comes doctor Phil to save the day and he declares that I had acted in good faith and therefore, was indeed NOT a motherfucker, and..."
+- (Albert) "..and then the door to the bathroom springs open and we are joined by a group of leprechauns tossing gold-covered chocolate coins and Angela pulls off her mask, and as it turns out, she is actually my prodigal mother who left me during my infancy and I started feeling guilty, but in comes Doctor Phil to save the day and he declares that I had acted in good faith and therefore, was indeed NOT a motherfucker, and..."
 - (John) "..." [distant]
   "..." [eyes moving from side to side, seemingly in an effort to catch up to the conversation]
   "Alright..." [smiling]
