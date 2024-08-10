@@ -52,7 +52,7 @@ The human mind is such a funny thing, with all of its little weird ways: it's ca
 - the Swiss-army knife of useful utilities in his pocket had more than enough battery that he could use its flashlight to peruse this hall for the next hour with more than enough light to keep him from bumping into things
 
 But well... such are the ways of the mind, and when 2 lights at the other end of the hall start blinking, Cecil practically runs towards them, smashing his foot against an office chair about halfway there. 
-This is no time to pause or slow down, but DAMN that hurts! When he is safely within the flickering light, Cecil gathers his composure by drawing in a couple of deep breaths and wipes a little moisture from the side of one eye. The sign on the door that could very well be the entrance to an office reads: "Sune". The door is slightly ajar, but Cecil doesn't feel right about just barging in. "This better be it" he thinks, and is about to knock on the door, when he is interrupted by a loud voice from the other side of the door.
+This is no time to pause or slow down, but DAMN that hurts! When he is safely within the flickering light, Cecil gathers his composure by drawing in a couple of deep breaths and wipes a little moisture from the side of one eye. The sign on the door to what could very well be an office reads: 'Sune'. The door is slightly ajar, but Cecil doesn't feel right about just barging in. "This better be it" he thinks, and is about to knock on the door, when he is interrupted by a loud voice from the other side of the door.
 
 - (Voice) "What the fuck do you mean you don't feel right about this?!"
 - (Another voice) "You can't tell me you like these jobs!"

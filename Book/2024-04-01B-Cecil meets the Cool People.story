@@ -2,7 +2,7 @@
    "ChapterTitle": null,
    "StoryLineKey": "lunch",
    "Aliases" : {
-      "Woman": "Carol",
+      "Woman": "carol",
 	  "John": "oldjohn",
 	  "Man" : "karl",
 	  "Other man": "ben"

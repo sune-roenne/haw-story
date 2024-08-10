@@ -26,6 +26,23 @@
 		"Font": "Ink Free"
 	},
 	{
+		"Character":"suneasevilman",
+		"ShowName": "Evil voice",
+		"Color": "rgb(62,0,179)",
+		"FontNot": "Chiller",
+		"SiteFont": "Ink Free Web",
+		"Font": "Ink Free"
+	},
+	{
+		"Character":"suneaslessevilman",
+		"ShowName": "Less evil voice",
+		"Color": "rgb(65,3,182)",
+		"FontNot": "Chiller",
+		"SiteFont": "Ink Free Web",
+		"Font": "Ink Free"
+	},	
+	
+	{
 		"Character":"carol",
 		"ShowName": "Carol",
 		"Color": "rgb(176,7,134)",

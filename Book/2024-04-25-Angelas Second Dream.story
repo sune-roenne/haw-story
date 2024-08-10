@@ -78,7 +78,7 @@ Angela snaps her finger, and the buzzing in the air stops, as hundreds of mosqui
 - (Angela) "And let me guess..."
   "He is a noble Baron who falls in love with the kitchen maid, but his cruel mother forces him to marry this bitchy Countess..."
   "which he refuses and tells his evil witch of a mother that he would rather live poor on the street with the woman he loves than do her bidding..."
-  "and then the old witch orders her brother, who is heavily indebted to her since she payed off his gambling debt, to kill the poor pretty kitchen maid..."
+  "and then the old witch orders her brother, who is heavily indebted to her since she paid off his gambling debt, to kill the poor pretty kitchen maid..."
   "and of course, the slimebag uncle agrees, and when the handsome Baron finds the love of his life stabbed to death on the kitchen floor..."
   "he sets off in uncontrollable anger and kills the uncle, his bitch mother, and every servant who knew about the plot to kill the woman he loved and did NOTHING..."
   "and when the police come to arrest him, he attacks them and is put down like a mad dog..."
