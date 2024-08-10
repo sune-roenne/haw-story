@@ -4,7 +4,7 @@
    "Aliases" : {
       "Waitress": "angela"
    },
-   "RevisedOn" : "2024-07-27"
+   "RevisedOn" : "2024-08-10"
 }
 
 - (Waitress) "Welcome to The House of Role-play..." 
@@ -26,10 +26,10 @@
 - (Waitress) "Surely sir..."
   "Our Dirty Thirties Monday Night Special is the preferred choice for the seasoned role-player"
   "With it's authentic atmosphere"
-  "- rich with the smoking embers of the Roaring Twenties and saturated to the brim with the hopelessness of the 1930's US recession mixed with really unfortunate climate conditions -"
+  "- rich with the smoking embers of the Roaring Twenties and saturated to the brim with the hopelessness of the 1930s US recession mixed with really unfortunate climate conditions -"
   "..." [the waitress leans forward and puts her mouth close to John's ear]
-  "and a skimpy little dairy maid dress..." [whispers]
-  "it revolves around one young couples everlasting love and the struggles of fighting socioeconomic distress and capitalist asshats..." [now reading aloud from the menu again]
+  "and a skimpy little dairymaid dress..." [whispers]
+  "it revolves around one young couple's everlasting love and the struggles of fighting socioeconomic distress and capitalist asshats..." [now reading aloud from the menu again]
   "Role-players Weekly has on no less than 12 occasions nominated this specific play for Aficionados Top-Choice Award..."
   "10 of which it won"
 - (John) "I don't see how I can say no to that!..."
@@ -40,16 +40,16 @@
   "For sanitary reasons"
   "Alright sir..."
   "Our room is ready for us, so if you would come this way..." [takes John by the hand and leads him into a changing room]
-  "There you go sir..."
+  "Right this way, sir..."
   "Now you just have to change before we begin"
 
 John unbuttons his pants and reaches for the denim overalls hanging on the wall.
 
 - (Waitress) "Oh no sir..."
   "I'm afraid those aren't for you..."
-  "Did you not hear me say 'skimpy dairy maids dress'?"
+  "Did you not hear me say 'skimpy dairymaid dress'?"
 - (John) "..." [looking at the waitress]
-  "You mean, when you leaned forward and whispered 'skimpy little dairy maid dress' into my ear out there, right?" [pointing outside]
+  "You mean, when you leaned forward and whispered 'skimpy little dairymaid dress' into my ear out there, right?" [pointing outside]
 - (Waitress) "Certainly sir..."
   "Are you feeling alright?"
 - (John) "Now that you mention it, I DO remember" 
@@ -57,17 +57,17 @@ John unbuttons his pants and reaches for the denim overalls hanging on the wall.
 - (Waitress) "That's perfectly fine sir..."
   "It happens to the best of us" [big customer-is-always-right-smile]
   
-Without taking his eyes off the waitress, John finishes undressing, grabs the blue dairy maids dress and unzips it in the back, and then slides first one leg and then the other leg down the dress. The dress has clearly been made for a person of much smaller proportions than John, but he pretends he doesn't notice this, grabs the most sturdy part of the dress his hands can find, and pulls the dress up with all his might, causing a huge rupture in the crotch of the dress. John and the waitress are still staring at each other looking very serious, but as the dress lets out its cry of pain, the waitress can't hold back the laughter any more.
+Without taking his eyes off the waitress, John finishes undressing, grabs the blue dairymaids dress, unzips it in the back, and then slides first one leg and then the other leg down the dress. The dress has clearly been made for a person of much smaller proportions than John, but he pretends he doesn't notice this, grabs the most sturdy part of the dress his hands can find, and pulls the dress up with all his might, causing a huge rupture in the crotch of the dress. John and the waitress are still staring at each other looking very serious, but as the dress lets out its cry of pain, the waitress can't hold back the laughter anymore.
 
 - (Waitress) "Oh John... You look splendid!" 
 
-The waitress runs to John and jumps onto him, with her legs clasping around his mid-section and kisses him violently. John, not able to move from being trapped in a dress 10 sizes and 1 sex too small, lets himself fall backwards onto his lower back with the waitress landing on top of him. 
+The waitress runs to John and jumps onto him, with her legs clasping around his mid-section and kisses him violently. John - not able to move from being trapped in a dress 10 sizes and 1 sex too small - lets himself fall backwards onto his lower back with the waitress landing on top of him. 
 
 - (Waitress) "I don't want to do it in the Dirty Thirties John"
   "I want to milk you right here in the dirty changing room" [drawing out the 'i' in 'dirty' on each occurrence]
-- (John) "I thought I was the dairy maid...?" [looking confused]
-- (Waitress) "I want you John"
-- (John) "I want you Angela"
+- (John) "I thought I was the dairymaid...?" [looking confused]
+- (Waitress) "I want you, John"
+- (John) "I want you, Angela"
 
 ...
 
@@ -87,13 +87,13 @@ When John awakes, Carol is sitting upright in her bed staring at him, tears stre
   "In MY bed??!"
 - (John) "She wasn't dead in my dream"
 - (Carol) "You are obsessed!"
-  "This is so far from normal that you have to bounce the signal off satellites to establish radio-contact with normal"
+  "This is so far from normal that you have to bounce the signal off satellites to establish radio contact with normal"
   "Do you think that solving this case will bring her back?"
 - (John) "No"
 - (Carol) "And let's just pretend it did..."
   "That's about the most fucked up assumption to a conversation I've ever had, but let's roll with it"
   "What do you think would happen if she came back and magically fell in love with the great amateur detective who solved the mystery of her murder?"
-- (John) "I don't know how to answer.."
+- (John) "I don't know how to answer..."
 - (Carol) "I'll tell you what would happen: IT WOULD NEVER WORK!"
   "She'd tire from you within the month..."
   "I'm sure she would find the whole angry/gloomy-avenger thing exciting to begin with, but it gets boring pretty quickly and Angela of all people would realize that..."
@@ -109,7 +109,7 @@ When John awakes, Carol is sitting upright in her bed staring at him, tears stre
 - (John) "Compromises"
 - (Carol) "That's right! Compromises!"
   "And that's the one thing neither of you know how to do!"
-  "But alright, let's assume you don't give a shit about what chairs you have in your living-room and have no problem letting Angela get that one"
+  "But alright, let's assume you don't give a shit about what chairs you have in your living room and have no problem letting Angela get that one"
 - (John) "I think it would be the other way around..."
   "when it comes to the chairs that is..."
 - (Carol) "..." [staring in amazement]
