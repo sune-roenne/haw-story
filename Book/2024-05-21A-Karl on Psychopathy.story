@@ -4,7 +4,7 @@
    "Aliases" : {
       "john": "oldjohn"
    },
-   "RevisedOn" : "2024-07-24"
+   "RevisedOn" : "2024-08-10"
 }
 
 
@@ -24,13 +24,13 @@
   "But... I don't know how to explain it..."
   "Maybe I'm feeling a little 'under-whelmed'"
   "I guess I'm glad the financial sector didn't live up to my expectations..."
-  "but I came in expecting pots of coins in the entrance for people to throw around in decadence..."
-  "people snorting cocaine off the butts of hookers while 'landing big deals over the phone'" [gestures holding a telephone-receiver between head and shoulder]
+  "but I came in expecting pots of coins at the entrance for people to throw around in decadence..."
+  "people snorting cocaine off the butts of hookers while 'landing big deals over the phone'" [gestures holding a telephone receiver between head and shoulder]
   "and out-of-touch professional psychopath management driving stock of replaceable labor over the Cliff of Exhaustion in suicide!"
 - (Carol) "Would one of you guys please show Mike around to the Employee Fountain of Nickles? ... tsk, tsk tsk" 
 - (Ben) "I'll get you set up for FunBox TM Mike" [winking]
 - (John) "Now we just gotta find you a boss psychopath for Mike and he'll be a happy camper" [smiling at Mike]
-- (Susan) "We've got Pissy Frank come Audit-time... Will that do?"
+- (Susan) "We've got Pissy Frank come Audit time... Will that do?"
 - (Karl) "..." [in deep contemplation, apparently brooding over an idea]
   "You guys know what?"
 - (Everyone else) "..." 
@@ -39,7 +39,7 @@
 - (Karl) "I'm serious... I think this whole spiel about 'psychopathy' is just something the square Johns have come up with to make sure the world stays a boring place" [challenging]
 - (Carol) "..." [looking puzzled at John]
 - (John) "..." [shrugging shoulders as if to say 'Hell if I know, let's see where this takes us']
-- (Karl) "Look at the traits commonly associated with a 'psychopath'" [making a big show about putting quotation-marks around 'psychopath']
+- (Karl) "Look at the traits commonly associated with a 'psychopath'" [making a big show about putting quotation marks around 'psychopath']
   "- lack of empathy"
   "- impulsivity"
   "- aggressiveness"
@@ -51,7 +51,7 @@
   "What type of people will we be looking to to ward off the foreign threat?"
   "That's right... The so-called 'psychopaths'"
   "We'll want people who are not afraid to act and who are willing and able to act violently against other people"
-  "Think of Gilles de Rais: outstanding military career during The Hundred Year's War, returns home and is declared a 'psychopath'"
+  "Think of Gilles de Rais: outstanding military career during The Hundred Year's War, returns home, and is declared a 'psychopath'"
 - (Mike) "THE GUY WAS A FUCKING PEDOPHILE WHO MURDERED MORE THAN A HUNDRED CHILDREN!"
 - (Everyone) "..." [looking accusingly at Karl]
 - (Karl) "Alright, alright... I'll fold on Gilles..."
@@ -59,9 +59,9 @@
   "BUT! My point still stands: what we think of as a 'psychopath' is someone who would be a real hero during times of war"
 - (Cecil) "I'm not so sure about that..."
   "Didn't you guys see that Ted Talk about the guy who trained Navy Seals?"
-  "He made a big deal about how social skills was like the absolute most important skill a prospective Navy Seal could have"
+  "He made a big deal about how social skills are like the absolute most important skill a prospective Navy Seal can have"
   "Maybe in the days of madly charging the enemy while you are swinging an ax above your head, the type of self-centeredness you associate with psychopaths was OK..."
-  "but in modern day warfare where each soldier represent a large investment, you need someone who will look out for more than #1"
+  "but in modern-day warfare where each soldier represents a large investment, you need someone who will look out for more than #1"
 - (Karl) "You guys are missing the point!"
   "But we'll go about it another way..."
   "If I started punching you guys randomly throughout the day... You might call me a psychopath, right?"
@@ -80,7 +80,7 @@
   "There were rumors that he eloped to Brazil on embezzlement charges, but nothing official has come out"
 - (Karl) "Well, check this out..."
   "Jacob is dead!"
-  "I know someone who knows someone in the Police, who said he was found murdered in his plane or motor-glider or whatever..."
+  "I know someone who knows someone in the Police, who said he was found murdered in his plane or motor glider or whatever..."
   "Shot 10 times in the head!"
   "But that the case is COVERED in red tape!"
   "Buried!"
@@ -100,8 +100,8 @@
   "I'd like to think that our police force would shut such an operation down..."
 - (Karl) "Yeah well... There's a bit more to it..."
   "You can't just put anyone up there..."
-  "Submissions are screened and you have to submit evidence that the person deserves to be..." [makes shooting-gesture with his hand]  
-  "... Jacob believed that some pretty top-ranking police officers are in on the deal"
+  "Submissions are screened and you have to submit evidence that the person deserves to be..." [makes shooting gesture with his hand]  
+  "Jacob believed that some pretty top-ranking police officers are in on the deal"
 - (Everyone) "..." [looking at Karl, a little uncomfortably]
 - (John) "So... It's a kinda 'Hobby-Killers Craig's List' combined vigilante forum?"  
 - (Karl) "Yes!"
@@ -109,20 +109,20 @@
 - (Karl) "Yes! And I'm glad you said that..."
   "Because it ISN'T a paradox... Not in this place at least..."
   "When you are a member of the society, you are automatically on the list"
-  "On the web-site, you're just a randomly generated ID..."
+  "On the website, you're just a randomly generated ID..."
   "But if anyone is able to uncover your real identity..."
   "They can kill you!"
 - (Cecil) "Which of course they could do under any circumstance. I mean, you can always decide to be a murderous bastard, right?"
 - (Karl) "Yes AND no... Because the murders that happen under this operation..."
   "They are magically forgotten about!"
-  "In the way that 'nobodies seen Jacob but he's probably living the sweet life in a favela in Brazil, when in fact he's buried in an unmarked grave somewhere'"
+  "In the way that 'nobody's seen Jacob but he's probably living the sweet life in a favela in Brazil, when in fact he's buried in an unmarked grave somewhere'"
 - (Everyone) "..." [looking at Karl puzzled and a little worried]
 - (Karl) "So, now..." [sitting up straight and raising his voice]
-  "Society as a whole, would label anyone on that list a 'psychopath', right?" [once again, emphasizing the quotes]
+  "Society as a whole would label anyone on that list a 'psychopath', right?" [once again, emphasizing the quotes]
 - (Everyone) "..." [a little uneasy]
 - (Karl) "But I call bullshit!"
   "They just have another frame of reference!"
-  "The ability to track someone down and murder them isn't some malevolent trait that some off-breed less developed cast of society has..."
+  "The ability to track someone down and murder them isn't a malevolent trait that some off-breed less developed cast of society has..."
   "Like the square Johns will have you think"
   "It's just that you have accepted that the same thing might happen to you... You are playing for bigger stakes so to say"
   "And I think that you can generalize this perception..."
@@ -131,14 +131,14 @@
   "They are playing the game of life on a higher skill setting"
 - (Ben) "Well, I think psychologists generally agree that psychopathy is the result of a mix of nature and nurture, but..."
 - (Karl) "BUT NOTHING!"
-  "Can't you see: this is 'stay-in-your-place'-ism in it's worst form"
+  "Can't you see: this is 'stay-in-your-place'-ism in its worst form"
   "Because the rich assholes that are presently in power, do not want us to play any game that might jeopardize their superiority..."
   "... so they make up a whole load of bull shit terms like: 'psychopath' and 'sociopath'..."
   "notice how they can't even agree on whether those two are the same damn thing!"
   "and every fucking square John happily skip along to the beat of these assholes:"
   "'we must not be psychopaths', because it makes the ASSHOLES in power feel uneasy"
   "..." [now standing, looking around the table, challenging the others to retort]
-- (Cecil) "I'm felling a little uneasy myself... But I've got nothing..." [folding his hand]
+- (Cecil) "I'm feeling a little uneasy myself... But I've got nothing..." [folding his hand]
 - (Mike) "That was a lot to take in... I can't even..." [folding his hand]
 - (Ben) "..." [shrugging his shoulders, folds]
 - (Everyone) "..." [looking at John in expectation of his move]
@@ -155,9 +155,9 @@
 - (Carol) "I think you need to see someone about your fear of blood, honey" [touching Karl's arm comfortingly]
 - (Karl) "Look! It's not about that!" [frustrated]
 
-Everybody except from Karl gets up from the lunch table.
+Everybody except Karl gets up from the lunch table.
 
 - (Karl) "Not ALL about that anyways..." [muttering to himself]
 
 - (Mike) "Was that whole thing about a secret society just something he made up?" [whispering to Cecil as they leave]
-- (Cecil) "I'm not sure man, but I might just stick to 'not-killing-people' to be on the safe side" [smiling, a little uneasy]
+- (Cecil) "I'm not sure man, but I may just stick to 'not-killing-people' to be on the safe side" [smiling, a little uneasy]

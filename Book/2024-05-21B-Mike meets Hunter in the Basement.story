@@ -6,7 +6,7 @@
 	  "Angry man": "sune",
 	  "john": "oldjohn"
    },
-   "RevisedOn" : "2024-07-24"
+   "RevisedOn" : "2024-08-10"
 }
 
 
@@ -16,7 +16,7 @@
 - (Karl) "I need a favor... But first, you gotta promise me to keep what I'm about to tell you between the two of us...?" [looking serious]
 - (Mike) "Of course... Tell me"
 - (Karl) "I've just been given my chance of making it BIG!"
-  "There is this top-secret project about launching a HFT-fund out of FinaLibre..."
+  "There is this top-secret project about launching an HFT-fund out of FinaLibre..."
 - (Mike) "HFT?"
 - (Karl) "High-Frequency Trading... You can look it up on your own time..."
   "As I said, this is my big chance..."
@@ -35,12 +35,12 @@
   "Are you fucking with me?"
 - (Mike) "Sorry man... Please... continue"
 - (Karl) "Look... You speak IT, and I have a feeling he'll like you like some real workplace father/son shit..."
-  "Hell, if he does take to you, you'll be on the fast-track to all sorts of insights into what is moving on the technology-side of things..." 
+  "Hell, if he does take to you, you'll be on the fast track to all sorts of insights into what is moving on the technology side of things..." 
   "He is like the nexus of any project even remotely technical in nature"
 - (Mike) "Awesome!"
 - (Karl) "And right now, I just need you to go have a short chat with him..."
-  "Introduce yourself, shoot the shit about AI chicks or whatever the fuck gets you IT guys damp..."
-  "and then just ask him for a status on the HFT-algorithm..." 
+  "Introduce yourself, shoot the shit about Japanese AI chicks or whatever the fuck gets you IT guys damp..."
+  "and then just ask him for an update on the HFT-algorithm..." 
   "He's probably going to go off about what kind of useless shit I am, and you can just throw me under the bus with some:"
   "'Yeah, what do we even need these soulless FinDevils for, but don't shoot the messenger, I'm new here'-spiel..."
   "I just need to report back to project management with a status for now"
@@ -50,7 +50,7 @@
 - (Mike) "So where do I find this wizard?"
 - (Karl) "..." [face expresses 'seriously?']
   "You know the stairway by the Fund Accounting team...?"
-  "Well, go down the stairs to the basement and then when you are almost at the end of the hallway down there, there's a sign that says 'Sune'... That's the place!"
+  "Well, go down the stairs to the basement, and then when you are almost at the end of the hallway down there, there's a sign that says 'Sune'... That's the place!"
 - (Mike) "Well, there's no time like the present..." 
   "I'll get on it right away" [shoots dual-yielded finger guns at Karl]
 
@@ -59,12 +59,12 @@ Mike sets off down the hall in a cheery little skip, and almost bumps into John 
 - (John) "Wooow... Easy there buddy! What are you so cheerful about?"
 - (Mike) "I'm off to see the wizard, the wonderful wizard of Oz" [continues along the hall. Skipping]
 
-John looks around the hall to see if he is somehow the butt of some candid camera setup, when he notices Karl sitting at Mike's desk in the adjoining room, with a huge grin on his face.
+John looks around the hall to see if he is somehow the butt of some candid camera setup when he notices Karl sitting at Mike's desk in the adjoining room, with a huge grin on his face.
 As he realizes that yet another poor young soul has just been laid sacrifice on the alter of office stupidity, he seriously considers going after Mike and giving him the low-down on this stupid ritual, but somehow he knows, that would be too outside of the expectation of his role at the company, and resides to just send Karl a 'this-is-all-you-and-no-me'-look.
 
 ...
 
-Mike opens the door at the bottom of the staircase and immediately notices that something is off in the basement hallway: all the ceiling lights are flickering, and a bunch of the boxes of whatever is being stored down here lay scattered on the floor. And then there is a sound... A deep humming... like those drowning engine sounds they use in the horror movies... and what the hell was that? It sounded like a scream, but too high pitch to be human. The outlook of meeting the IT-Wizard of FinaLibre had seemed really enticing to Mike just a few minutes ago, but right now, he could do without anything the old man might be able to teach him to just be back at his desk. But of course, he had made a promise to Karl. It's not like he's so oblivious to Karl's character that he has any illusions that Karl wouldn't have stiffed him at the first sign of trouble had things been the other way around, but Mike is a firm believer in being the change you wish to see in the world, and thinking about changing the world is what propels him - granted: rather slowly - forwards. Mike is 100% focused on what is at the far end of the hall, and is therefore caught completely off-guard when a hand grabs his shirt and drags him into the washing room.
+Mike opens the door at the bottom of the staircase and immediately notices that something is off in the basement hallway: all the ceiling lights are flickering, and a bunch of the boxes of whatever is being stored down here lay scattered on the floor. And then there is a sound... A deep humming... like those drowning engine sounds they use in the horror movies... and what the hell was that? It sounded like a scream, but too high-pitched to be human. The outlook of meeting the IT Wizard of FinaLibre had seemed really enticing to Mike just a few minutes ago, but right now, he could do without anything the old man might be able to teach him to just be back at his desk. But of course, he had made a promise to Karl. It's not like he's so oblivious to Karl's character that he has any illusions that Karl wouldn't have stiffed him at the first sign of trouble had things been the other way around, but Mike is a firm believer in being the change you wish to see in the world, and thinking about changing the world is what propels him - granted: rather slowly - forwards. Mike is 100% focused on what is at the far end of the hallway and is therefore caught off-guard when a hand grabs his shirt and drags him into the washing room.
 
 - (Mike)"What...?" [shocked, scared]
 - (Angry man) "Shut up! Do you want those damn things to eat you?" [looking intensely at Mike]
@@ -77,16 +77,16 @@ Mike opens the door at the bottom of the staircase and immediately notices that 
   "I'm Hunter for fuck's sake!"
   "Did you bring the guns?"
 - (Mike) "What guns?"
-- (Hunter) "The M10's and A15's... for fuck's sake! Why else did you come down here?!"
+- (Hunter) "The M10s and A15s... for fuck's sake! Why else did you come down here?!"
 - (Mike) "...I... I just came to see the wizard... this guy... Sune..."
 - (Hunter) "Jesus Christ! Management hasn't reacted yet?!"
   "Are you telling me that the people up there don't know that... they are on the loose...?"
   "How could you not have heard?! The yelling! Those horrible screams... Oh God" [trailing off again]
 - (Mike) "I don't know... I don't know any of this..." [voice breaking... close to crying]
-- (Hunter) "Jesus Fuck! That's why Management ordered 'maintenance' those months ago! They are burying this whole operation, and every living soul in this building along with it"
+- (Hunter) "Jesus Fuck! That's why Management ordered 'maintenance' those months ago! They are burying this whole operation and every living soul in this building along with it"
 - (Mike) "What are you talking about?" [almost yelling, tears rolling down his cheeks]
 - (Hunter) "Alright son... I want you to consider something..." [cold and bitter expression]
-  "How would you rather die: over the course of 15 minutes as extremely potent poison from genetically engineered bats spread through your blood, making it feel like every part of your body is being burned at 1000 degree Celsius, or actually burn to death in a building that has been shut down to cover up the evidence of a sick experiment gone horribly wrong..." 
+  "How would you rather die: over the course of 15 minutes as extremely potent poison from genetically engineered bats spread through your blood, making it feel like every part of your body is being burned at 1000 degrees Celsius, or actually burn to death in a building that has been shut down to cover up the evidence of a sick experiment gone horribly wrong..." 
   "all while the greedy, no-good board of directors get rich off military subsidies and YOUR death!?"
 - (Mike) "I DON'T WANT ANY OF THAT!"  [in a scream that clearly expresses that he doesn't think it's fair he should even have to make that choice]
 - (Hunter) "Alright... Then we have to act fast..."
@@ -96,8 +96,8 @@ Mike opens the door at the bottom of the staircase and immediately notices that 
 - (Mike) "I guess, but... I don't want to die!"
 - (Hunter) "... and I don't think you'll have to..."
   "I'll do a countdown and then you need to head for the stairway as fast as you can"
-  "I still have two shots left in this old thing" [holds up gun]
-  "...and I know where to aim them..." 
+  "I still have two shots left in this old thing..." [holds up a gun]
+  "and I know where to aim them..." 
   "I know just where to aim them!" [sadistic grin]
   "I can cover you long enough for you to reach the stairs, and then it's up to you..."
   "Can you do this?"
@@ -120,12 +120,12 @@ Mike opens the door at the bottom of the staircase and immediately notices that 
 Hunter jumps into the hallway and aims his gun at whatever is waiting out there in the flickering dark. Mike takes off sprinting for the door, and as he is about halfway there, he hears a loud scream of despair and 2 shots being fired. 
 
 - (Hunter) "Aaaaaarrrrgggghhhh! What the fuck are you doing son! RUN FOR FUCKS SAKE! COMPLETE THE MISSION!"
-  "Oh God that hurts!"
+  "Oh God, that hurts!"
   "Oh fuck... THE SPIDERS ARE OUT! DON'T LET THEM GET INTO YOUR EARS..." 
    "WHATEVER YOU DO SON, DON'T LET THE SPIDERS GET IN YOUR EARS"
   "Aaaaarggghhhhh...." [screaming, fading to a rattle]
 
-Mike is an enlightened person, and though his main interests lay within the realm of Computer Science and Technology, he doesn't shy away from also consuming highlights from a variety of other domains, like for instance Psychology. Mike therefore knows quite a bit about the complex relation between the human body and mind, and knows that you can't talk about one without the other. It for instance, makes no sense to imagine a mind producing conscious thought without a body to power the operation, yet were you to ask Mike at this specific moment, he would have sworn - against better judgment - that his mind and body had gone two separate ways when the screaming began. One part of Mike - his mind - knew that he should help the poor guy... if for no other reason, than it was the RIGHT thing to do. His body however, had no intention at all of sticking around to see just how genetically engineered bats actually go about the business of killing with their fangs, and seeing as it was Mike's body who was in charge of charting out the course at that moment, Mike's mind had to content itself with fleeing the scene at high pace. Luckily for Mike's mind, it got something else to worry about instead of diving into the bottomless pits of guilt it might otherwise have thrown itself into: 'did he say spiders? Oh God... I HATE SPIDERS... What was that... Did I just feel something in my hair?'.
+Mike is an enlightened person, and though his main interests lay within the realm of Computer Science and Technology, he doesn't shy away from also consuming highlights from a variety of other domains, like for instance Psychology. Mike therefore knows quite a bit about the complex relationship between the human body and mind, and knows that you can't talk about one without the other. It for instance, makes no sense to imagine a mind producing conscious thought without a body to power the operation, yet were you to ask Mike at this specific moment, he would have sworn - against better judgment - that his mind and body had gone two separate ways when the screaming began. One part of Mike - his mind - knew that he should help the poor guy, if for no other reason than it was the RIGHT thing to do. His body however, had no intention at all of sticking around to see just how genetically engineered bats actually go about the business of killing with their fangs and - seeing as it was Mike's body who was in charge of charting out the course at that moment - Mike's mind had to content itself with fleeing the scene at high pace. Luckily for Mike's mind, it got something else to worry about instead of diving into the bottomless pits of guilt it might otherwise have thrown itself into: 'did he say spiders? Oh God... I HATE SPIDERS... What was that... Did I just feel something in my hair?'.
 
 As the door next to the Fund Accounting team is swung open and a young man comes screaming out of it, John is talking to Carol.
 
@@ -134,7 +134,7 @@ As the door next to the Fund Accounting team is swung open and a young man comes
 - (John) "No you're fine... Look, there's something I gotta tell you"
 - (Mike) "WE DON'T HAVE TIME FOR THAT NOW!"
  "THEY ARE ON THE LOOSE!" 
- "THE BATS AND THE SPIDERS AND GOD ONLY KNOWS WHAT OTHER MONSTROCITIES MANAGEMENT HAVE KEPT HIDDEN FROM US DOWN THERE" 
+ "THE BATS AND THE SPIDERS AND GOD ONLY KNOWS WHAT OTHER MONSTROSITIES MANAGEMENT HAVE KEPT HIDDEN FROM US DOWN THERE" 
   "WE HAVE TO GET OUT OF HERE RIGHT NOW, BEFORE WE'RE LOCKED DOWN AND MANAGEMENT BURNS THIS PLACE TO THE GROUND!"
   "LISTEN UP EVERYBODY!" 
   "I KNOW THIS IS GOING TO COME AS A SHOCK TO A LOT OF YOU, BUT YOUR VERY SURVIVAL DEPENDS ON YOU DOING EXACTLY WHAT I SAY NOW:" 
