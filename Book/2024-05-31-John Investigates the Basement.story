@@ -39,7 +39,7 @@ John continues down the hallway and now that shrill voice comes on again
   "You just let me bleed to death in the laundry room and then you helped your father EAT ME!"
   "[screaming that could have served as inspiration for Yoko Ono's career]"  
   
-That God damned screaming! John is almost twitching from unreleased anger when a person wearing a cheap Chinese copy of the Scream costume jumps out in front of John, yielding what looks like a very real knife. 
+That God damned screaming! John is almost twitching from unreleased anger when a person wearing a cheap Chinese copy of the Scream costume jumps out in front of John, holding what looks like a very real knife. 
 
 - (Soon to be dead man) "BOOOOH!"
 

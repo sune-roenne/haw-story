@@ -68,7 +68,7 @@ is about the only remarks to the sub-par conditions of the beverage situation Jo
 - (Sune) "I'll do it on the next turn..."
   "just gotta land something a liiiitle higher than 'hoovy'" [looking worried at his own legs]
 
-Sune watches his legs intently for the next 15 seconds, then suddenly jumps up and makes the 4 meters to the counter-top where the air condition remote is lying in full sprint and as he runs past the spot where John is lying on the floor, he lets the remote control fall.
+Sune watches his legs intensely for the next 15 seconds, then suddenly jumps up and makes the 4 meters to the counter-top where the air condition remote is lying in full sprint and as he runs past the spot where John is lying on the floor, he lets the remote control fall.
 
 - (Sune) "BOMBS AWAY"
 

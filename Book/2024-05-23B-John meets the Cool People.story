@@ -96,7 +96,7 @@ Without moving, John does a bottom-to-top scan of... John, then looks at him and
 - (Karl) "Mike?"
 - (Mike) "I don't know the data here, but I'm guessing someone has done some kind of research on the topic, and surely the findings are out there on the internet."
   "But I'll turn it around a little and go with: 'In any relationship, it's the one that is least emotionally involved in the relationship who is in control'"
-- (Old John) "Thank you r/RelationShipAdvice... Straight from the hive-mind"
+- (Old John) "Thank you r/RelationshipAdvice... Straight from the hive-mind"
   "You know, it must have been less than a week since that sentiment was last expressed there"
   "and I always have this kinda 'close-but-no-dice'-feeling about it"
   "It may be right most of the time, but I think the essence is, that it's the one who is willing to risk the relationship who is in charge"
@@ -128,7 +128,7 @@ Without moving, John does a bottom-to-top scan of... John, then looks at him and
 - (New John) "Go ahead" [smiling]
 - (Carol) "Not only would you be OK with - but actually have it as a requirement for a relationship - that she might up and leave you tomorrow?"
 - (New John) "I hope she leaves a note, but essentially: yes"
-- (Carol) "And you would be OK with the constant uncertainty? ... Not knowing if what you'll have tomorrow what you have today?"
+- (Carol) "And you would be OK with the constant uncertainty? ... Not knowing if what you'll have tomorrow is what you have today?"
 - (New John) "What do I have today?"
 - (Carol) "Her!"
 - (New John) "You can't have another person"

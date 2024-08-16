@@ -33,7 +33,7 @@ With the concentration of an NFL-kicker about to clinch an overtime victory, Alb
 
 - (Albert) "AAAWWWW FUUUUUCK!" [dropping to the ground in pain, rolling while grabbing his right foot]
 - (John) "What the hell is wrong with you?"
-  "I said ribs not hips!" [on his back, arching hips of the ground]
+  "I said ribs not hips!" [on his back, arching hips off the ground]
   "Jeesus..." 
   "Right where the basement freak kicked me!"
   "I damn well hope you got it out of your system now because if you kick me again, we're fighting!"

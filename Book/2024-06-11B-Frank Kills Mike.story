@@ -16,7 +16,7 @@ Still, he thinks he's landed somewhere good, and he can't think of any other pla
 
 And then there is Carol! Just saying the name to himself in his mind makes him smile. For the first time in years, he's actually considering joining a gym, because he is not blind to the fact that she's a couple of leagues above his current level in terms of physical attractiveness, but he has no doubt that he can get back in the shape he had when he was 15 and ran a lot. 
 
-Mike is thus in high spirits as he rounds the last corner on his way and starts the slight descend up the walk-way to the CEO's little country house, thinking about Carol and the future he hopes they will have.
+Mike is thus in high spirits as he rounds the last corner on his way and starts the slight ascend up the walk-way to the CEO's little country house, thinking about Carol and the future he hopes they will have.
 
 I would venture that the end of Mike's life is better than what most people have in store when they leave this world. Whether that is sufficient compensation for his life being cut tragically short - to just 27 years - by a sledgehammer to the back of his head I really can't say, but it makes things easier believing that it is. 
 

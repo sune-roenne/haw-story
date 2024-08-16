@@ -23,8 +23,8 @@
 - (Sune) "What can I do for you, John?"
 - (John) "A couple of things..." [handing Sune an envelope]
 - (Sune) "Is this you and Angela's 'naughty photo memory stash'?"
-  "... oh... No..."
-  "what would be kinda wrong, wouldn't it?"
+  "... oh... no..."
+  "That would be kinda wrong, wouldn't it?"
   "Forget I said that" [shaking his head]
 - (John) "There are two Banshee access sticks in there:"
   "one is mine, one belonged to Thomas..."
