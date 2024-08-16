@@ -9,7 +9,7 @@
 - (Donnie) "Thank you all for coming on such short notice!"
   "..."
   "I understand that you have all received an email from Frank at 14:03 today"
-  "stating that FinaLibre is looking a catastrophic quarterly earnings, with downsizing measures an unavoidable result"
+  "stating that FinaLibre is looking at a catastrophic quarterly earnings, with downsizing measures an unavoidable result"
   "I want to be 100% clear:"
 
 - Frank did not send that email! Our IT service supplier has established the origin of the email to be somewhere in Siberia
