@@ -158,7 +158,7 @@ As Albert says round 4 and 5 John's facade visibly cracks for a moment.
   "And I'm sure that most of the women who request my services would prefer a 6 foot 5 poster boy for the fitness revolution, but I'm..."
   "dependable... I always give it my all..."
   "I have a pretty broad taste..."
-  "I only do women and I adhere religiously to the 'Old Pig'-rule but other than that..."
+  "I only do women and I adhere religiously to the 'half-your-age-plus-7'-rule but other than that..."
   "I guess I do have obesity- and/or disfigurement-limits, but I haven't hit 'em yet, and as long as the little guy is ready for play, we go in there and give it our absolute all and best of all:"
   "I come with a 100% discretion guarantee, because:"
   "who's going to believe a claim that a beautiful young woman would pay me for sex anyway?!"
