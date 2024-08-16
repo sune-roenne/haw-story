@@ -64,7 +64,7 @@ Without taking his eyes off the waitress, John finishes undressing, grabs the bl
 The waitress runs to John and jumps onto him, with her legs clasping around his mid-section and kisses him violently. John - not able to move from being trapped in a dress 10 sizes and 1 sex too small - lets himself fall backwards onto his lower back with the waitress landing on top of him. 
 
 - (Waitress) "I don't want to do it in the Dirty Thirties John"
-  "I want to milk you right here in the dirty changing room" [drawing out the 'i' in 'dirty' on each occurrence]
+  "I want to milk you right here in the dirty changing room" [drawing out the 'i' in 'dirty']
 - (John) "I thought I was the dairymaid...?" [looking confused]
 - (Waitress) "I want you, John"
 - (John) "I want you, Angela"

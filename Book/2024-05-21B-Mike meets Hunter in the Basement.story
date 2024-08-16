@@ -52,7 +52,7 @@
   "You know the stairway by the Fund Accounting team...?"
   "Well, go down the stairs to the basement, and then when you are almost at the end of the hallway down there, there's a sign that says 'Sune'... That's the place!"
 - (Mike) "Well, there's no time like the present..." 
-  "I'll get on it right away" [shoots dual-yielded finger guns at Karl]
+  "I'll get on it right away" [shoots dual-wielded finger guns at Karl]
 
 Mike sets off down the hall in a cheery little skip, and almost bumps into John as he rounds the corner.
 

@@ -68,7 +68,7 @@ John DID know, because John HAD tried it, and there were other things wrong with
 - (Miss Jansen) "I want you to apply yourself John!"
   "You had so many options available to you, and you flushed them all down the pisser with drugs and anger issues!"
   "Most of your life, you've breezed through, always picking the path of least resistance, and when life gave you lemons..."
-  "you either through them away in anger or beat someone up and mugged them so you had money to buy soda pop"
+  "you either threw them away in anger or beat someone up and mugged them so you had money to buy soda pop"
 - (John) "That's not entirely true"
   "But you have made your point, and I have gotten the message"
 - (Miss Jansen) "That's good John!"
